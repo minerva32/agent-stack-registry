@@ -1,0 +1,26 @@
+name: Devin
+category: agent
+homepage: https://devin.ai
+license: Proprietary
+open_source: false
+interface: [web, api]
+supports: [code-edit, shell, file-ops, git, web-fetch, browser]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 6.1
+score_breakdown:
+  installability: 4
+  automation_readiness: 8
+  extensibility: 5
+  repo_clarity: 3
+  sandbox_safety: 9
+  reproducibility: 6
+  maintenance: 8
+tags: [cloud-agent, coding, commercial, autonomous, browser]
+notes:
+  - "Cognition AI가 개발한 최초 상용 자율 소프트웨어 엔지니어"
+  - "웹 브라우저 조작, 터미널, 코드편집 전 과정 자율 수행"
+  - "Jira, GitHub, Slack 연동 지원"
+  - "공개 GitHub 레포 없음 (완전 클로즈드소스)"
+evidence:
+  - "https://devin.ai"

@@ -1,0 +1,26 @@
+name: MCP Fetch
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
+license: MIT
+open_source: true
+interface: [mcp]
+supports: [web-fetch, html-to-markdown, chunked-reading]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 8.0
+score_breakdown:
+  installability: 9
+  automation_readiness: 9
+  extensibility: 6
+  repo_clarity: 9
+  sandbox_safety: 5
+  reproducibility: 9
+  maintenance: 8
+tags: [web-fetch, html-to-markdown, mcp-reference]
+notes:
+  - "URL 페이지를 HTML에서 Markdown으로 변환해 반환"
+  - "청크 단위 읽기 (start_index 파라미터)"
+  - "⚠️ 로컬/내부 IP 접근 가능 — SSRF 위험, 신뢰된 환경에서만 사용"
+  - "uvx mcp-server-fetch 즉시 실행 가능"
+evidence:
+  - "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch"

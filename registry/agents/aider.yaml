@@ -1,0 +1,28 @@
+name: Aider
+category: agent
+homepage: https://aider.chat
+license: Apache-2.0
+open_source: true
+interface: [cli]
+supports: [code-edit, shell, file-ops, git, multi-model]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 8.0
+score_breakdown:
+  installability: 9
+  automation_readiness: 9
+  extensibility: 7
+  repo_clarity: 9
+  sandbox_safety: 5
+  reproducibility: 8
+  maintenance: 9
+tags: [terminal-agent, coding, pair-programming, git]
+notes:
+  - "터미널 기반 AI 페어 프로그래밍 도구 (Python)"
+  - "GPT-4, Claude, Gemini 등 다양한 LLM 지원"
+  - "Git 자동 커밋 기능 내장"
+  - "SWE-bench 상위권 성능"
+  - "--architect 모드로 대형 리팩터링 지원"
+evidence:
+  - "https://github.com/Aider-AI/aider (stars: 42195, license: Apache-2.0)"
+  - "https://aider.chat"

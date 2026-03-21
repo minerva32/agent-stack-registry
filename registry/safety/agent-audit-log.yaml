@@ -1,0 +1,26 @@
+name: agent-audit-log
+category: safety
+homepage: https://owasp.org/www-project-top-10-for-large-language-model-applications/
+license: pattern/best-practice
+open_source: true
+supports: [structured-logging, opentelemetry, agent-tracing, compliance]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 8.3
+score_breakdown:
+  installability: 8
+  automation_readiness: 9
+  extensibility: 9
+  repo_clarity: 7
+  sandbox_safety: 8
+  reproducibility: 7
+  maintenance: 8
+tags: [audit-log, tracing, opentelemetry, langsmith, compliance, agent-observability]
+notes:
+  - "에이전트의 모든 도구 호출, 결정, 외부 액션을 구조화된 로그로 기록"
+  - "LangSmith, Phoenix(Arize), OpenTelemetry 기반 구현이 일반적"
+  - "OWASP LLM Top 10의 LLM08(Excessive Agency) 완화 수단으로 명시"
+  - "사후 forensics, 규정 준수(GDPR/SOC2), 에이전트 디버깅에 필수"
+evidence:
+  - "https://owasp.org/www-project-top-10-for-large-language-model-applications/"
+  - "https://docs.smith.langchain.com/"

@@ -1,0 +1,28 @@
+name: Repomix
+category: tool
+homepage: https://repomix.com
+license: MIT
+open_source: true
+interface: [cli, mcp, web]
+supports: [repo-to-text, token-counting, security-scanning, code-compression]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 9.0
+score_breakdown:
+  installability: 10
+  automation_readiness: 9
+  extensibility: 8
+  repo_clarity: 9
+  sandbox_safety: 8
+  reproducibility: 9
+  maintenance: 9
+tags: [repo-packing, llm-context, code-to-prompt, mcp, token-counting]
+notes:
+  - "전체 레포를 XML/Markdown/plain text로 단일 파일로 압축"
+  - "MCP 서버 모드로 Claude Desktop 등에서 직접 호출 가능"
+  - "--compress 옵션으로 Tree-sitter 기반 구조 보존 압축"
+  - "Secretlint 내장으로 민감 정보 필터링"
+  - "npx repomix 즉시 실행 (설치 불필요)"
+evidence:
+  - "https://github.com/yamadashy/repomix"
+  - "https://repomix.com"

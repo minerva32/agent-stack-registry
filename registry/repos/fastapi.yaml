@@ -1,0 +1,26 @@
+name: fastapi
+category: repo
+homepage: https://fastapi.tiangolo.com
+license: MIT
+open_source: true
+supports: [python, rest-api, type-hints, pydantic, openapi, pytest]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 9.0
+score_breakdown:
+  installability: 10
+  automation_readiness: 9
+  extensibility: 9
+  repo_clarity: 10
+  sandbox_safety: 8
+  reproducibility: 9
+  maintenance: 9
+tags: [fastapi, python, rest-api, type-safety, openapi, agent-target, swe-bench-featured]
+notes:
+  - "SWE-bench 데이터셋에서 빈번히 등장하는 agent 평가 대상"
+  - "타입힌트 기반으로 에이전트가 변경 영향 범위를 파악하기 쉬움"
+  - "테스트 커버리지 높음, CI 자동화 완비"
+  - "MIT 라이선스 — fork 및 PR 생성에 제약 없음"
+evidence:
+  - "https://github.com/fastapi/fastapi"
+  - "SWE-bench 데이터셋 repo 분포 상위권"

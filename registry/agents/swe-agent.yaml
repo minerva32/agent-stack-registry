@@ -1,0 +1,26 @@
+name: SWE-agent
+category: agent
+homepage: https://swe-agent.com
+license: MIT
+open_source: true
+interface: [cli, api]
+supports: [code-edit, shell, file-ops, git, web-fetch]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 8.1
+score_breakdown:
+  installability: 7
+  automation_readiness: 9
+  extensibility: 7
+  repo_clarity: 9
+  sandbox_safety: 8
+  reproducibility: 9
+  maintenance: 8
+tags: [terminal-agent, coding, research, github-issues, benchmark]
+notes:
+  - "Princeton NLP → SWE-agent org. NeurIPS 2024 논문"
+  - "GitHub 이슈를 자동으로 수정하는 agentic 파이프라인"
+  - "SWE-bench 벤치마크 설계팀이 직접 개발"
+  - "Docker 기반 격리 실행 지원"
+evidence:
+  - "https://github.com/SWE-agent/SWE-agent (MIT, stars: 18800)"

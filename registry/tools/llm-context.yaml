@@ -1,0 +1,27 @@
+name: llm-context
+category: tool
+homepage: https://github.com/cyberchitta/llm-context.py
+license: Apache-2.0
+open_source: true
+interface: [cli, mcp]
+supports: [context-extraction, clipboard, code-outline, rule-based-selection]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 8.0
+score_breakdown:
+  installability: 8
+  automation_readiness: 8
+  extensibility: 9
+  repo_clarity: 8
+  sandbox_safety: 8
+  reproducibility: 8
+  maintenance: 7
+tags: [llm-context, code-to-prompt, mcp, rule-based, clipboard]
+notes:
+  - "인간용(클립보드)과 에이전트용(MCP/CLI) 양쪽 워크플로우 지원"
+  - "rule 기반 composable 파일 선택"
+  - "Claude Desktop config에 추가하면 대화 중 파일 on-demand 접근 가능"
+  - "uv tool install 한 줄로 설치"
+evidence:
+  - "https://github.com/cyberchitta/llm-context.py"
+  - "https://pypi.org/project/llm-context"

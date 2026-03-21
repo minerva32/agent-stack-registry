@@ -1,0 +1,27 @@
+name: GitDiagram
+category: tool
+homepage: https://gitdiagram.com
+license: MIT
+open_source: true
+interface: [web, api]
+supports: [repo-visualization, mermaid-diagram, architecture-map]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 6.0
+score_breakdown:
+  installability: 5
+  automation_readiness: 6
+  extensibility: 6
+  repo_clarity: 8
+  sandbox_safety: 6
+  reproducibility: 7
+  maintenance: 7
+tags: [visualization, repo-diagram, mermaid, architecture]
+notes:
+  - "GitHub URL에서 'hub' → 'diagram'으로 치환하면 즉시 다이어그램 생성"
+  - "컴포넌트 클릭 → 소스 파일 직접 이동"
+  - "Public API는 개발 중(WIP) — 자동화 활용 시 주의"
+  - "Docker Compose 로컬 배포 지원"
+evidence:
+  - "https://github.com/ahmedkhaleel2004/gitdiagram"
+  - "https://gitdiagram.com"

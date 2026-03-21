@@ -1,0 +1,27 @@
+name: human-in-the-loop
+category: safety
+homepage: https://langchain-ai.github.io/langgraph/concepts/human_in_the_loop/
+license: pattern/best-practice
+open_source: true
+supports: [interrupt-on-action, approval-workflow, agent-pause, human-review]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 9.0
+score_breakdown:
+  installability: 8
+  automation_readiness: 7
+  extensibility: 9
+  repo_clarity: 8
+  sandbox_safety: 10
+  reproducibility: 8
+  maintenance: 9
+tags: [hitl, human-approval, interrupt, langgraph, agent-safety, supervised-autonomy]
+notes:
+  - "에이전트가 비가역적 액션 전에 사람의 승인을 기다리는 패턴"
+  - "LangGraph의 interrupt() API가 대표 구현체"
+  - "allow-once / allow-always / deny 세분화 승인 레벨이 핵심"
+  - "이메일 발송, 파일 삭제, 외부 API 쓰기 전 적용 필수"
+  - "OpenClaw도 exec 명령 approval-pending 메커니즘으로 이 패턴 구현"
+evidence:
+  - "https://langchain-ai.github.io/langgraph/concepts/human_in_the_loop/"
+  - "https://docs.anthropic.com/en/docs/build-with-claude/claude-code/settings#permissions"

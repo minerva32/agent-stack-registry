@@ -1,0 +1,26 @@
+name: Amp
+category: agent
+homepage: https://ampcode.com
+license: Proprietary
+open_source: false
+interface: [cli]
+supports: [code-edit, shell, file-ops, git, web-fetch]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 6.1
+score_breakdown:
+  installability: 7
+  automation_readiness: 8
+  extensibility: 5
+  repo_clarity: 5
+  sandbox_safety: 5
+  reproducibility: 5
+  maintenance: 8
+tags: [terminal-agent, coding, commercial, frontier-models]
+notes:
+  - "Sourcegraph가 만든 frontier coding agent"
+  - "개인 사용자 무마크업 pay-as-you-go 요금제"
+  - "2026년 2월 VS Code 익스텐션 폐기, 터미널 전용으로 전환"
+  - "skills 시스템으로 워크플로우 커스터마이징"
+evidence:
+  - "https://ampcode.com"

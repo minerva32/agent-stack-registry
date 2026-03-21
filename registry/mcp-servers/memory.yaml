@@ -1,0 +1,26 @@
+name: MCP Memory (Knowledge Graph)
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/servers/tree/main/src/memory
+license: MIT
+open_source: true
+interface: [mcp]
+supports: [knowledge-graph, persistent-memory, entity-relation, session-memory]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 8.0
+score_breakdown:
+  installability: 9
+  automation_readiness: 8
+  extensibility: 6
+  repo_clarity: 9
+  sandbox_safety: 9
+  reproducibility: 9
+  maintenance: 8
+tags: [memory, knowledge-graph, persistence, mcp-reference]
+notes:
+  - "엔티티/관계/관찰로 구성된 로컬 지식 그래프 기반 영속 메모리"
+  - "세션 간 사용자 정보 기억"
+  - "JSON Lines 파일 기반 저장, 네트워크 접근 없음"
+  - "npx -y @modelcontextprotocol/server-memory 즉시 실행"
+evidence:
+  - "https://github.com/modelcontextprotocol/servers/tree/main/src/memory"

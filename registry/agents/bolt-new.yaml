@@ -1,0 +1,26 @@
+name: Bolt.new
+category: agent
+homepage: https://bolt.new
+license: MIT
+open_source: true
+interface: [web]
+supports: [code-edit, file-ops, shell, deploy]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 6.0
+score_breakdown:
+  installability: 7
+  automation_readiness: 5
+  extensibility: 5
+  repo_clarity: 6
+  sandbox_safety: 8
+  reproducibility: 6
+  maintenance: 5
+tags: [web-agent, coding, fullstack, deploy, webcontainers]
+notes:
+  - "StackBlitz의 WebContainers 기술 기반 브라우저 내 풀스택 앱 생성"
+  - "프롬프트 → 실행 가능한 앱 즉시 배포"
+  - "공개 GitHub 레포는 커뮤니티 템플릿 (실서비스 코드 비공개)"
+  - "Anthropic Claude 백엔드 사용"
+evidence:
+  - "https://github.com/stackblitz/bolt.new (MIT, stars: 16258)"

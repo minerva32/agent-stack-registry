@@ -1,0 +1,27 @@
+name: OpenHands
+category: tool
+homepage: https://openhands.dev
+license: MIT
+open_source: true
+interface: [cli, api, web]
+supports: [code-edit, shell, file-ops, git, web-fetch, subagents, multi-model]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 9.0
+score_breakdown:
+  installability: 8
+  automation_readiness: 9
+  extensibility: 9
+  repo_clarity: 9
+  sandbox_safety: 7
+  reproducibility: 8
+  maintenance: 9
+tags: [coding-agent, software-engineer-agent, multi-llm, sdk, self-hosted]
+notes:
+  - "SDK, CLI, GUI, 클라우드 4가지 운영 모드 지원"
+  - "Python SDK로 커스텀 에이전트 정의 가능"
+  - "app.all-hands.dev에서 무료 체험 가능"
+  - "enterprise/ 디렉토리는 별도 라이선스"
+evidence:
+  - "https://github.com/All-Hands-AI/OpenHands"
+  - "https://docs.openhands.dev"

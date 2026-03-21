@@ -1,0 +1,26 @@
+name: MCP Sequential Thinking
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
+license: MIT
+open_source: true
+interface: [mcp]
+supports: [chain-of-thought, reasoning, hypothesis-generation, branch-thinking]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 7.3
+score_breakdown:
+  installability: 9
+  automation_readiness: 7
+  extensibility: 5
+  repo_clarity: 9
+  sandbox_safety: 10
+  reproducibility: 9
+  maintenance: 8
+tags: [reasoning, chain-of-thought, problem-solving, mcp-reference]
+notes:
+  - "복잡한 문제를 단계별로 분해, 수정 가능한 사고 체인 구성"
+  - "branchFromThought로 대안 추론 경로 탐색 가능"
+  - "외부 접근 없음, 순수 reasoning 도구"
+  - "npx -y @modelcontextprotocol/server-sequential-thinking"
+evidence:
+  - "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking"

@@ -1,0 +1,26 @@
+name: Continue
+category: agent
+homepage: https://docs.continue.dev
+license: Apache-2.0
+open_source: true
+interface: [vscode, cli]
+supports: [code-edit, file-ops, web-fetch, git, mcp]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 7.9
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 9
+  repo_clarity: 9
+  sandbox_safety: 6
+  reproducibility: 8
+  maintenance: 9
+tags: [vscode-extension, coding, ide-agent, mcp]
+notes:
+  - "VS Code / JetBrains 익스텐션 + 오픈소스 CLI"
+  - "MCP(Model Context Protocol) 지원"
+  - "모든 주요 LLM provider 지원 (local 포함)"
+  - "커스텀 슬래시 커맨드·컨텍스트 프로바이더 확장"
+evidence:
+  - "https://github.com/continuedev/continue (stars: 31957)"

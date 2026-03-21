@@ -1,0 +1,26 @@
+name: Goose
+category: agent
+homepage: https://block.github.io/goose/
+license: Apache-2.0
+open_source: true
+interface: [cli]
+supports: [code-edit, shell, file-ops, git, mcp]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 7.9
+score_breakdown:
+  installability: 8
+  automation_readiness: 8
+  extensibility: 9
+  repo_clarity: 8
+  sandbox_safety: 6
+  reproducibility: 7
+  maintenance: 9
+tags: [terminal-agent, coding, mcp, rust, extensible]
+notes:
+  - "Block(Square)이 만든 오픈소스 AI 에이전트 (Rust)"
+  - "MCP(Model Context Protocol) 완전 지원"
+  - "코드 제안을 넘어 설치·실행·편집·테스트 전 과정 수행"
+  - "모든 LLM 호환"
+evidence:
+  - "https://github.com/block/goose (Apache-2.0, stars: 33344)"

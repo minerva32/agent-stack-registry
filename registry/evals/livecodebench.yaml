@@ -1,0 +1,26 @@
+name: LiveCodeBench
+category: eval
+homepage: https://livecodebench.github.io/
+license: MIT
+open_source: true
+supports: [python, code-generation, code-execution, test-prediction]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 8.0
+score_breakdown:
+  installability: 9
+  automation_readiness: 8
+  extensibility: 7
+  repo_clarity: 9
+  sandbox_safety: 7
+  reproducibility: 8
+  maintenance: 9
+tags: [livecodebench, contamination-free, continuously-updated, leetcode, atcoder, codeforces]
+notes:
+  - "지속적으로 갱신되는 벤치마크 — LeetCode/AtCoder/CodeForces 신규 문제 자동 수집"
+  - "오염(contamination) 방지 설계: 훈련 데이터 이후 시점 문제만 포함"
+  - "코드 생성 외 self-repair, code execution, test output prediction 4가지 평가축"
+  - "HuggingFace 데이터셋 연동"
+evidence:
+  - "https://github.com/LiveCodeBench/LiveCodeBench"
+  - "https://livecodebench.github.io/leaderboard.html"

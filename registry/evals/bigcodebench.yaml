@@ -1,0 +1,27 @@
+name: BigCodeBench
+category: eval
+homepage: https://bigcode-bench.github.io/
+license: Apache-2.0
+open_source: true
+supports: [python, docker, code-generation, function-calling]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 8.3
+score_breakdown:
+  installability: 9
+  automation_readiness: 9
+  extensibility: 8
+  repo_clarity: 8
+  sandbox_safety: 8
+  reproducibility: 9
+  maintenance: 9
+tags: [bigcodebench, iclr-2025, code-generation, agi-benchmark, huggingface-leaderboard]
+notes:
+  - "ICLR 2025. 실세계 프로그래밍 태스크 중심 AGI 벤치마크"
+  - "pip install bigcodebench로 설치 용이"
+  - "Docker 이미지 제공, 완전 재현 가능"
+  - "163+ 모델 평가됨, HuggingFace 리더보드 제공"
+  - "BigCodeBench-Hard 서브셋 포함"
+evidence:
+  - "https://github.com/bigcode-project/bigcodebench"
+  - "https://arxiv.org/abs/2406.15877"

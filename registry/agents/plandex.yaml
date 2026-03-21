@@ -1,0 +1,26 @@
+name: Plandex
+category: agent
+homepage: https://plandex.ai
+license: MIT
+open_source: true
+interface: [cli]
+supports: [code-edit, file-ops, git, shell]
+status: active
+last_verified: "2026-03-21"
+agent_fit_score: 6.9
+score_breakdown:
+  installability: 8
+  automation_readiness: 8
+  extensibility: 6
+  repo_clarity: 8
+  sandbox_safety: 5
+  reproducibility: 7
+  maintenance: 6
+tags: [terminal-agent, coding, planning, large-projects]
+notes:
+  - "대규모 프로젝트를 위한 Go 기반 CLI 에이전트"
+  - "계획(plan) → 실행(execute) → 검토(review) 단계 구분"
+  - "샌드박스 내 변경사항 관리, 롤백 지원"
+  - "최근 5개월간 커밋 없음 (2025-10-03 이후) — 유지보수 주의"
+evidence:
+  - "https://github.com/plandex-ai/plandex (MIT, stars: 15114)"
