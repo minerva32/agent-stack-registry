@@ -5,7 +5,7 @@ license: MIT
 open_source: true
 supports: [bug-fix, code-edit, pull-request]
 status: active
-last_verified: 2026-03-01
+last_verified: "2026-03-01"
 agent_fit_score: 9.2
 tags: [eval, benchmark, software-engineering, real-world]
 notes:

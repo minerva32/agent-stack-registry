@@ -6,7 +6,7 @@ open_source: true
 interface: [cli, api]
 supports: [model-routing, provider-fallback, thinking-token, tool-parsing, discord-bot]
 status: active
-last_verified: 2026-03-01
+last_verified: "2026-03-01"
 agent_fit_score: 8.3
 tags: [routing, free-tier, nvidia-nim, openrouter, lm-studio, llama-cpp]
 notes:

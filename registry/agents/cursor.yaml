@@ -6,7 +6,7 @@ open_source: false
 interface: [vscode, mcp]
 supports: [code-edit, file-ops, web-fetch, codebase-search]
 status: active
-last_verified: 2026-03-01
+last_verified: "2026-03-01"
 agent_fit_score: 8.1
 score_breakdown:
   installability: 9

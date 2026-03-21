@@ -5,7 +5,7 @@ license: MIT
 open_source: true
 supports: [mcp-discovery, curation]
 status: active
-last_verified: 2026-03-01
+last_verified: "2026-03-01"
 agent_fit_score: 7.8
 tags: [mcp, awesome-list, discovery]
 notes:

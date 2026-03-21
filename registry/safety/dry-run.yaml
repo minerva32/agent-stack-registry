@@ -5,7 +5,7 @@ license: MIT
 open_source: true
 supports: [simulation, preview, safety]
 status: active
-last_verified: 2026-03-01
+last_verified: "2026-03-01"
 agent_fit_score: 8.8
 tags: [safety, dry-run, preview, simulation]
 notes:

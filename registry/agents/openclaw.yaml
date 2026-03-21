@@ -3,10 +3,10 @@ category: agent
 homepage: https://github.com/openclaw/openclaw
 license: MIT
 open_source: true
-interface: [cli, mcp, discord, telegram, signal]
+interface: [cli, mcp, api]
 supports: [code-edit, shell, file-ops, web-fetch, git, skills, subagents, messaging]
 status: active
-last_verified: 2026-03-01
+last_verified: "2026-03-01"
 agent_fit_score: 8.9
 score_breakdown:
   installability: 9
@@ -22,7 +22,7 @@ notes:
   - skill-based extensibility system
   - multi-agent orchestration via subagents
   - heartbeat/cron automation built-in
-  - conflict of interest note: maintained by openclaw community; evaluate independently
+  - 'conflict of interest: maintained by openclaw community; evaluate independently'
 evidence:
   - official repository
   - clawhub.com skill registry
