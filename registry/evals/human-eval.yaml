@@ -1,0 +1,17 @@
+name: HumanEval
+category: eval
+homepage: https://github.com/openai/human-eval
+license: MIT
+open_source: true
+supports: [code-generation, python]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.5
+tags: [eval, benchmark, code-generation, python]
+notes:
+  - classic code generation benchmark (164 Python tasks)
+  - widely used for model comparison
+  - less representative of real-world agentic tasks
+evidence:
+  - openai/human-eval repository
+  - published by OpenAI 2021

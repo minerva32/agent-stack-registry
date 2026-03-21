@@ -1,0 +1,26 @@
+name: Claude Code
+category: agent
+homepage: https://github.com/anthropics/claude-code
+license: Proprietary
+open_source: false
+interface: [cli, mcp]
+supports: [code-edit, shell, file-ops, web-fetch, git, subagents]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 9.2
+score_breakdown:
+  installability: 9
+  automation_readiness: 10
+  extensibility: 9
+  repo_clarity: 9
+  sandbox_safety: 9
+  reproducibility: 9
+  maintenance: 9
+tags: [terminal-agent, coding, mcp, anthropic]
+notes:
+  - best-in-class agentic coding capability
+  - native MCP support
+  - strong multi-step task handling
+evidence:
+  - official anthropic repository
+  - SWE-bench top performer

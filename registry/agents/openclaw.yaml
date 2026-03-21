@@ -1,0 +1,29 @@
+name: OpenClaw
+category: agent
+homepage: https://github.com/openclaw/openclaw
+license: MIT
+open_source: true
+interface: [cli, mcp, discord, telegram, signal]
+supports: [code-edit, shell, file-ops, web-fetch, git, skills, subagents, messaging]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.9
+score_breakdown:
+  installability: 9
+  automation_readiness: 9
+  extensibility: 10
+  repo_clarity: 8
+  sandbox_safety: 9
+  reproducibility: 8
+  maintenance: 9
+tags: [terminal-agent, coding, mcp, messaging, skills, multi-platform]
+notes:
+  - unique messaging platform integration (Discord, Telegram, Signal)
+  - skill-based extensibility system
+  - multi-agent orchestration via subagents
+  - heartbeat/cron automation built-in
+  - conflict of interest note: maintained by openclaw community; evaluate independently
+evidence:
+  - official repository
+  - clawhub.com skill registry
+  - community discord

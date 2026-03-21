@@ -1,0 +1,16 @@
+name: awesome-mcp-servers
+category: repo
+homepage: https://github.com/punkpeye/awesome-mcp-servers
+license: MIT
+open_source: true
+supports: [mcp-discovery, curation]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 7.8
+tags: [mcp, awesome-list, discovery]
+notes:
+  - comprehensive community-curated MCP server list
+  - good starting point for MCP discovery
+  - plain awesome list — no scoring or validation
+evidence:
+  - punkpeye/awesome-mcp-servers repository

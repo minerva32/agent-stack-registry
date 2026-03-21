@@ -1,0 +1,19 @@
+name: 9router
+category: tool
+homepage: https://github.com/decolua/9router
+license: MIT
+open_source: true
+interface: [cli, api]
+supports: [model-routing, provider-fallback, multi-account, rate-limiting, quota-tracking]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.6
+tags: [routing, provider, cost-optimization, multi-model, fallback]
+notes:
+  - routes Claude Code / Codex / Gemini CLI / OpenClaw to 40+ AI providers
+  - tiered fallback: subscription → cheap → free
+  - smart rate limiting + quota tracking
+  - compatible with any OpenAI-compatible endpoint
+evidence:
+  - decolua/9router repository
+  - npmjs.com/package/9router

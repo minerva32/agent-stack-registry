@@ -1,0 +1,18 @@
+name: free-claude-code
+category: tool
+homepage: https://github.com/Alishahryar1/free-claude-code
+license: MIT
+open_source: true
+interface: [cli, api]
+supports: [model-routing, provider-fallback, thinking-token, tool-parsing, discord-bot]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.3
+tags: [routing, free-tier, nvidia-nim, openrouter, lm-studio, llama-cpp]
+notes:
+  - routes Claude Code to NVIDIA NIM (40 req/min free), OpenRouter, LM Studio, llama.cpp
+  - per-model mapping (Opus/Sonnet/Haiku to different providers)
+  - heuristic tool parser for models outputting tool calls as text
+  - subagent control to prevent runaway agents
+evidence:
+  - Alishahryar1/free-claude-code repository

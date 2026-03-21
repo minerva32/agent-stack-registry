@@ -1,0 +1,26 @@
+name: Gemini CLI
+category: agent
+homepage: https://github.com/google-gemini/gemini-cli
+license: Apache-2.0
+open_source: true
+interface: [cli, mcp]
+supports: [code-edit, shell, file-ops, web-fetch, git]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.7
+score_breakdown:
+  installability: 9
+  automation_readiness: 9
+  extensibility: 8
+  repo_clarity: 9
+  sandbox_safety: 8
+  reproducibility: 9
+  maintenance: 9
+tags: [terminal-agent, coding, mcp, google]
+notes:
+  - strong for terminal workflows
+  - extensible via MCP
+  - 1M token context window advantage
+evidence:
+  - official google repository
+  - documentation at ai.google.dev

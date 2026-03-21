@@ -1,0 +1,17 @@
+name: dry-run pattern
+category: safety
+homepage: https://modelcontextprotocol.io/docs/concepts/tools#best-practices
+license: MIT
+open_source: true
+supports: [simulation, preview, safety]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.8
+tags: [safety, dry-run, preview, simulation]
+notes:
+  - simulate agent actions before executing
+  - reduces irreversible mistakes
+  - widely adopted in CLI agents (--dry-run flag)
+evidence:
+  - MCP best practices
+  - common pattern in Codex, OpenClaw, Claude Code

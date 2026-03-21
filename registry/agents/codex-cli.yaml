@@ -1,0 +1,24 @@
+name: Codex CLI
+category: agent
+homepage: https://github.com/openai/codex
+license: Apache-2.0
+open_source: true
+interface: [cli, mcp]
+supports: [code-edit, shell, file-ops, git]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.5
+score_breakdown:
+  installability: 9
+  automation_readiness: 9
+  extensibility: 8
+  repo_clarity: 8
+  sandbox_safety: 9
+  reproducibility: 8
+  maintenance: 8
+tags: [terminal-agent, coding, openai]
+notes:
+  - sandboxed execution by default
+  - strong approval/deny flow
+evidence:
+  - official openai repository

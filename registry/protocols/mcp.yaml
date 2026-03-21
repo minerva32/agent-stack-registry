@@ -1,0 +1,17 @@
+name: Model Context Protocol (MCP)
+category: protocol
+homepage: https://modelcontextprotocol.io
+license: MIT
+open_source: true
+interface: [mcp]
+supports: [tool-use, resource-access, prompt-templates, sampling]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 9.0
+tags: [protocol, mcp, anthropic, standard]
+notes:
+  - de-facto standard for agent-tool communication
+  - supported by Claude Code, Gemini CLI, OpenClaw, Cline and more
+evidence:
+  - modelcontextprotocol.io specification
+  - anthropic official announcement

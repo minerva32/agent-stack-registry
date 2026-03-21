@@ -1,0 +1,17 @@
+name: SWE-bench
+category: eval
+homepage: https://github.com/princeton-nlp/SWE-bench
+license: MIT
+open_source: true
+supports: [bug-fix, code-edit, pull-request]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 9.2
+tags: [eval, benchmark, software-engineering, real-world]
+notes:
+  - gold standard for coding agent benchmarking
+  - real GitHub issues from production repos
+  - SWE-bench Verified subset recommended for fair comparison
+evidence:
+  - princeton-nlp/SWE-bench repository
+  - published at ICLR 2024

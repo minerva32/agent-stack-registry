@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Agent Stack Registry Entry",
+  "type": "object",
+  "required": ["name", "category", "homepage", "license", "status", "last_verified", "agent_fit_score", "tags"],
+  "properties": {
+    "name": { "type": "string" },
+    "category": {
+      "type": "string",
+      "enum": ["agent", "tool", "protocol", "mcp-server", "template", "repo", "eval", "safety"]
+    },
+    "homepage": { "type": "string", "format": "uri" },
+    "license": { "type": "string" },
+    "open_source": { "type": "boolean" },
+    "interface": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["cli", "mcp", "api", "vscode", "web"] }
+    },
+    "supports": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "maintenance", "archived", "experimental"]
+    },
+    "last_verified": { "type": "string", "format": "date" },
+    "agent_fit_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 10,
+      "description": "Score based on: installability, automation readiness, extensibility, repo clarity, sandbox safety, reproducibility, maintenance (0-10)"
+    },
+    "score_breakdown": {
+      "type": "object",
+      "properties": {
+        "installability":        { "type": "number", "minimum": 0, "maximum": 10 },
+        "automation_readiness":  { "type": "number", "minimum": 0, "maximum": 10 },
+        "extensibility":         { "type": "number", "minimum": 0, "maximum": 10 },
+        "repo_clarity":          { "type": "number", "minimum": 0, "maximum": 10 },
+        "sandbox_safety":        { "type": "number", "minimum": 0, "maximum": 10 },
+        "reproducibility":       { "type": "number", "minimum": 0, "maximum": 10 },
+        "maintenance":           { "type": "number", "minimum": 0, "maximum": 10 }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "notes": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "evidence": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Sources that justify the score (official repo, docs, benchmark, community usage)"
+    }
+  }
+}

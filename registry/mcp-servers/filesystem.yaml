@@ -1,0 +1,16 @@
+name: filesystem MCP server
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+license: MIT
+open_source: true
+interface: [mcp]
+supports: [file-read, file-write, directory-list, file-search]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.5
+tags: [mcp-server, filesystem, official]
+notes:
+  - official reference implementation
+  - configurable allowed paths for safety
+evidence:
+  - official MCP servers repository

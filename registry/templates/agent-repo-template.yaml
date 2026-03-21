@@ -1,0 +1,15 @@
+name: agent-repo-template
+category: template
+homepage: https://github.com/agent-stack-registry/agent-repo-template
+license: MIT
+open_source: true
+supports: [repo-bootstrap, task-definition, ci-setup]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.5
+tags: [template, bootstrap, agent-friendly]
+notes:
+  - minimal repo structure optimized for agent tasks
+  - includes AGENTS.md, task definitions, CI pipeline
+evidence:
+  - examples/agent-template in this registry

@@ -1,0 +1,15 @@
+name: mcp-server-template
+category: template
+homepage: https://github.com/modelcontextprotocol/create-python-server
+license: MIT
+open_source: true
+supports: [mcp-server-bootstrap, python]
+status: active
+last_verified: 2026-03-01
+agent_fit_score: 8.3
+tags: [template, mcp, python, bootstrap]
+notes:
+  - official Python MCP server scaffold
+  - includes tool/resource/prompt handler examples
+evidence:
+  - modelcontextprotocol/create-python-server
