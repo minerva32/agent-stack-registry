@@ -12,7 +12,7 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 23429
-agent_fit_score: 5.0
+agent_fit_score: 4.9
 tags:
 - agent-skills
 - agentic-ai
@@ -27,10 +27,10 @@ notes:
 evidence:
 - https://github.com/OthmanAdi/planning-with-files
 score_breakdown:
-  installability: 4
+  installability: 3
   automation_readiness: 3
   extensibility: 7
   repo_clarity: 7
   sandbox_safety: 2
   reproducibility: 2
-  maintenance: 9.94
+  maintenance: 9.97

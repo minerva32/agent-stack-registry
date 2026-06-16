@@ -13,7 +13,7 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 18574
-agent_fit_score: 5.9
+agent_fit_score: 6.2
 tags:
 - ai-coding
 - claude
@@ -28,10 +28,10 @@ notes:
 evidence:
 - https://github.com/tirth8205/code-review-graph
 score_breakdown:
-  installability: 6
+  installability: 7
   automation_readiness: 7
   extensibility: 6
   repo_clarity: 10
   sandbox_safety: 2
   reproducibility: 2
-  maintenance: 8.629999999999999
+  maintenance: 9.315

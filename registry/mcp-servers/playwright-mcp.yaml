@@ -1,5 +1,3 @@
-# Auto-discovered: microsoft/playwright-mcp
-# Review and move to registry/<category>/ when ready
 name: playwright-mcp
 repo: microsoft/playwright-mcp
 category: mcp-server
@@ -12,12 +10,19 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 33991
-agent_fit_score: 5.0
+agent_fit_score: 6.4
 tags:
 - mcp
 - playwright
 notes:
-- Auto-discovered 2026-06-16
-- Playwright MCP server
+- Auto-scored 2026-06-16
 evidence:
 - https://github.com/microsoft/playwright-mcp
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 9.98

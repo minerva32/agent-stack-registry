@@ -12,17 +12,17 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 11937
-agent_fit_score: 5.6
+agent_fit_score: 5.9
 tags: []
 notes:
 - Auto-scored 2026-06-16
 evidence:
 - https://github.com/hangwin/mcp-chrome
 score_breakdown:
-  installability: 6
+  installability: 7
   automation_readiness: 7
   extensibility: 10
   repo_clarity: 7
   sandbox_safety: 2
   reproducibility: 2
-  maintenance: 5
+  maintenance: 6

@@ -13,7 +13,7 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 15930
-agent_fit_score: 5.5
+agent_fit_score: 5.4
 tags:
 - ai-agents
 - claude-code
@@ -28,10 +28,10 @@ notes:
 evidence:
 - https://github.com/mukul975/Anthropic-Cybersecurity-Skills
 score_breakdown:
-  installability: 4
+  installability: 3
   automation_readiness: 7
   extensibility: 7
   repo_clarity: 7
   sandbox_safety: 2
   reproducibility: 2
-  maintenance: 9.77
+  maintenance: 9.885

@@ -27,10 +27,10 @@ notes:
 evidence:
 - https://github.com/iOfficeAI/AionUi
 score_breakdown:
-  installability: 4
+  installability: 3
   automation_readiness: 6
   extensibility: 6
   repo_clarity: 7
   sandbox_safety: 2
   reproducibility: 2
-  maintenance: 8
+  maintenance: 9

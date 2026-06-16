@@ -12,17 +12,17 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 11597
-agent_fit_score: 5.1
+agent_fit_score: 5.0
 tags: []
 notes:
 - Auto-scored 2026-06-16
 evidence:
 - https://github.com/BeehiveInnovations/pal-mcp-server
 score_breakdown:
-  installability: 4
+  installability: 3
   automation_readiness: 7
   extensibility: 7
   repo_clarity: 8
   sandbox_safety: 2
   reproducibility: 2
-  maintenance: 5.67
+  maintenance: 6.335

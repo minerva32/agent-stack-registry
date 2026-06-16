@@ -26,10 +26,10 @@ notes:
 evidence:
 - https://github.com/PrefectHQ/fastmcp
 score_breakdown:
-  installability: 4
+  installability: 3
   automation_readiness: 10
   extensibility: 3
   repo_clarity: 7
   sandbox_safety: 2
   reproducibility: 2
-  maintenance: 8
+  maintenance: 9

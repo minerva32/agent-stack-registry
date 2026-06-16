@@ -10,7 +10,7 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 9279
-agent_fit_score: 6.1
+agent_fit_score: 6.0
 tags:
 - aws
 - mcp
@@ -25,7 +25,7 @@ notes:
 evidence:
 - https://github.com/awslabs/mcp
 score_breakdown:
-  installability: 4
+  installability: 3
   automation_readiness: 10
   extensibility: 10
   repo_clarity: 7

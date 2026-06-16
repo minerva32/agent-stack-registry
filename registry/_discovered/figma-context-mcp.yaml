@@ -11,7 +11,7 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 15126
-agent_fit_score: 5.4
+agent_fit_score: 5.3
 tags:
 - ai
 - cursor
@@ -23,10 +23,10 @@ notes:
 evidence:
 - https://github.com/GLips/Figma-Context-MCP
 score_breakdown:
-  installability: 4
+  installability: 3
   automation_readiness: 7
   extensibility: 6
   repo_clarity: 7
   sandbox_safety: 2
   reproducibility: 2
-  maintenance: 9.75
+  maintenance: 9.875
