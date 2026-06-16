@@ -1,5 +1,3 @@
-# Auto-discovered: iOfficeAI/AionUi
-# Review and move to registry/<category>/ when ready
 name: AionUi
 repo: iOfficeAI/AionUi
 category: agent
@@ -13,7 +11,7 @@ interface:
 - cli
 status: active
 last_verified: '2026-06-16'
-stars: 28369
+stars: 28370
 agent_fit_score: 5.0
 tags:
 - acp
@@ -25,8 +23,14 @@ tags:
 - claude-code
 - clawdbot
 notes:
-- Auto-discovered 2026-06-16
-- Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code,
-  Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assist
+- Auto-scored 2026-06-16
 evidence:
 - https://github.com/iOfficeAI/AionUi
+score_breakdown:
+  installability: 4
+  automation_readiness: 6
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8

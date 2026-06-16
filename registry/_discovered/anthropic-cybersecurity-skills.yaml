@@ -1,5 +1,3 @@
-# Auto-discovered: mukul975/Anthropic-Cybersecurity-Skills
-# Review and move to registry/<category>/ when ready
 name: Anthropic-Cybersecurity-Skills
 repo: mukul975/Anthropic-Cybersecurity-Skills
 category: agent
@@ -14,8 +12,8 @@ interface:
 - cli
 status: active
 last_verified: '2026-06-16'
-stars: 15929
-agent_fit_score: 5.0
+stars: 15930
+agent_fit_score: 5.5
 tags:
 - ai-agents
 - claude-code
@@ -26,8 +24,14 @@ tags:
 - incident-response
 - infosec
 notes:
-- Auto-discovered 2026-06-16
-- '754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE
-  ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskill'
+- Auto-scored 2026-06-16
 evidence:
 - https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 7
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 9.77

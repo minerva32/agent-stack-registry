@@ -1,5 +1,3 @@
-# Auto-discovered: 0x4m4/hexstrike-ai
-# Review and move to registry/<category>/ when ready
 name: hexstrike-ai
 repo: 0x4m4/hexstrike-ai
 category: mcp-server
@@ -13,8 +11,8 @@ interface:
 - mcp
 status: active
 last_verified: '2026-06-16'
-stars: 9620
-agent_fit_score: 5.0
+stars: 9621
+agent_fit_score: 5.2
 tags:
 - 0x4m4
 - ai
@@ -25,8 +23,14 @@ tags:
 - ai-security-tool
 - artificial-intelligence
 notes:
-- Auto-discovered 2026-06-16
-- HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT,
-  Copilot, etc.) autonomously run 150+ cybersecurity tools for autom
+- Auto-scored 2026-06-16
 evidence:
 - https://github.com/0x4m4/hexstrike-ai
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 9.1

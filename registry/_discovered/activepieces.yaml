@@ -1,5 +1,3 @@
-# Auto-discovered: activepieces/activepieces
-# Review and move to registry/<category>/ when ready
 name: activepieces
 repo: activepieces/activepieces
 category: mcp-server
@@ -13,8 +11,8 @@ interface:
 - mcp
 status: active
 last_verified: '2026-06-16'
-stars: 22784
-agent_fit_score: 5.0
+stars: 22786
+agent_fit_score: 4.7
 tags:
 - ai-agent
 - ai-agent-tools
@@ -25,8 +23,14 @@ tags:
 - mcp-tools
 - mcps
 notes:
-- Auto-discovered 2026-06-16
-- AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI
-  Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs fo
+- Auto-scored 2026-06-16
 evidence:
 - https://github.com/activepieces/activepieces
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8

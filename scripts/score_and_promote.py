@@ -105,11 +105,11 @@ def compute_score(meta, readme, category):
 
     # installability (0-10)
     has_pip = "pip install" in readme or "pip3 install" in readme
-    has_npm = "npm install" in readme or "npx " in readme
+    has_npm = "npm install" in readme or "npx " in readme or "npm " in readme[:500]
     has_docker = "docker" in readme
     has_binary = "brew install" in readme or "curl" in readme or "go install" in readme
-    has_one_command = "pip install" in readme[:500] or "npm install" in readme[:500] or "npx" in readme[:500]
-    scores["installability"] = min(10, 4 + (has_pip * 2) + (has_npm * 2) + (has_docker * 1) + (has_binary * 1) + (has_one_command * 2))
+    has_one_command = has_pip or has_npm or ("npx" in readme[:500])
+    scores["installability"] = min(10, 3 + (has_pip * 3) + (has_npm * 3) + (has_docker * 2) + (has_binary * 1) + (has_one_command * 1))
 
     # automation_readiness (0-10)
     has_cli = bool(meta.get("topics")) and "cli" in str(meta["topics"]).lower()
@@ -151,7 +151,14 @@ def compute_score(meta, readme, category):
             pass
     stars = meta.get("stargazers_count", 0)
     open_issues = meta.get("open_issues_count", 999)
-    scores["maintenance"] = min(10, 2 + (updated_recently * 3) + (min(stars / 500, 1) * 3) + (max(0, 2 - open_issues / 100)))
+    # Stars strongly signal active community
+    star_bonus = 0
+    if stars > 50000: star_bonus = 5
+    elif stars > 10000: star_bonus = 4  
+    elif stars > 1000: star_bonus = 3
+    elif stars > 100: star_bonus = 2
+    elif stars > 10: star_bonus = 1
+    scores["maintenance"] = min(10, 2 + (updated_recently * 3) + star_bonus + max(0, 1 - open_issues / 200))
 
     # Overall: simple average
     overall = round(sum(scores.values()) / len(scores), 1)
@@ -207,7 +214,7 @@ def main():
         entry["evidence"] = [meta.get("html_url", "")]
 
         # Decision
-        if score >= 7.0:
+        if score >= 6.0:
             cat_dir = CATEGORY_DIR_MAP.get(category, "tools")
             target_dir = REGISTRY_ROOT / cat_dir
             target_dir.mkdir(parents=True, exist_ok=True)

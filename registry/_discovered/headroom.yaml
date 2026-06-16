@@ -1,5 +1,3 @@
-# Auto-discovered: chopratejas/headroom
-# Review and move to registry/<category>/ when ready
 name: headroom
 repo: chopratejas/headroom
 category: mcp-server
@@ -12,8 +10,8 @@ interface:
 - mcp
 status: active
 last_verified: '2026-06-16'
-stars: 29687
-agent_fit_score: 5.0
+stars: 29716
+agent_fit_score: 5.1
 tags:
 - agent
 - ai
@@ -24,8 +22,14 @@ tags:
 - context-window
 - cursor
 notes:
-- Auto-discovered 2026-06-16
-- Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95%
-  fewer tokens, same answers. Library, proxy, MCP server.
+- Auto-scored 2026-06-16
 evidence:
 - https://github.com/chopratejas/headroom
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8

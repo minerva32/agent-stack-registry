@@ -1,5 +1,3 @@
-# Auto-discovered: creativetimofficial/ui
-# Review and move to registry/<category>/ when ready
 name: ui
 repo: creativetimofficial/ui
 category: tool
@@ -13,7 +11,7 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 11923
-agent_fit_score: 5.0
+agent_fit_score: 5.3
 tags:
 - admin
 - blocks
@@ -24,8 +22,14 @@ tags:
 - shadcn
 - shadcn-ui
 notes:
-- Auto-discovered 2026-06-16
-- Open-source components, blocks, and AI agents designed to speed up your workflow.
-  Import them seamlessly into your favorite tools through Registry and
+- Auto-scored 2026-06-16
 evidence:
 - https://github.com/creativetimofficial/ui
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.8100000000000005

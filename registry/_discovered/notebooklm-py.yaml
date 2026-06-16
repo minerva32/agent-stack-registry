@@ -1,5 +1,3 @@
-# Auto-discovered: teng-lin/notebooklm-py
-# Review and move to registry/<category>/ when ready
 name: notebooklm-py
 repo: teng-lin/notebooklm-py
 category: agent
@@ -14,8 +12,8 @@ interface:
 - api
 status: active
 last_verified: '2026-06-16'
-stars: 16516
-agent_fit_score: 5.0
+stars: 16517
+agent_fit_score: 6.1
 tags:
 - agentic-skill
 - api
@@ -26,8 +24,14 @@ tags:
 - notebooklm-api
 - notebooklm-skill
 notes:
-- Auto-discovered 2026-06-16
-- Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
-  access to NotebookLM's features—including capabilities the web UI doe
+- Auto-scored 2026-06-16
 evidence:
 - https://github.com/teng-lin/notebooklm-py
+score_breakdown:
+  installability: 6
+  automation_readiness: 5
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 4
+  reproducibility: 2
+  maintenance: 9.97
