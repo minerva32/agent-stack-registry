@@ -1,0 +1,30 @@
+# Auto-discovered: PrefectHQ/fastmcp
+# Review and move to registry/<category>/ when ready
+name: fastmcp
+repo: PrefectHQ/fastmcp
+category: mcp-server
+homepage: https://github.com/PrefectHQ/fastmcp
+description: 🚀 The fast, Pythonic way to build MCP servers and clients.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 25665
+agent_fit_score: 5.0
+tags:
+- agents
+- fastmcp
+- llms
+- mcp
+- mcp-clients
+- mcp-servers
+- mcp-tools
+- model-context-protocol
+notes:
+- Auto-discovered 2026-06-16
+- 🚀 The fast, Pythonic way to build MCP servers and clients.
+evidence:
+- https://github.com/PrefectHQ/fastmcp

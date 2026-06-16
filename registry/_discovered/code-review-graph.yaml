@@ -1,0 +1,33 @@
+# Auto-discovered: tirth8205/code-review-graph
+# Review and move to registry/<category>/ when ready
+name: code-review-graph
+repo: tirth8205/code-review-graph
+category: tool
+homepage: https://github.com/tirth8205/code-review-graph
+description: Local-first code intelligence graph for MCP and CLI. Builds a persistent
+  map of your codebase so AI coding tools read only what matters, with benchmarked
+  context reductions on reviews and large-repo w
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 18573
+agent_fit_score: 5.0
+tags:
+- ai-coding
+- claude
+- claude-code
+- code-review
+- graphrag
+- incremental
+- knowledge-graph
+- llm
+notes:
+- Auto-discovered 2026-06-16
+- Local-first code intelligence graph for MCP and CLI. Builds a persistent map of
+  your codebase so AI coding tools read only what matters, with benchmar
+evidence:
+- https://github.com/tirth8205/code-review-graph

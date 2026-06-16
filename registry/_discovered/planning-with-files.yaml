@@ -1,0 +1,32 @@
+# Auto-discovered: OthmanAdi/planning-with-files
+# Review and move to registry/<category>/ when ready
+name: planning-with-files
+repo: OthmanAdi/planning-with-files
+category: agent
+homepage: https://github.com/OthmanAdi/planning-with-files
+description: Persistent file-based planning for AI coding agents and long-running
+  agentic tasks. Crash-proof markdown plans that survive context loss and /clear,
+  plus a deterministic completion gate and multi-agen
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 23428
+agent_fit_score: 5.0
+tags:
+- agent-skills
+- agentic-ai
+- ai-agents
+- autonomous-agents
+- claude
+- claude-code
+- claude-skills
+- codex
+notes:
+- Auto-discovered 2026-06-16
+- Persistent file-based planning for AI coding agents and long-running agentic tasks.
+  Crash-proof markdown plans that survive context loss and /clear, p
+evidence:
+- https://github.com/OthmanAdi/planning-with-files

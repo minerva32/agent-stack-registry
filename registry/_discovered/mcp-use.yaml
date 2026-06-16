@@ -1,0 +1,31 @@
+# Auto-discovered: mcp-use/mcp-use
+# Review and move to registry/<category>/ when ready
+name: mcp-use
+repo: mcp-use/mcp-use
+category: mcp-server
+homepage: https://github.com/mcp-use/mcp-use
+description: The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude
+  & MCP Servers for AI Agents.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 10110
+agent_fit_score: 5.0
+tags:
+- agentic-framework
+- ai
+- apps-sdk
+- chatgpt
+- claude-code
+- llms
+- mcp
+- mcp-apps
+notes:
+- Auto-discovered 2026-06-16
+- The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers
+  for AI Agents.
+evidence:
+- https://github.com/mcp-use/mcp-use

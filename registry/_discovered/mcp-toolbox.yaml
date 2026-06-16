@@ -1,0 +1,29 @@
+# Auto-discovered: googleapis/mcp-toolbox
+# Review and move to registry/<category>/ when ready
+name: mcp-toolbox
+repo: googleapis/mcp-toolbox
+category: tool
+homepage: https://github.com/googleapis/mcp-toolbox
+description: MCP Toolbox for Databases is an open source MCP server for databases.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 15630
+agent_fit_score: 5.0
+tags:
+- agent
+- agents
+- ai
+- bigquery
+- clickhouse
+- cockroachdb
+- database
+- elasticsearch
+notes:
+- Auto-discovered 2026-06-16
+- MCP Toolbox for Databases is an open source MCP server for databases.
+evidence:
+- https://github.com/googleapis/mcp-toolbox

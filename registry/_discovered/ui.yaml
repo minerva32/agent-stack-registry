@@ -1,0 +1,31 @@
+# Auto-discovered: creativetimofficial/ui
+# Review and move to registry/<category>/ when ready
+name: ui
+repo: creativetimofficial/ui
+category: tool
+homepage: https://github.com/creativetimofficial/ui
+description: Open-source components, blocks, and AI agents designed to speed up your
+  workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 11923
+agent_fit_score: 5.0
+tags:
+- admin
+- blocks
+- creative-tim
+- creative-tim-blocks
+- creative-tim-ui
+- eleven-labs
+- shadcn
+- shadcn-ui
+notes:
+- Auto-discovered 2026-06-16
+- Open-source components, blocks, and AI agents designed to speed up your workflow.
+  Import them seamlessly into your favorite tools through Registry and
+evidence:
+- https://github.com/creativetimofficial/ui

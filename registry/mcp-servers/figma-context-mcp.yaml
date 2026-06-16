@@ -1,0 +1,27 @@
+# Auto-discovered: GLips/Figma-Context-MCP
+# Review and move to registry/<category>/ when ready
+name: Figma-Context-MCP
+repo: GLips/Figma-Context-MCP
+category: mcp-server
+homepage: https://github.com/GLips/Figma-Context-MCP
+description: MCP server to provide Figma layout information to AI coding agents like
+  Cursor
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 15126
+agent_fit_score: 5.0
+tags:
+- ai
+- cursor
+- figma
+- mcp
+- typescript
+notes:
+- Auto-discovered 2026-06-16
+- MCP server to provide Figma layout information to AI coding agents like Cursor
+evidence:
+- https://github.com/GLips/Figma-Context-MCP

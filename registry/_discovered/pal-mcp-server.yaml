@@ -1,0 +1,24 @@
+# Auto-discovered: BeehiveInnovations/pal-mcp-server
+# Review and move to registry/<category>/ when ready
+name: pal-mcp-server
+repo: BeehiveInnovations/pal-mcp-server
+category: mcp-server
+homepage: https://github.com/BeehiveInnovations/pal-mcp-server
+description: The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI /
+  OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as
+  one.
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 11597
+agent_fit_score: 5.0
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+- 'The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter
+  / Azure / Grok / Ollama / Custom Model / All Of The Above] working as '
+evidence:
+- https://github.com/BeehiveInnovations/pal-mcp-server

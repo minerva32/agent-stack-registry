@@ -1,0 +1,33 @@
+# Auto-discovered: teng-lin/notebooklm-py
+# Review and move to registry/<category>/ when ready
+name: notebooklm-py
+repo: teng-lin/notebooklm-py
+category: agent
+homepage: https://github.com/teng-lin/notebooklm-py
+description: Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
+  access to NotebookLM's features—including capabilities the web UI doesn't expose—via
+  Python, CLI, and AI agents like Cl
+license: MIT
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 16516
+agent_fit_score: 5.0
+tags:
+- agentic-skill
+- api
+- claude
+- claude-skills
+- google-notebooklm
+- notebooklm
+- notebooklm-api
+- notebooklm-skill
+notes:
+- Auto-discovered 2026-06-16
+- Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
+  access to NotebookLM's features—including capabilities the web UI doe
+evidence:
+- https://github.com/teng-lin/notebooklm-py

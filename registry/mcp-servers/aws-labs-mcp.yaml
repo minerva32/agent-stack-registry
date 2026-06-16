@@ -1,0 +1,29 @@
+# Auto-discovered: awslabs/mcp
+# Review and move to registry/<category>/ when ready
+name: mcp
+repo: awslabs/mcp
+category: mcp-server
+homepage: https://github.com/awslabs/mcp
+description: Open source MCP Servers for AWS
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 9279
+agent_fit_score: 5.0
+tags:
+- aws
+- mcp
+- mcp-client
+- mcp-clients
+- mcp-host
+- mcp-server
+- mcp-servers
+- mcp-tools
+notes:
+- Auto-discovered 2026-06-16
+- Open source MCP Servers for AWS
+evidence:
+- https://github.com/awslabs/mcp

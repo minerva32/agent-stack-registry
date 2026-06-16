@@ -1,0 +1,23 @@
+# Auto-discovered: microsoft/playwright-mcp
+# Review and move to registry/<category>/ when ready
+name: playwright-mcp
+repo: microsoft/playwright-mcp
+category: mcp-server
+homepage: https://github.com/microsoft/playwright-mcp
+description: Playwright MCP server
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 33991
+agent_fit_score: 5.0
+tags:
+- mcp
+- playwright
+notes:
+- Auto-discovered 2026-06-16
+- Playwright MCP server
+evidence:
+- https://github.com/microsoft/playwright-mcp

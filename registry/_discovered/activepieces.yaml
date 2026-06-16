@@ -1,0 +1,32 @@
+# Auto-discovered: activepieces/activepieces
+# Review and move to registry/<category>/ when ready
+name: activepieces
+repo: activepieces/activepieces
+category: mcp-server
+homepage: https://github.com/activepieces/activepieces
+description: AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI
+  agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for
+  AI Agents
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 22784
+agent_fit_score: 5.0
+tags:
+- ai-agent
+- ai-agent-tools
+- ai-agents
+- ai-agents-framework
+- mcp
+- mcp-server
+- mcp-tools
+- mcps
+notes:
+- Auto-discovered 2026-06-16
+- AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI
+  Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs fo
+evidence:
+- https://github.com/activepieces/activepieces

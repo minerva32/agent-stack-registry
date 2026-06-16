@@ -1,0 +1,33 @@
+# Auto-discovered: langchain4j/langchain4j
+# Review and move to registry/<category>/ when ready
+name: langchain4j
+repo: langchain4j/langchain4j
+category: tool
+homepage: https://github.com/langchain4j/langchain4j
+description: LangChain4j is an idiomatic, open-source Java library for building LLM-powered
+  applications on the JVM. It offers a unified API over popular LLM providers and
+  vector stores, and makes implementing too
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 12347
+agent_fit_score: 5.0
+tags:
+- anthropic
+- chatgpt
+- chroma
+- embeddings
+- gemini
+- gpt
+- huggingface
+- java
+notes:
+- Auto-discovered 2026-06-16
+- LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications
+  on the JVM. It offers a unified API over popular LLM provi
+evidence:
+- https://github.com/langchain4j/langchain4j

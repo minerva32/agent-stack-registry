@@ -1,0 +1,31 @@
+# Auto-discovered: chopratejas/headroom
+# Review and move to registry/<category>/ when ready
+name: headroom
+repo: chopratejas/headroom
+category: mcp-server
+homepage: https://github.com/chopratejas/headroom
+description: Compress tool outputs, logs, files, and RAG chunks before they reach
+  the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 29687
+agent_fit_score: 5.0
+tags:
+- agent
+- ai
+- anthropic
+- claude-code
+- compression
+- context-engineering
+- context-window
+- cursor
+notes:
+- Auto-discovered 2026-06-16
+- Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95%
+  fewer tokens, same answers. Library, proxy, MCP server.
+evidence:
+- https://github.com/chopratejas/headroom
