@@ -1,0 +1,27 @@
+name: napkin
+repo: Michaelliv/napkin
+category: tool
+homepage: https://github.com/Michaelliv/napkin
+description: 🧻 Knowledge system for agents. Local-first, file-based, progressively
+  disclosed.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 393
+agent_fit_score: 4.5
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Michaelliv/napkin
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.994

@@ -1,0 +1,34 @@
+name: browser-use
+repo: browser-use/browser-use
+category: tool
+homepage: https://github.com/browser-use/browser-use
+description: 🌐 Make websites accessible for AI agents. Automate tasks online with
+  ease.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 99130
+agent_fit_score: 4.9
+tags:
+- ai-agents
+- ai-tools
+- browser-automation
+- browser-use
+- llm
+- playwright
+- python
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/browser-use/browser-use
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.74
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.394

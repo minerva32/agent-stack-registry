@@ -1,0 +1,35 @@
+name: camofox-browser
+repo: jo-inc/camofox-browser
+category: tool
+homepage: https://github.com/jo-inc/camofox-browser
+description: Stealth headless browser for AI agents — bypass Cloudflare, bot detection,
+  and anti-scraping. Drop-in Puppeteer/Playwright replacement.
+license: MIT
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 6835
+agent_fit_score: 6.9
+tags:
+- ai-agent
+- anti-bot
+- antidetect-browser
+- automation
+- bot-detection
+- browser-automation
+- cloudflare-bypass
+- headless-browser
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/jo-inc/camofox-browser
+score_breakdown:
+  installability: 10
+  automation_readiness: 5
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.455

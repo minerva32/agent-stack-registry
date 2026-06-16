@@ -1,0 +1,36 @@
+name: DocsGPT
+repo: arc53/DocsGPT
+category: tool
+homepage: https://github.com/arc53/DocsGPT
+description: Private AI platform for agents, assistants and enterprise search. Built-in
+  Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity
+  for agents.
+license: MIT
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 17939
+agent_fit_score: 6.2
+tags:
+- agent-builder
+- agents
+- ai
+- chatgpt
+- docsgpt
+- hacktoberfest
+- hacktoberfest2025
+- information-retrieval
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/arc53/DocsGPT
+score_breakdown:
+  installability: 5
+  automation_readiness: 5
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 9.575

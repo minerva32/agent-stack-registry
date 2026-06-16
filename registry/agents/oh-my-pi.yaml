@@ -1,0 +1,36 @@
+name: oh-my-pi
+repo: can1357/oh-my-pi
+category: agent
+homepage: https://github.com/can1357/oh-my-pi
+description: ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized
+  tool harness, LSP, Python, browser, subagents, and more
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 12791
+agent_fit_score: 6.4
+tags:
+- ai-agent
+- ai-coding-agent
+- anthropic
+- bun
+- claude
+- cli
+- coding-assistant
+- llm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/can1357/oh-my-pi
+score_breakdown:
+  installability: 8
+  automation_readiness: 10
+  extensibility: 3
+  repo_clarity: 8.24
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.358

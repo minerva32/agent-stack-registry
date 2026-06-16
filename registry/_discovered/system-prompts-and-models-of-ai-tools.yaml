@@ -1,0 +1,36 @@
+name: system-prompts-and-models-of-ai-tools
+repo: x1xhlol/system-prompts-and-models-of-ai-tools
+category: agent
+homepage: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+description: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin
+  AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke,
+  Qoder, Replit, Same.dev, Trae, Traycer AI, V
+license: GPL-3.0
+open_source: true
+interface:
+- vscode
+status: active
+last_verified: '2026-06-16'
+stars: 140657
+agent_fit_score: 4.3
+tags:
+- ai
+- bolt
+- cluely
+- copilot
+- cursor
+- cursorai
+- devin
+- github-copilot
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 10

@@ -1,0 +1,32 @@
+name: awesome-ai-apps
+repo: Arindam200/awesome-ai-apps
+category: tool
+homepage: https://github.com/Arindam200/awesome-ai-apps
+description: A collection of projects showcasing RAG, agents, workflows, and other
+  AI use cases
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 12843
+agent_fit_score: 5.4
+tags:
+- agents
+- ai
+- hacktoberfest
+- llm
+- mcp
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/Arindam200/awesome-ai-apps
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.82
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.86

@@ -13,7 +13,7 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 12347
-agent_fit_score: 4.9
+agent_fit_score: 4.6
 tags:
 - anthropic
 - chatgpt
@@ -28,10 +28,10 @@ notes:
 evidence:
 - https://github.com/langchain4j/langchain4j
 score_breakdown:
-  installability: 3
-  automation_readiness: 5
-  extensibility: 6
-  repo_clarity: 7
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8
   sandbox_safety: 2
-  reproducibility: 2
-  maintenance: 9
+  reproducibility: 5
+  maintenance: 7.416

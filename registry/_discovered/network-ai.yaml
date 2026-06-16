@@ -1,0 +1,35 @@
+name: Network-AI
+repo: Jovancoding/Network-AI
+category: safety
+homepage: https://github.com/Jovancoding/Network-AI
+description: Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator
+  with shared state, guardrails, and adapters for 29 AI frameworks
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 63
+agent_fit_score: 5.5
+tags:
+- agent-framework
+- agent-orchestration
+- ai-agents
+- autogen
+- blackboard
+- blackboard-architecture
+- crewai
+- hermes
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/Jovancoding/Network-AI
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9.370000000000001
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.998

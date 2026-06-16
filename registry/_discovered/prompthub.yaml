@@ -1,0 +1,35 @@
+name: PromptHub
+repo: legeling/PromptHub
+category: tool
+homepage: https://github.com/legeling/PromptHub
+description: 一款包含了 Prompt管理，Skill管理，Agent管理的一站式AI工具箱，助你高效管理提示词，一键分发skills ，一站式管理Agent资产，并实现云同步，备份，版本管理
+  | An all-in-one AI toolbox for prompt, agent, and skills management. Reuse prompts,
+  distribute skills with one
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1376
+agent_fit_score: 4.8
+tags:
+- agent
+- ai
+- cli-tool
+- llm
+- prompt
+- prompt-toolkit
+- skills
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/legeling/PromptHub
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.946

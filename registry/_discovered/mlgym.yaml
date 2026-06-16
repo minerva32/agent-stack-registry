@@ -1,0 +1,26 @@
+name: MLGym
+repo: facebookresearch/MLGym
+category: eval
+homepage: https://github.com/facebookresearch/MLGym
+description: MLGym A New Framework and Benchmark for Advancing AI Research Agents
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 604
+agent_fit_score: 3.2
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/facebookresearch/MLGym
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 2.68
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.982

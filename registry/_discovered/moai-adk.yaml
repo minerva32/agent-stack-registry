@@ -1,0 +1,36 @@
+name: moai-adk
+repo: modu-ai/moai-adk
+category: agent
+homepage: https://github.com/modu-ai/moai-adk
+description: SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52
+  skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI,
+  zero deps.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1078
+agent_fit_score: 4.9
+tags:
+- agent-teams
+- agentic-ai
+- agentic-coding
+- agentic-workflow
+- ai-agent
+- ai-coding
+- anthropic
+- claude
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/modu-ai/moai-adk
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.63
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.996

@@ -1,0 +1,32 @@
+name: agent-zero
+repo: agent0ai/agent-zero
+category: tool
+homepage: https://github.com/agent0ai/agent-zero
+description: Agent Zero AI framework
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 18104
+agent_fit_score: 3.8
+tags:
+- agent
+- ai
+- assistant
+- autonomous
+- linux
+- zero
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/agent0ai/agent-zero
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 2.23
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.286

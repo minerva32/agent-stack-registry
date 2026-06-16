@@ -1,0 +1,29 @@
+name: Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273
+repo: NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273
+category: tool
+homepage: https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273
+description: RNA vaccines have become a key tool in moving forward through the challenges
+  raised both in the current pandemic and in numerous other public health and medical
+  challenges.  With the rollout of vaccin
+license: unknown
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 3354
+agent_fit_score: 3.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.996

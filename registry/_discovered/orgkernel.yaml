@@ -1,0 +1,28 @@
+name: OrgKernel
+repo: MetapriseAI/OrgKernel
+category: safety
+homepage: https://github.com/MetapriseAI/OrgKernel
+description: Open-source trust layer for AI agents — cryptographic agent identity
+  (Ed25519), instance-scoped execution tokens, SHA-256 hash-chained audit logging,
+  and enterprise SSO/SCIM federation. The security f
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1498
+agent_fit_score: 5.1
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/MetapriseAI/OrgKernel
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8

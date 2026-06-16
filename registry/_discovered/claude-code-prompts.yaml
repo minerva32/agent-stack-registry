@@ -1,0 +1,36 @@
+name: claude-code-prompts
+repo: repowise-dev/claude-code-prompts
+category: tool
+homepage: https://github.com/repowise-dev/claude-code-prompts
+description: Independently authored prompt templates for AI coding agents — system
+  prompts, tool prompts, agent delegation, memory management, and multi-agent coordination.
+  Informed by studying Claude Code.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1094
+agent_fit_score: 4.8
+tags:
+- ai-coding-agent
+- ai-tools
+- anthropic-claude
+- claude-code
+- claude-code-prompts
+- claude-code-system-prompt
+- claude-prompts
+- coding-assistant
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/repowise-dev/claude-code-prompts
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.93
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.998

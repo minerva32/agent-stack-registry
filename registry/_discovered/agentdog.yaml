@@ -1,0 +1,26 @@
+name: AgentDoG
+repo: AI45Lab/AgentDoG
+category: safety
+homepage: https://github.com/AI45Lab/AgentDoG
+description: A Diagnostic Guardrail Framework for AI Agent Safety and Security
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 624
+agent_fit_score: 3.8
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/AI45Lab/AgentDoG
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.65
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6.998

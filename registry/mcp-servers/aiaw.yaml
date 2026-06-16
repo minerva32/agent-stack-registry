@@ -1,0 +1,37 @@
+name: AIaW
+repo: NitroRCr/AIaW
+category: mcp-server
+homepage: https://github.com/NitroRCr/AIaW
+description: AI as Workspace - An elegant AI chat client. Full-featured, lightweight.
+  Support multiple workspaces, plugin system, cross-platform, local first + real-time
+  cloud sync, Artifacts, MCP | 更好的 AI 客户端
+license: BSD-3-Clause
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1814
+agent_fit_score: 6.5
+tags:
+- ai
+- chatgpt
+- claude
+- cross-platform
+- docker
+- function-calling
+- llm
+- local-first
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/NitroRCr/AIaW
+score_breakdown:
+  installability: 8
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.96
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.882

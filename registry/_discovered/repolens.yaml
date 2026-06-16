@@ -1,0 +1,27 @@
+name: RepoLens
+repo: TheMorpheus407/RepoLens
+category: tool
+homepage: https://github.com/TheMorpheus407/RepoLens
+description: Multi-lens code audit tool — 280 expert AI agents for code review, security
+  testing, and infrastructure auditing
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 272
+agent_fit_score: 4.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/TheMorpheus407/RepoLens
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.12
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.998

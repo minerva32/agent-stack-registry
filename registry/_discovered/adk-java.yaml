@@ -1,0 +1,35 @@
+name: adk-java
+repo: google/adk-java
+category: eval
+homepage: https://github.com/google/adk-java
+description: An open-source, code-first Java toolkit for building, evaluating, and
+  deploying sophisticated AI agents with flexibility and control.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1599
+agent_fit_score: 4.4
+tags:
+- agent
+- agentic
+- agentic-ai
+- agentic-workflow
+- agents
+- agents-sdk
+- ai
+- ai-agents
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/google/adk-java
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.33
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.756

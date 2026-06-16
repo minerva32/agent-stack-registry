@@ -1,0 +1,35 @@
+name: open-webui
+repo: open-webui/open-webui
+category: mcp-server
+homepage: https://github.com/open-webui/open-webui
+description: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 141808
+agent_fit_score: 4.8
+tags:
+- ai
+- llm
+- llm-ui
+- llm-webui
+- llms
+- mcp
+- ollama
+- ollama-webui
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/open-webui/open-webui
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 4.61
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 9.042

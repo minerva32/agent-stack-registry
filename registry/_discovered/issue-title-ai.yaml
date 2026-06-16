@@ -1,0 +1,28 @@
+name: issue-title-ai
+repo: horw/issue-title-ai
+category: tool
+homepage: https://github.com/horw/issue-title-ai
+description: Are your GitHub issues a chaotic mess of vague and boring titles like
+  “Fix it” or “Doesn’t work”? This GitHub Actions plugin swoops in to help. It automatically
+  scans all issues in a repository and re
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 13
+agent_fit_score: 4.4
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/horw/issue-title-ai
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 2.982

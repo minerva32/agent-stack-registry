@@ -1,0 +1,34 @@
+name: holmesgpt
+repo: HolmesGPT/holmesgpt
+category: safety
+homepage: https://github.com/HolmesGPT/holmesgpt
+description: SRE Agent - CNCF Sandbox Project
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2643
+agent_fit_score: 5.5
+tags:
+- aiops
+- chatbot
+- chatops
+- devops
+- devops-tools
+- incident
+- incident-management
+- incident-response
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/HolmesGPT/holmesgpt
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.32
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.406

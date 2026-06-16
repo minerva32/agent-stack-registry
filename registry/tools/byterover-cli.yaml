@@ -1,0 +1,36 @@
+name: byterover-cli
+repo: campfirein/byterover-cli
+category: tool
+homepage: https://github.com/campfirein/byterover-cli
+description: ByteRover CLI (brv) - The portable memory layer for  autonomous coding
+  agents (formerly Cipher)
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4855
+agent_fit_score: 6.6
+tags:
+- agent
+- ai
+- autonomous-agents
+- cli
+- coding-assistant
+- context-memory
+- developer-tools
+- knowledge-management
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/campfirein/byterover-cli
+score_breakdown:
+  installability: 8
+  automation_readiness: 10
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 4
+  reproducibility: 2
+  maintenance: 8.925

@@ -1,0 +1,28 @@
+name: apple-mcp
+repo: supermemoryai/apple-mcp
+category: mcp-server
+homepage: https://github.com/supermemoryai/apple-mcp
+description: Collection of apple-native tools for the model context protocol.
+license: MIT
+open_source: true
+interface:
+- cli
+status: archived
+last_verified: '2026-06-16'
+stars: 3117
+agent_fit_score: 5.1
+tags:
+- applescripts
+- modelcontextprotocol
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/supermemoryai/apple-mcp
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.64
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.974

@@ -1,0 +1,35 @@
+name: CodeMachine-CLI
+repo: moazbuilds/CodeMachine-CLI
+category: agent
+homepage: https://github.com/moazbuilds/CodeMachine-CLI
+description: CodeMachine is an open-source tool that orchestrates AI coding agents
+  into repeatable, long-running workflows. ⚡️
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2491
+agent_fit_score: 5.0
+tags:
+- ai
+- automation
+- cli
+- cli-tool
+- code-generation
+- developer-tools
+- generative-ai
+- multi-agent-systems
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/moazbuilds/CodeMachine-CLI
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 6.13
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.982

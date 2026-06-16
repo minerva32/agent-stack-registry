@@ -1,0 +1,28 @@
+name: UnrealCopilot
+repo: atgoldberg/UnrealCopilot
+category: tool
+homepage: https://github.com/atgoldberg/UnrealCopilot
+description: An Editor Plugin for Unreal Engine 5.6 (or later) that acts as a virtual
+  technical artist, responding to user prompts by executing python code to perform
+  editor actions. Unreal Copilot integrates Gith
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 9
+agent_fit_score: 3.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/atgoldberg/UnrealCopilot
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 7
+  repo_clarity: 5
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.0

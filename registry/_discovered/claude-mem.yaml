@@ -1,0 +1,36 @@
+name: claude-mem
+repo: thedotmack/claude-mem
+category: agent
+homepage: https://github.com/thedotmack/claude-mem
+description: Persistent Context Across Sessions for Every Agent –  Captures everything
+  your agent does during sessions, compresses it with AI, and injects relevant context
+  back into future sessions. Works with Cla
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 82737
+agent_fit_score: 5.4
+tags:
+- ai
+- ai-agents
+- ai-memory
+- anthropic
+- artificial-intelligence
+- chromadb
+- claude
+- claude-agent-sdk
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/thedotmack/claude-mem
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.716

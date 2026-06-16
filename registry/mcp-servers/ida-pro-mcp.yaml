@@ -1,0 +1,35 @@
+name: ida-pro-mcp
+repo: mrexodia/ida-pro-mcp
+category: mcp-server
+homepage: https://github.com/mrexodia/ida-pro-mcp
+description: AI-powered reverse engineering assistant that bridges IDA Pro with language
+  models through MCP.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 9421
+agent_fit_score: 6.4
+tags:
+- ai
+- aiagent
+- binary-analysis
+- ida-plugin
+- ida-pro
+- mcp
+- mcp-server
+- modelcontextprotocol
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mrexodia/ida-pro-mcp
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.855

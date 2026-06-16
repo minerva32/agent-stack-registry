@@ -1,0 +1,36 @@
+name: tabularis
+repo: TabularisDB/tabularis
+category: mcp-server
+homepage: https://github.com/TabularisDB/tabularis
+description: Open-source database client for PostgreSQL, MySQL/MariaDB and SQLite
+  with SQL notebooks, visual EXPLAIN, AI and MCP built in. Hackable with plugins.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2460
+agent_fit_score: 6.2
+tags:
+- ai-agent
+- ai-assistant
+- cross-platform
+- database-client
+- database-gui
+- database-tool
+- er-diagram
+- mariadb
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/TabularisDB/tabularis
+score_breakdown:
+  installability: 4
+  automation_readiness: 10
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.685

@@ -1,0 +1,27 @@
+name: MCP-Universe
+repo: SalesforceAIResearch/MCP-Universe
+category: eval
+homepage: https://github.com/SalesforceAIResearch/MCP-Universe
+description: MCP-Universe is a comprehensive framework designed for RL training, benchmarking,
+  and developing AI agents for general tool-use.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 591
+agent_fit_score: 4.9
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/SalesforceAIResearch/MCP-Universe
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.28
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.942

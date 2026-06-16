@@ -1,0 +1,31 @@
+name: mcp-evals
+repo: mclenhard/mcp-evals
+category: tool
+homepage: https://github.com/mclenhard/mcp-evals
+description: A Node.js package and GitHub Action for evaluating MCP (Model Context
+  Protocol) tool implementations using LLM-based scoring. This helps ensure your MCP
+  server's tools are working correctly and perfor
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 129
+agent_fit_score: 5.1
+tags:
+- ai
+- evals
+- mcp
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mclenhard/mcp-evals
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.986

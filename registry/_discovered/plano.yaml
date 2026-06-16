@@ -1,0 +1,36 @@
+name: plano
+repo: katanemo/plano
+category: tool
+homepage: https://github.com/katanemo/plano
+description: 'Plano is an AI-native proxy and data plane for agentic apps — with built-in
+  orchestration, safety, observability, and smart LLM routing so you stay focused
+  on your agents core logic. '
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6593
+agent_fit_score: 5.2
+tags:
+- ai-gateway
+- ai-gateway-support
+- envoy
+- envoyproxy
+- gateway
+- generative-ai
+- llm-gateway
+- llm-inference
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/katanemo/plano
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.83
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.72

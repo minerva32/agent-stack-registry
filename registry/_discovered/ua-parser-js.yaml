@@ -1,0 +1,36 @@
+name: ua-parser-js
+repo: faisalman/ua-parser-js
+category: tool
+homepage: https://github.com/faisalman/ua-parser-js
+description: UAParser.js - The Essential Web Development Tool for User-Agent Detection.
+  Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser
+  (client-side) or Node.js (server-side).
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 10140
+agent_fit_score: 4.7
+tags:
+- analytics
+- bot-detection
+- browser-detection
+- client-hints
+- device-detection
+- mobile-detection
+- user-agent
+- user-agent-parser
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/faisalman/ua-parser-js
+score_breakdown:
+  installability: 3
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 9.925

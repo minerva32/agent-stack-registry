@@ -1,0 +1,38 @@
+name: .github
+repo: gege-circle/.github
+category: agent
+homepage: https://github.com/gege-circle/.github
+description: 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This
+  is GitHub grassland, and the community place for Gege circle lovers, mainly discusses
+  anime, games, technology, lifing and other t
+license: unknown
+open_source: true
+interface:
+- cli
+- api
+- vscode
+status: active
+last_verified: '2026-06-16'
+stars: 1918
+agent_fit_score: 3.0
+tags:
+- a-soul
+- acfun
+- bilibili
+- china
+- gege-circle
+- message-board
+- vtuber
+- vup
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/gege-circle/.github
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.162

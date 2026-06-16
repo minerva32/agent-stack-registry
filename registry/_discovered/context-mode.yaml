@@ -1,0 +1,35 @@
+name: context-mode
+repo: mksglu/context-mode
+category: safety
+homepage: https://github.com/mksglu/context-mode
+description: Context window optimization for AI coding agents. Sandboxes tool output,
+  98% reduction. 15 platforms
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 17568
+agent_fit_score: 5.1
+tags:
+- antigravity
+- claude
+- claude-code
+- claude-code-hooks
+- claude-code-plugins
+- claude-code-skill
+- codex
+- codex-cli
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/mksglu/context-mode
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 3.0
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.926

@@ -1,0 +1,35 @@
+name: sim
+repo: simstudioai/sim
+category: tool
+homepage: https://github.com/simstudioai/sim
+description: Build, deploy, and orchestrate AI agents. Sim is the central intelligence
+  layer for your AI workforce.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 28795
+agent_fit_score: 4.8
+tags:
+- agent-workflow
+- agentic-workflow
+- agents
+- ai
+- aiagents
+- anthropic
+- artificial-intelligence
+- automation
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/simstudioai/sim
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.02
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.554

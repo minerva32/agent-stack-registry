@@ -1,0 +1,35 @@
+name: ai-agents-from-scratch
+repo: pguso/ai-agents-from-scratch
+category: tool
+homepage: https://github.com/pguso/ai-agents-from-scratch
+description: Demystify AI agents by building them yourself. Local LLMs, no black boxes,
+  real understanding of function calling, memory, and ReAct patterns.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4276
+agent_fit_score: 5.1
+tags:
+- ai-agents
+- educational
+- function-calling
+- llm
+- llm-agent
+- node-llama-cpp
+- react-agent
+- tutorial
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/pguso/ai-agents-from-scratch
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.42
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.98

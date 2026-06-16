@@ -1,0 +1,36 @@
+name: CowAgent
+repo: zhayujie/CowAgent
+category: mcp-server
+homepage: https://github.com/zhayujie/CowAgent
+description: Open-source super AI assistant & Agent Harness. Plans tasks, runs tools
+  and skills, self-evolves with memory and knowledge. Multi-model, multi-channel.
+  Lightweight, extensible, one-line install. (form
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 45355
+agent_fit_score: 5.9
+tags:
+- ai
+- ai-agent
+- ai-agents
+- chatgpt-on-wechat
+- claude
+- claude-code
+- codex
+- cowagent
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/zhayujie/CowAgent
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.962

@@ -1,0 +1,26 @@
+name: openswarm
+repo: openswarm-ai/openswarm
+category: tool
+homepage: https://github.com/openswarm-ai/openswarm
+description: Your mission control center for a swarm of Ai agents.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 711
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/openswarm-ai/openswarm
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.53
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.964

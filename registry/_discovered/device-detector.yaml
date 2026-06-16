@@ -1,0 +1,35 @@
+name: device-detector
+repo: matomo-org/device-detector
+category: tool
+homepage: https://github.com/matomo-org/device-detector
+description: 'The Universal Device Detection library will parse any User Agent and
+  detect the browser, operating system, device used (desktop, tablet, mobile, tv,
+  cars, console, etc.), brand and model. '
+license: LGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3492
+agent_fit_score: 4.8
+tags:
+- bot-detection
+- detection-library
+- device-detector
+- hacktoberfest
+- mobile-detection
+- php
+- user-agent
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/matomo-org/device-detector
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.879999999999999
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.838

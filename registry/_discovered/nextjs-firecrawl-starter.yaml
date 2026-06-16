@@ -1,0 +1,36 @@
+name: nextjs-firecrawl-starter
+repo: cameronking4/nextjs-firecrawl-starter
+category: tool
+homepage: https://github.com/cameronking4/nextjs-firecrawl-starter
+description: Nextjs 15 Firecrawl app to scrape doc links for an LLM. Use it as a starter
+  kit to build your Firecrawl app. Turn any developer documentation into a GPT knowledge
+  base. Pre-made Github Action to crawl
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 23
+agent_fit_score: 5.1
+tags:
+- docs
+- firecrawl
+- github-actions
+- llm
+- nextjs
+- rombo
+- shadcn-ui
+- web-scraping
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/cameronking4/nextjs-firecrawl-starter
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 10
+  maintenance: 3

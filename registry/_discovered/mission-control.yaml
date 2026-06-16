@@ -1,0 +1,35 @@
+name: mission-control
+repo: builderz-labs/mission-control
+category: tool
+homepage: https://github.com/builderz-labs/mission-control
+description: 'Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent
+  workflows, monitor spend, and govern operations from one mission control dashboard.'
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 5330
+agent_fit_score: 5.7
+tags:
+- agent-orchestration
+- ai-agents
+- ai-automation
+- ai-dashboard
+- claude
+- dashboard
+- developer-tools
+- llm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/builderz-labs/mission-control
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.6
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.962

@@ -1,0 +1,35 @@
+name: hermes-studio
+repo: EKKOLearnAI/hermes-studio
+category: tool
+homepage: https://github.com/EKKOLearnAI/hermes-studio
+description: 'Web dashboard for Hermes Agent — multi-platform AI chat, session management,
+  scheduled jobs, usage analytics '
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 8006
+agent_fit_score: 6.2
+tags:
+- agent
+- ai-agent
+- chat-ui
+- dashboard
+- hermes
+- hermes-agent
+- hermes-web-ui
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/EKKOLearnAI/hermes-studio
+score_breakdown:
+  installability: 7
+  automation_readiness: 3
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.5

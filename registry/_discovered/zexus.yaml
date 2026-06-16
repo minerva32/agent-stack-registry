@@ -1,0 +1,34 @@
+name: zexus
+repo: QuanZ827/zexus
+category: safety
+homepage: https://github.com/QuanZ827/zexus
+description: In-process Revit AI agent with dynamic C# code execution, multi-provider
+  LLM support, and a guardrail system for safe BIM automation.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 98
+agent_fit_score: 4.6
+tags:
+- ai-agent
+- autodesk
+- bim
+- dotnet
+- llm
+- revit
+- roslyn
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/QuanZ827/zexus
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 10
+  repo_clarity: 5
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.0

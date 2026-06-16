@@ -1,0 +1,30 @@
+name: hindsight
+repo: vectorize-io/hindsight
+category: tool
+homepage: https://github.com/vectorize-io/hindsight
+description: 'Hindsight: Agent Memory That  Learns'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 16473
+agent_fit_score: 4.9
+tags:
+- agentic-ai
+- agents
+- ai-memory
+- memory
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/vectorize-io/hindsight
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.36
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.878

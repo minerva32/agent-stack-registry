@@ -1,0 +1,36 @@
+name: watchtower
+repo: fzn0x/watchtower
+category: agent
+homepage: https://github.com/fzn0x/watchtower
+description: Watchtower is a simple AI-powered penetration testing automation CLI
+  tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you
+  can use to test your websites locally. Generate us
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 144
+agent_fit_score: 4.9
+tags:
+- ai-cybersecurity
+- automation-testing
+- claude
+- langgraph
+- openrouter
+- pentest
+- pentesting
+- red-team
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/fzn0x/watchtower
+score_breakdown:
+  installability: 7
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 4
+  reproducibility: 2
+  maintenance: 5.0

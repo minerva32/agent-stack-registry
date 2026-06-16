@@ -1,0 +1,36 @@
+name: PDFMathTranslate
+repo: PDFMathTranslate/PDFMathTranslate
+category: mcp-server
+homepage: https://github.com/PDFMathTranslate/PDFMathTranslate
+description: '[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats
+  - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero'
+license: AGPL-3.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 34889
+agent_fit_score: 6.2
+tags:
+- chinese
+- document
+- edit
+- english
+- japanese
+- korean
+- latex
+- math
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/PDFMathTranslate/PDFMathTranslate
+score_breakdown:
+  installability: 9
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 9.335

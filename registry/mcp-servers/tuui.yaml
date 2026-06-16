@@ -1,0 +1,38 @@
+name: tuui
+repo: AI-QL/tuui
+category: mcp-server
+homepage: https://github.com/AI-QL/tuui
+description: A desktop MCP client designed as a tool unitary utility integration,
+  accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor
+  LLM API orchestration.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 1148
+agent_fit_score: 7.0
+tags:
+- agent
+- agentic-ai
+- ai
+- ai-playground
+- anthropic
+- claude
+- deepseek
+- dxt
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/AI-QL/tuui
+score_breakdown:
+  installability: 3
+  automation_readiness: 10
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 8
+  reproducibility: 2
+  maintenance: 8.99

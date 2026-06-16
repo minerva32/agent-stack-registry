@@ -1,0 +1,32 @@
+name: SuperPrompt
+repo: NeoVertex1/SuperPrompt
+category: tool
+homepage: https://github.com/NeoVertex1/SuperPrompt
+description: SuperPrompt is an attempt to engineer prompts that might help us understand
+  AI agents.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6418
+agent_fit_score: 3.8
+tags:
+- ai
+- ml
+- prompt-engineering
+- prompts
+- prompts-template
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/NeoVertex1/SuperPrompt
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.86
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.976

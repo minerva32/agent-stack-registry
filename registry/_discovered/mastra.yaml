@@ -1,0 +1,35 @@
+name: mastra
+repo: mastra-ai/mastra
+category: tool
+homepage: https://github.com/mastra-ai/mastra
+description: From the team behind Gatsby, Mastra is a framework for building AI-powered
+  applications and agents with a modern TypeScript stack.
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 25140
+agent_fit_score: 4.5
+tags:
+- agents
+- ai
+- chatbots
+- evals
+- javascript
+- llm
+- mcp
+- nextjs
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mastra-ai/mastra
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 3.3
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.154

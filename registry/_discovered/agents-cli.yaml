@@ -1,0 +1,35 @@
+name: agents-cli
+repo: google/agents-cli
+category: agent
+homepage: https://github.com/google/agents-cli
+description: The CLI and skills that turn any coding assistant into an expert at creating,
+  evaluating, and deploying AI agents on Google Cloud.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2916
+agent_fit_score: 4.9
+tags:
+- adk
+- agent-development-kit
+- agents
+- coding-agent
+- gemini
+- gemini-enterprise-agent-platform
+- generative-ai
+- google-cloud
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/google/agents-cli
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.3
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.97

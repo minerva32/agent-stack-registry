@@ -1,0 +1,31 @@
+name: context7
+repo: upstash/context7
+category: mcp-server
+homepage: https://github.com/upstash/context7
+description: Context7 Platform -- Up-to-date code documentation for LLMs and AI code
+  editors
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 57496
+agent_fit_score: 5.5
+tags:
+- llm
+- mcp
+- mcp-server
+- vibe-coding
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/upstash/context7
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.79
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.964

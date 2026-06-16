@@ -1,0 +1,29 @@
+name: OmniAgent
+repo: YeQing17-2026/OmniAgent
+category: safety
+homepage: https://github.com/YeQing17-2026/OmniAgent
+description: An agent capable of self-evolving and dynamically hardening security
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1893
+agent_fit_score: 4.2
+tags:
+- agent
+- hermes
+- open-claw
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/YeQing17-2026/OmniAgent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.68
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.932

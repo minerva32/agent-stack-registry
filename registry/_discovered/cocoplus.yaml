@@ -1,0 +1,34 @@
+name: cocoplus
+repo: Snowflake-Labs/cocoplus
+category: tool
+homepage: https://github.com/Snowflake-Labs/cocoplus
+description: CocoPlus is an AI-powered development lifecycle plugin for the Snowflake
+  Cortex Code CLI. It brings structured, multi-agent workflows to data engineering
+  projects — covering everything from project in
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 604
+agent_fit_score: 4.9
+tags:
+- agents
+- agentskills
+- cortex
+- cortexai
+- llm
+- snowflake
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Snowflake-Labs/cocoplus
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7

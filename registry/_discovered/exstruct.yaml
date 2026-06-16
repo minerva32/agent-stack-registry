@@ -1,0 +1,37 @@
+name: exstruct
+repo: harumiWeb/exstruct
+category: agent
+homepage: https://github.com/harumiWeb/exstruct
+description: Conversion from Excel to structured JSON (tables, shapes, charts) for
+  LLM/RAG pipelines, and autonomous Excel reading/writing by AI agents via CLI and
+  MCP integration.
+license: BSD-3-Clause
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 177
+agent_fit_score: 5.1
+tags:
+- data-ex
+- document-ai
+- excel
+- excel-automation
+- excel-parsing
+- llm
+- mcp-server
+- python-library
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/harumiWeb/exstruct
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.67
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.998

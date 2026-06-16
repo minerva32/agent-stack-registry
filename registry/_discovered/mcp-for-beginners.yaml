@@ -1,0 +1,36 @@
+name: mcp-for-beginners
+repo: microsoft/mcp-for-beginners
+category: mcp-server
+homepage: https://github.com/microsoft/mcp-for-beginners
+description: This open-source curriculum introduces the fundamentals of Model Context
+  Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript,
+  JavaScript, Rust and Python. Designed for
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 16543
+agent_fit_score: 5.6
+tags:
+- csharp
+- java
+- javascript
+- javascript-applications
+- mcp
+- mcp-client
+- mcp-security
+- mcp-server
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/microsoft/mcp-for-beginners
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.996

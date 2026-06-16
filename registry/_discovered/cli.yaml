@@ -1,0 +1,34 @@
+name: cli
+repo: qawolf/cli
+category: agent
+homepage: https://github.com/qawolf/cli
+description: QA Wolf from anywhere — your terminal, your CI, your AI agent.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3427
+agent_fit_score: 5.4
+tags:
+- automation
+- cli
+- e2e
+- end-to-end-testing
+- playwright
+- qa
+- qawolf
+- test-automation
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/qawolf/cli
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 5.62
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.99

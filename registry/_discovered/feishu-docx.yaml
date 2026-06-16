@@ -1,0 +1,36 @@
+name: feishu-docx
+repo: leemysw/feishu-docx
+category: tool
+homepage: https://github.com/leemysw/feishu-docx
+description: 🚀 Feishu/Lark Docs、Sheet、Bitable <-> Markdown | AI Agent-friendly knowledge
+  base exporter and writer with OAuth 2.0, CLI, TUI & Claude Skills support - 飞书文档
+  <写入/导出> Markdown | AI Agent 友好型导出-写入工具
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 220
+agent_fit_score: 5.0
+tags:
+- ai-agent
+- claude-skills
+- context
+- feishu
+- file-parser
+- knowledge
+- lark
+- markdown
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/leemysw/feishu-docx
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.95
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.99

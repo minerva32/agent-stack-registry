@@ -1,0 +1,32 @@
+name: stagehand
+repo: browserbase/stagehand
+category: tool
+homepage: https://github.com/browserbase/stagehand
+description: The SDK For Browser Agents
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 23129
+agent_fit_score: 5.0
+tags:
+- agents
+- ai
+- llms
+- playwright
+- puppeteer
+- selenium
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/browserbase/stagehand
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.26
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.506

@@ -1,0 +1,32 @@
+name: agent-safehouse
+repo: eugene1g/agent-safehouse
+category: safety
+homepage: https://github.com/eugene1g/agent-safehouse
+description: Sandbox your local AI agents so they can read/write only what they need
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1859
+agent_fit_score: 5.1
+tags:
+- ai-agents
+- claude-code
+- llm
+- macos
+- sandbox
+- security
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/eugene1g/agent-safehouse
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.71
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.944

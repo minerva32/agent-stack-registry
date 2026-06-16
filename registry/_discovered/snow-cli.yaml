@@ -1,0 +1,30 @@
+name: snow-cli
+repo: MayDay-wpf/snow-cli
+category: agent
+homepage: https://github.com/MayDay-wpf/snow-cli
+description: Agentic coding in your terminal,Simultaneously compatible with OpenAI,
+  Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1093
+agent_fit_score: 3.9
+tags:
+- ai
+- ai-agents
+- ai-coding
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/MayDay-wpf/snow-cli
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.41
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.99

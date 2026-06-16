@@ -1,0 +1,28 @@
+name: Open-AutoGLM
+repo: zai-org/Open-AutoGLM
+category: tool
+homepage: https://github.com/zai-org/Open-AutoGLM
+description: An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 25538
+agent_fit_score: 4.3
+tags:
+- agent
+- phone-use-agent
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/zai-org/Open-AutoGLM
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.74
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.494

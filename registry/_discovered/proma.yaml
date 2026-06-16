@@ -1,0 +1,35 @@
+name: Proma
+repo: proma-ai/Proma
+category: tool
+homepage: https://github.com/proma-ai/Proma
+description: 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于
+  Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1275
+agent_fit_score: 5.0
+tags:
+- agent
+- agent-sdk
+- agents
+- chatbot
+- chatgpt
+- claude
+- gemini
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/proma-ai/Proma
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.46
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.774

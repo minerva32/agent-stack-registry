@@ -1,0 +1,19 @@
+# Auto-discovered: browser-use/video-use
+name: video-use
+repo: browser-use/video-use
+category: tool
+homepage: https://github.com/browser-use/video-use
+description: Edit videos with coding agents
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 9748
+agent_fit_score: 5.0
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/browser-use/video-use

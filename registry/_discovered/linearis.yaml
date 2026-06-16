@@ -1,0 +1,33 @@
+name: linearis
+repo: linearis-oss/linearis
+category: agent
+homepage: https://github.com/linearis-oss/linearis
+description: CLI tool for Linear.app with JSON output, smart ID resolution, and optimized
+  GraphQL queries. Designed for LLM agents and humans who prefer structured data.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 213
+agent_fit_score: 5.4
+tags:
+- agent
+- cli
+- command-line-tool
+- linear
+- linearapp
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/linearis-oss/linearis
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 6.5600000000000005
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.932

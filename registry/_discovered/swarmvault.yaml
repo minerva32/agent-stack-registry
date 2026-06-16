@@ -1,0 +1,36 @@
+name: swarmvault
+repo: swarmclawai/swarmvault
+category: tool
+homepage: https://github.com/swarmclawai/swarmvault
+description: 'The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge
+  base, and agent memory store. Built on Andrej Karpathy''s pattern. An Obsidian alternative
+  for personal knowledge management'
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 571
+agent_fit_score: 5.6
+tags:
+- agent-memory
+- ai-agents
+- claude-code
+- claude-code-memory
+- codex
+- karpathy
+- knowledge-graph
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/swarmclawai/swarmvault
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.985

@@ -1,0 +1,35 @@
+name: codefather
+repo: liyupi/codefather
+category: tool
+homepage: https://github.com/liyupi/codefather
+description: 程序员鱼皮的编程宝典 ⭐️ 2026年最全编程学习路线图！包含Java学习路线、前端学习路线、Python学习路线、C++学习路线、算法学习路线、计算机基础学习路线、AI应用开发学习路线、AI
+  Agent开发学习路线等。提供编程入门教程、AI大模型应用开发教程、RAG开发实战、MCP开发教程、Prompt工程指南、LLM应用开发、技术知识分享、学习资源推荐、项目实战教程、热门面试题、求职经验、简历
+license: unknown
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 7700
+agent_fit_score: 4.4
+tags:
+- ai
+- ai-agents
+- algorithm
+- backend
+- cpp
+- frontend
+- go
+- java
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/liyupi/codefather
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.954

@@ -1,0 +1,33 @@
+name: product-manager-prompts
+repo: deanpeters/product-manager-prompts
+category: tool
+homepage: https://github.com/deanpeters/product-manager-prompts
+description: A repository of Generative AI prompts for product managers using agents
+  such as ChatGPT, Claude, & Gemini
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 948
+agent_fit_score: 4.9
+tags:
+- agile
+- chatgpt
+- documentation-generator
+- generative-ai
+- product-management
+- product-owner
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/deanpeters/product-manager-prompts
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.05
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.996

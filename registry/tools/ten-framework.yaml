@@ -1,0 +1,31 @@
+name: ten-framework
+repo: TEN-framework/ten-framework
+category: tool
+homepage: https://github.com/TEN-framework/ten-framework
+description: ' Open-source framework for conversational voice AI agents'
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 10677
+agent_fit_score: 6.0
+tags:
+- ai
+- multi-modal
+- real-time
+- video
+- voice
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/TEN-framework/ten-framework
+score_breakdown:
+  installability: 5
+  automation_readiness: 3
+  extensibility: 7
+  repo_clarity: 10
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 9

@@ -1,0 +1,27 @@
+name: obsidian-mind
+repo: breferrari/obsidian-mind
+category: agent
+homepage: https://github.com/breferrari/obsidian-mind
+description: An Obsidian vault that gives AI coding agents persistent memory. Claude
+  Code, Codex CLI, Gemini CLI.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3004
+agent_fit_score: 5.0
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/breferrari/obsidian-mind
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.0
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.974

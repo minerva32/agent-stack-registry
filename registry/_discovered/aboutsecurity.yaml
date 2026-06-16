@@ -1,0 +1,34 @@
+name: AboutSecurity
+repo: wgpsec/AboutSecurity
+category: safety
+homepage: https://github.com/wgpsec/AboutSecurity
+description: Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1464
+agent_fit_score: 3.8
+tags:
+- bounty
+- bypass
+- cheatsheet
+- ctf
+- dictionary
+- fuzz
+- hacking
+- infosec
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/wgpsec/AboutSecurity
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 2.59
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8

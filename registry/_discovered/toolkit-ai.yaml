@@ -1,0 +1,27 @@
+name: toolkit-ai
+repo: toolkit-ai/toolkit-ai
+category: tool
+homepage: https://github.com/toolkit-ai/toolkit-ai
+description: AI-agents that automatically generate and use Langchain Tools and ChatGPT
+  plugins
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 533
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/toolkit-ai/toolkit-ai
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 10
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.98

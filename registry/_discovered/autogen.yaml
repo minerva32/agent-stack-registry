@@ -1,0 +1,34 @@
+name: autogen
+repo: microsoft/autogen
+category: tool
+homepage: https://github.com/microsoft/autogen
+description: A programming framework for agentic AI
+license: CC-BY-4.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 59009
+agent_fit_score: 4.8
+tags:
+- agentic
+- agentic-agi
+- agents
+- ai
+- autogen
+- autogen-ecosystem
+- chatgpt
+- framework
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/microsoft/autogen
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.38
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.224

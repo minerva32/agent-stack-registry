@@ -1,0 +1,35 @@
+name: Introduction-to-Quantitative-Finance
+repo: Barca0412/Introduction-to-Quantitative-Finance
+category: eval
+homepage: https://github.com/Barca0412/Introduction-to-Quantitative-Finance
+description: 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation),
+  etc.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1480
+agent_fit_score: 5.1
+tags:
+- agent
+- ai4fin
+- finance
+- investment
+- llm
+- llm4fin
+- quant
+- quantitative-finance
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Barca0412/Introduction-to-Quantitative-Finance
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.94
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8

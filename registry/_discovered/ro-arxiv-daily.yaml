@@ -1,0 +1,30 @@
+name: ro-arxiv-daily
+repo: XuzhaoLi/ro-arxiv-daily
+category: tool
+homepage: https://github.com/XuzhaoLi/ro-arxiv-daily
+description: Automatically Update Arxiv Papers about Path Planning, LLM and Autonomous
+  Driving using Github Actions since 2024.2.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 37
+agent_fit_score: 4.7
+tags:
+- arxiv-daily
+- arxiv-papers
+- github-actions
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/XuzhaoLi/ro-arxiv-daily
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.16
+  sandbox_safety: 2
+  reproducibility: 7
+  maintenance: 6

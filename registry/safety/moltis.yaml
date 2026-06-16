@@ -1,0 +1,36 @@
+name: moltis
+repo: moltis-org/moltis
+category: safety
+homepage: https://github.com/moltis-org/moltis
+description: A secure persistent personal agent server in Rust. One binary, sandboxed
+  execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams,
+  and MCP tools. Secure by design, runs on you
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 2745
+agent_fit_score: 6.9
+tags:
+- ai-agent
+- ai-assistant
+- clawdbot
+- llm
+- mcp
+- openclaw
+- rust
+- sandbox
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/moltis-org/moltis
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 8
+  reproducibility: 2
+  maintenance: 8.56

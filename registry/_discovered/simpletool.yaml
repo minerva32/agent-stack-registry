@@ -1,0 +1,27 @@
+name: SimpleTool
+repo: HaxxorCialtion/SimpleTool
+category: tool
+homepage: https://github.com/HaxxorCialtion/SimpleTool
+description: A method to use LLM function calling with real-time level speed, empowering
+  latency-sensitive applications like robotics, game AI, and autonomous agents.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 54
+agent_fit_score: 3.5
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/HaxxorCialtion/SimpleTool
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.53
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 2.998

@@ -1,0 +1,26 @@
+name: typescript-sdk
+repo: modelcontextprotocol/typescript-sdk
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/typescript-sdk
+description: The official TypeScript SDK for Model Context Protocol servers and clients
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 12675
+agent_fit_score: 5.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/modelcontextprotocol/typescript-sdk
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 9

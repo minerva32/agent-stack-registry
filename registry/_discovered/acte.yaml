@@ -1,0 +1,27 @@
+name: acte
+repo: j66n/acte
+category: tool
+homepage: https://github.com/j66n/acte
+description: A framework to build GUI-like Agent Tools, enhancement to Function Calling
+  of LLM AI.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 92
+agent_fit_score: 4.3
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/j66n/acte
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.85
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3

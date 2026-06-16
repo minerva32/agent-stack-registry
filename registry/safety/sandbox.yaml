@@ -1,0 +1,35 @@
+name: sandbox
+repo: agent-infra/sandbox
+category: safety
+homepage: https://github.com/agent-infra/sandbox
+description: All-in-One Sandbox for AI Agents that combines Browser, Shell, File,
+  MCP and VSCode Server in a single Docker container.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- vscode
+status: active
+last_verified: '2026-06-16'
+stars: 5152
+agent_fit_score: 7.1
+tags:
+- agent
+- all-in-one
+- browser
+- filesystem
+- mcp
+- sandbox
+- shell
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/agent-infra/sandbox
+score_breakdown:
+  installability: 10
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.6

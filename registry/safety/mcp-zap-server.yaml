@@ -1,0 +1,35 @@
+name: mcp-zap-server
+repo: dtkmn/mcp-zap-server
+category: safety
+homepage: https://github.com/dtkmn/mcp-zap-server
+description: Give AI agents a safe, self-hosted OWASP ZAP operator for guided web
+  security scans, findings, reports, and production guardrails.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 57
+agent_fit_score: 6.3
+tags:
+- ai
+- java
+- llm
+- mcp
+- mcp-server
+- owasp
+- spring-ai
+- spring-boot
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/dtkmn/mcp-zap-server
+score_breakdown:
+  installability: 5
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 6.985

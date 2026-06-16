@@ -1,0 +1,35 @@
+name: Prompt-Engineering-Guide
+repo: dair-ai/Prompt-Engineering-Guide
+category: tool
+homepage: https://github.com/dair-ai/Prompt-Engineering-Guide
+description: 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering,
+  context engineering, RAG, and AI Agents.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 75683
+agent_fit_score: 4.5
+tags:
+- agent
+- agents
+- ai-agents
+- chatgpt
+- deep-learning
+- generative-ai
+- language-model
+- llms
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/dair-ai/Prompt-Engineering-Guide
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.15
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.464

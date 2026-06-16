@@ -1,0 +1,30 @@
+name: End-to-End-Medical-Chatbot
+repo: mdzaheerjk/End-to-End-Medical-Chatbot
+category: tool
+homepage: https://github.com/mdzaheerjk/End-to-End-Medical-Chatbot
+description: Medical Chatbot using Retrieval-Augmented Generation (RAG) to answer
+  medical queries. PDFs are converted into embeddings and stored in Pinecone. LangChain
+  retrieves context for LLM responses. Built wi
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 8
+agent_fit_score: 4.0
+tags:
+- advanced
+- generative-ai
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mdzaheerjk/End-to-End-Medical-Chatbot
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 2

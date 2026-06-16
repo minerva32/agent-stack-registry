@@ -1,0 +1,27 @@
+name: deepsec
+repo: vercel-labs/deepsec
+category: safety
+homepage: https://github.com/vercel-labs/deepsec
+description: Deepsec is a security harness for finding vulnerabilities in your codebase
+  powered by coding agents
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3205
+agent_fit_score: 5.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/vercel-labs/deepsec
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.99
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.934

@@ -1,0 +1,32 @@
+name: zotero-mcp
+repo: 54yyyu/zotero-mcp
+category: mcp-server
+homepage: https://github.com/54yyyu/zotero-mcp
+description: 'Zotero MCP: Connects your Zotero research library with Claude and other
+  AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze
+  citations, and more.'
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 3838
+agent_fit_score: 6.2
+tags:
+- claude
+- mcp
+- semantic-search
+- zotero
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/54yyyu/zotero-mcp
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.465

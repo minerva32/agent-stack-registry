@@ -1,0 +1,35 @@
+name: LitterBox
+repo: BlackSnufkin/LitterBox
+category: safety
+homepage: https://github.com/BlackSnufkin/LitterBox
+description: A self-hosted sandbox for red teams to test payloads against modern detection
+  before deployment. MCP integration lets an LLM agent drive analysis end to end.
+license: GPL-3.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 1463
+agent_fit_score: 6.6
+tags:
+- ai
+- docker-compose
+- malware-analysis
+- malware-development
+- mcp
+- mcp-server
+- offensive-security
+- redteam
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/BlackSnufkin/LitterBox
+score_breakdown:
+  installability: 9
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 9.0

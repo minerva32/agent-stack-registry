@@ -1,0 +1,36 @@
+name: klavis
+repo: Klavis-AI/klavis
+category: tool
+homepage: https://github.com/Klavis-AI/klavis
+description: 'Klavis AI:  MCP integration platforms that let AI agents use tools reliably
+  at any scale'
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 5749
+agent_fit_score: 5.8
+tags:
+- agents
+- ai
+- ai-agents
+- api
+- developer-tools
+- discord
+- function-calling
+- integration
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Klavis-AI/klavis
+score_breakdown:
+  installability: 6
+  automation_readiness: 9
+  extensibility: 3
+  repo_clarity: 7.88
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.428

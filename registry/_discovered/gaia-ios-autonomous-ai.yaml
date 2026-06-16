@@ -1,0 +1,28 @@
+name: GAIA-iOS-Autonomous-AI
+repo: Life-Ambassadors-International/GAIA-iOS-Autonomous-AI
+category: tool
+homepage: https://github.com/Life-Ambassadors-International/GAIA-iOS-Autonomous-AI
+description: 🌌 Fully Autonomous Offline AI iOS System • Local LLM Integration (llama.cpp
+  + MLX) • SwiftUI Agentic Interface • GitHub Actions Auto-Build • Complete Sovereign
+  AI for iPhone 14+
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6
+agent_fit_score: 4.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Life-Ambassadors-International/GAIA-iOS-Autonomous-AI
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.77
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 2

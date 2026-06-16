@@ -1,0 +1,27 @@
+name: sia
+repo: hexo-ai/sia
+category: eval
+homepage: https://github.com/hexo-ai/sia
+description: SIA is a Self Improving AI framework to autonomously improve the performance
+  of any AI system (Model / Agent) on a benchmark task.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1736
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/hexo-ai/sia
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.3
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.98

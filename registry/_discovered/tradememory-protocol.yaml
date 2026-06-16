@@ -1,0 +1,28 @@
+# Auto-discovered: mnemox-ai/tradememory-protocol
+name: tradememory-protocol
+repo: mnemox-ai/tradememory-protocol
+category: tool
+homepage: https://github.com/mnemox-ai/tradememory-protocol
+description: Decision audit trail + persistent memory for AI trading agents. Outcome-weighted
+  recall, SHA-256 tamper detection, 17 MCP tools.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 1260
+agent_fit_score: 5.0
+tags:
+- ai-agents
+- claude
+- crypto
+- evolution-engine
+- forex
+- mcp
+- mcp-server
+- memory
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/mnemox-ai/tradememory-protocol

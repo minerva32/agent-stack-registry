@@ -1,0 +1,27 @@
+name: multi-agent-emergence-environments
+repo: openai/multi-agent-emergence-environments
+category: tool
+homepage: https://github.com/openai/multi-agent-emergence-environments
+description: Environment generation code for the paper "Emergent Tool Use From Multi-Agent
+  Autocurricula"
+license: MIT
+open_source: true
+interface:
+- cli
+status: archived
+last_verified: '2026-06-16'
+stars: 1806
+agent_fit_score: 4.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/openai/multi-agent-emergence-environments
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.92
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.948

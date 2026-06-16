@@ -1,0 +1,32 @@
+name: ai-engineering-hub
+repo: patchy631/ai-engineering-hub
+category: mcp-server
+homepage: https://github.com/patchy631/ai-engineering-hub
+description: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 35825
+agent_fit_score: 5.4
+tags:
+- agents
+- ai
+- llms
+- machine-learning
+- mcp
+- rag
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/patchy631/ai-engineering-hub
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.772

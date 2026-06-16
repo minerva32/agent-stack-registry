@@ -1,0 +1,29 @@
+name: skill-scanner
+repo: cisco-ai-defense/skill-scanner
+category: safety
+homepage: https://github.com/cisco-ai-defense/skill-scanner
+description: Security Scanner for Agent Skills
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2199
+agent_fit_score: 4.0
+tags:
+- agent
+- agent-skills
+- security
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/cisco-ai-defense/skill-scanner
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.33
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.954

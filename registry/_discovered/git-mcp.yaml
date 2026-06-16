@@ -1,0 +1,35 @@
+name: git-mcp
+repo: idosal/git-mcp
+category: mcp-server
+homepage: https://github.com/idosal/git-mcp
+description: Put an end to code hallucinations! GitMCP is a free, open-source, remote
+  MCP server for any GitHub project
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 8172
+agent_fit_score: 5.3
+tags:
+- agentic-ai
+- agents
+- ai
+- claude
+- copilot
+- cursor
+- git
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/idosal/git-mcp
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 6.0600000000000005
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.86

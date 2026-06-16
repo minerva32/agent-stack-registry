@@ -1,0 +1,35 @@
+name: appworld
+repo: StonyBrookNLP/appworld
+category: tool
+homepage: https://github.com/StonyBrookNLP/appworld
+description: '🌍 AppWorld: A Controllable World of Apps and People for Benchmarking
+  Function Calling and Interactive Coding Agent, ACL''24 Best Resource Paper.'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 443
+agent_fit_score: 4.2
+tags:
+- acl-2024
+- ai-agents
+- ai-apis
+- ai-assistants
+- ai-environment
+- ai-planning
+- autonomous-agents
+- coding-agents
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/StonyBrookNLP/appworld
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.43
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.988

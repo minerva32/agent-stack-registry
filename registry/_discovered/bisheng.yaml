@@ -1,0 +1,36 @@
+name: bisheng
+repo: dataelement/bisheng
+category: tool
+homepage: https://github.com/dataelement/bisheng
+description: 'BISHENG is an open LLM devops platform for next generation Enterprise
+  AI applications. Powerful and comprehensive features include: GenAI workflow, RAG,
+  Agent, Unified model management, Evaluation, SF'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 11454
+agent_fit_score: 5.0
+tags:
+- agent
+- ai
+- chatbot
+- enterprise
+- finetune
+- genai
+- gpt
+- langchian
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/dataelement/bisheng
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.78

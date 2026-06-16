@@ -1,0 +1,30 @@
+name: deep_research_bench
+repo: Ayanami0730/deep_research_bench
+category: eval
+homepage: https://github.com/Ayanami0730/deep_research_bench
+description: 'DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 757
+agent_fit_score: 4.8
+tags:
+- agent
+- benchmark
+- deepresearch
+- nlp
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Ayanami0730/deep_research_bench
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.952

@@ -1,0 +1,33 @@
+name: ClawGUI
+repo: ZJU-REAL/ClawGUI
+category: eval
+homepage: https://github.com/ZJU-REAL/ClawGUI
+description: Build, Evaluate, and Deploy GUI Agents — online RL training, standardized
+  benchmarks, and real-device deployment in one framework.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1284
+agent_fit_score: 4.8
+tags:
+- agentrl
+- guiagents
+- mobile-agent
+- onlinerl
+- openclaw
+- rl-training
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ZJU-REAL/ClawGUI
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.3
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.994

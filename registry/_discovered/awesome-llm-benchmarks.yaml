@@ -1,0 +1,27 @@
+name: awesome-LLM-benchmarks
+repo: wgwang/awesome-LLM-benchmarks
+category: eval
+homepage: https://github.com/wgwang/awesome-LLM-benchmarks
+description: Awesome LLM Benchmarks to evaluate the LLMs across text, code, image,
+  audio, video and more.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 164
+agent_fit_score: 3.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/wgwang/awesome-LLM-benchmarks
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.92
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.994

@@ -1,0 +1,35 @@
+name: agent-orchestrator
+repo: AgentWrapper/agent-orchestrator
+category: tool
+homepage: https://github.com/AgentWrapper/agent-orchestrator
+description: ' Agentic orchestrator for parallel coding agents — plans tasks, spawns
+  agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 7569
+agent_fit_score: 7.0
+tags:
+- agent-fleet
+- agent-swarm
+- claude-code
+- codex-cli
+- git-worktrees
+- multi-agent
+- orchestration
+- orchestrator
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/AgentWrapper/agent-orchestrator
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 8
+  reproducibility: 2
+  maintenance: 8

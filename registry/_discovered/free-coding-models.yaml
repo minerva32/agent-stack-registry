@@ -1,0 +1,35 @@
+name: free-coding-models
+repo: vava-nessa/free-coding-models
+category: eval
+homepage: https://github.com/vava-nessa/free-coding-models
+description: Find, benchmark and install in CLI 170+ FREE coding LLM models across
+  15+ providers in real time
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2031
+agent_fit_score: 3.6
+tags:
+- ai
+- deepseek
+- free
+- free-ai
+- freeai
+- gpt
+- gptoss
+- kimi
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/vava-nessa/free-coding-models
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 2.96
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.968

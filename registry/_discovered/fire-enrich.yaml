@@ -1,0 +1,28 @@
+name: fire-enrich
+repo: firecrawl/fire-enrich
+category: tool
+homepage: https://github.com/firecrawl/fire-enrich
+description: 🔥 AI-powered data enrichment tool that transforms emails into rich datasets
+  with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent
+  AI
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1198
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/firecrawl/fire-enrich
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.69
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.966

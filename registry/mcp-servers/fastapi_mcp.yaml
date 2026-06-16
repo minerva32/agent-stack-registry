@@ -1,0 +1,36 @@
+name: fastapi_mcp
+repo: tadata-org/fastapi_mcp
+category: mcp-server
+homepage: https://github.com/tadata-org/fastapi_mcp
+description: Expose your FastAPI endpoints as Model Context Protocol (MCP) tools,
+  with Auth!
+license: MIT
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 11913
+agent_fit_score: 6.6
+tags:
+- ai
+- authentication
+- authorization
+- claude
+- cursor
+- fastapi
+- llm
+- mcp
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/tadata-org/fastapi_mcp
+score_breakdown:
+  installability: 7
+  automation_readiness: 9
+  extensibility: 10
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6.225

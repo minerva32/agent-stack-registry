@@ -1,0 +1,36 @@
+name: RagaAI-Catalyst
+repo: raga-ai-hub/RagaAI-Catalyst
+category: tool
+homepage: https://github.com/raga-ai-hub/RagaAI-Catalyst
+description: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework.
+  Includes features like agent, llm and tools tracing, debugging multi-agentic system,
+  self-hosted dashboard and advanced anal
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 16160
+agent_fit_score: 4.7
+tags:
+- agentic-ai
+- agentic-ai-development
+- agentneo
+- agents
+- ai-agent-monitoring
+- ai-application-debugging
+- ai-evaluation-tools
+- ai-performance-optimization
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/raga-ai-hub/RagaAI-Catalyst
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.932

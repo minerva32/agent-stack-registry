@@ -1,0 +1,36 @@
+name: Continuous-Claude-v3
+repo: parcadei/Continuous-Claude-v3
+category: tool
+homepage: https://github.com/parcadei/Continuous-Claude-v3
+description: Context management for Claude Code. Hooks maintain state via ledgers
+  and handoffs. MCP execution without context pollution. Agent orchestration with
+  isolated context windows.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 3817
+agent_fit_score: 5.2
+tags:
+- agents
+- claude-code
+- claude-code-cli
+- claude-code-hooks
+- claude-code-mcp
+- claude-code-skills
+- claude-code-subagents
+- claude-skills
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/parcadei/Continuous-Claude-v3
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.74
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.91

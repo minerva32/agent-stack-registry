@@ -1,0 +1,33 @@
+name: KrillinAI
+repo: krillinai/KrillinAI
+category: agent
+homepage: https://github.com/krillinai/KrillinAI
+description: 'AI video translation & dubbing tool for humans and AI Agents, powered
+  by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover
+  generation. 100+ languages, optimized for YouTub'
+license: GPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 10305
+agent_fit_score: 5.3
+tags:
+- dubbing
+- localization
+- tts
+- video-transcription
+- video-translation
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/krillinai/KrillinAI
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.95

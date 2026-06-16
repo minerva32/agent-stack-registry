@@ -1,0 +1,32 @@
+name: claude-code
+repo: yasasbanukaofficial/claude-code
+category: agent
+homepage: https://github.com/yasasbanukaofficial/claude-code
+description: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers.
+  Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal
+  UI. Remember this is just the skeleton n
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3527
+agent_fit_score: 4.4
+tags:
+- claude-ai
+- claude-code
+- leaked-claude-code
+- leaked-code
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/yasasbanukaofficial/claude-code
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.992

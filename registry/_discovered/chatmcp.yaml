@@ -1,0 +1,33 @@
+name: chatmcp
+repo: daodao97/chatmcp
+category: mcp-server
+homepage: https://github.com/daodao97/chatmcp
+description: ChatMCP is an AI chat client implementing the Model Context Protocol
+  (MCP).
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2196
+agent_fit_score: 5.0
+tags:
+- ai
+- chat
+- client
+- mcp
+- mcp-client
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/daodao97/chatmcp
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.75
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.906

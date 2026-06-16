@@ -1,0 +1,29 @@
+# Auto-discovered: Canner/WrenAI
+name: WrenAI
+repo: Canner/WrenAI
+category: tool
+homepage: https://github.com/Canner/WrenAI
+description: Give AI agents the context to query business data correctly through the
+  open context layer that gives AI agents grounded, governed memory, context, SQL
+  across 20+ data sources, that helps you build ag
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 15563
+agent_fit_score: 5.0
+tags:
+- agent
+- anthropic
+- bigquery
+- charts
+- context-engineering
+- duckdb
+- genbi
+- llm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/Canner/WrenAI

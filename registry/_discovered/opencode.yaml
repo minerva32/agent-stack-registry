@@ -1,0 +1,26 @@
+name: opencode
+repo: anomalyco/opencode
+category: agent
+homepage: https://github.com/anomalyco/opencode
+description: The open source coding agent.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 175205
+agent_fit_score: 2.9
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/anomalyco/opencode
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.29
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: -4.300000000000001

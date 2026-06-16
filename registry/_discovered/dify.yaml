@@ -1,0 +1,34 @@
+name: dify
+repo: langgenius/dify
+category: mcp-server
+homepage: https://github.com/langgenius/dify
+description: Production-ready platform for agentic workflow development.
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 145473
+agent_fit_score: 4.4
+tags:
+- agent
+- agentic-ai
+- agentic-framework
+- agentic-workflow
+- ai
+- automation
+- gemini
+- genai
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/langgenius/dify
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 2.59
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.458

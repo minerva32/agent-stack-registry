@@ -1,0 +1,29 @@
+# Auto-discovered: CoplayDev/unity-mcp
+name: unity-mcp
+repo: CoplayDev/unity-mcp
+category: mcp-server
+homepage: https://github.com/CoplayDev/unity-mcp
+description: Unity MCP acts as a bridge between AI assistants and your Unity Editor.
+  Give your LLM tools to manage assets, control scenes, edit scripts, and automate
+  tasks within Unity.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 10727
+agent_fit_score: 5.0
+tags:
+- ai
+- ai-integration
+- anthropic
+- claude
+- copilot
+- cursor
+- game-development
+- gamedev
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/CoplayDev/unity-mcp

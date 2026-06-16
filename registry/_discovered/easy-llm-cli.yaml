@@ -1,0 +1,26 @@
+name: easy-llm-cli
+repo: ConardLi/easy-llm-cli
+category: agent
+homepage: https://github.com/ConardLi/easy-llm-cli
+description: An open-source AI agent that is compatible with multiple LLM models
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1329
+agent_fit_score: 4.5
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ConardLi/easy-llm-cli
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.67
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.9

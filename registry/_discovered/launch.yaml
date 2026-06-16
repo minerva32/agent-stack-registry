@@ -1,0 +1,28 @@
+name: Launch
+repo: alphapro-club/Launch
+category: tool
+homepage: https://github.com/alphapro-club/Launch
+description: Launching the "Agent Creation Toolkit", providing developers with an
+  intuitive and efficient Development Environment, supporting the rapid construction
+  of intelligent agents. The toolkit will integrat
+license: GPL-3.0
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 202
+agent_fit_score: 4.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/alphapro-club/Launch
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4

@@ -1,0 +1,35 @@
+name: vibebox
+repo: robcholz/vibebox
+category: agent
+homepage: https://github.com/robcholz/vibebox
+description: Ultrafast CLI on Apple Silicon macOS for fast, sandboxed development
+  and LLM agents.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 205
+agent_fit_score: 5.4
+tags:
+- agent
+- ai
+- cli
+- llm
+- rust
+- sandbox
+- secure
+- ultrafast
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/robcholz/vibebox
+score_breakdown:
+  installability: 4
+  automation_readiness: 6
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 8
+  reproducibility: 2
+  maintenance: 5.0

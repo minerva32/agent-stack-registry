@@ -1,0 +1,29 @@
+name: CubeSandbox
+repo: TencentCloud/CubeSandbox
+category: safety
+homepage: https://github.com/TencentCloud/CubeSandbox
+description: Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6374
+agent_fit_score: 4.5
+tags:
+- agents
+- container
+- sandbox
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/TencentCloud/CubeSandbox
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.64
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 7.822

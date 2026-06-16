@@ -1,0 +1,26 @@
+name: production-agentic-rag-course
+repo: jamwithai/production-agentic-rag-course
+category: tool
+homepage: https://github.com/jamwithai/production-agentic-rag-course
+description: ''
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6906
+agent_fit_score: 4.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/jamwithai/production-agentic-rag-course
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.0
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.958

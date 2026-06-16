@@ -1,0 +1,35 @@
+name: AgentLab
+repo: ServiceNow/AgentLab
+category: eval
+homepage: https://github.com/ServiceNow/AgentLab
+description: 'AgentLab: An open-source framework for developing, testing, and benchmarking
+  web agents on diverse tasks, designed for scalability and reproducibility.'
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 590
+agent_fit_score: 3.8
+tags:
+- agent
+- agents
+- benchmark
+- evaluation-framework
+- lab
+- llm
+- llm-agents
+- prompting
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ServiceNow/AgentLab
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.51
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.932

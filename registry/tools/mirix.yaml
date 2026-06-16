@@ -1,0 +1,32 @@
+name: MIRIX
+repo: Mirix-AI/MIRIX
+category: tool
+homepage: https://github.com/Mirix-AI/MIRIX
+description: Mirix is a multi-agent personal assistant designed to track on-screen
+  activities and answer user questions intelligently. By capturing real-time visual
+  data and consolidating it into structured memori
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3554
+agent_fit_score: 6.1
+tags:
+- llm-agents
+- llm-memory
+- memory-agents
+- personal-assistant
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Mirix-AI/MIRIX
+score_breakdown:
+  installability: 9
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 8
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.775

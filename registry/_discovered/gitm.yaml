@@ -1,0 +1,33 @@
+name: GITM
+repo: OpenGVLab/GITM
+category: tool
+homepage: https://github.com/OpenGVLab/GITM
+description: 'Ghost in the Minecraft: Generally Capable Agents for Open-World Environments
+  via Large Language Models with Text-based Knowledge and Memory'
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 640
+agent_fit_score: 3.3
+tags:
+- artificial-intelligence
+- ghost-in-the-minecraft
+- gitm
+- llms
+- minecraft
+- reinforcement-learning
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/OpenGVLab/GITM
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.39
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.976

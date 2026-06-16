@@ -1,0 +1,35 @@
+name: claude-cybersecurity
+repo: AgriciDaniel/claude-cybersecurity
+category: tool
+homepage: https://github.com/AgriciDaniel/claude-cybersecurity
+description: AI-powered cybersecurity code review skill for Claude Code. 8 specialist
+  agents, OWASP 2025, CWE Top 25, MITRE ATT&CK, 11 languages, zero configuration.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 150
+agent_fit_score: 4.6
+tags:
+- appsec
+- claude-code
+- claude-code-skill
+- code-review
+- cybersecurity
+- devsecops
+- owasp
+- sast
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/AgriciDaniel/claude-cybersecurity
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.52
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.998

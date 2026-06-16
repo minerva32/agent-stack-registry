@@ -1,0 +1,27 @@
+name: pal
+repo: agno-agi/pal
+category: tool
+homepage: https://github.com/agno-agi/pal
+description: Pal is a Personal Agent that Learns how you work by building a compounding
+  knowledge base.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 263
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/agno-agi/pal
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.994

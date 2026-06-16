@@ -1,0 +1,35 @@
+name: aichat
+repo: sigoden/aichat
+category: agent
+homepage: https://github.com/sigoden/aichat
+description: All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI
+  Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 10144
+agent_fit_score: 5.5
+tags:
+- ai
+- ai-agents
+- chatbot
+- claude
+- cli
+- function-calling
+- gemini
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/sigoden/aichat
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 8.48
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.828

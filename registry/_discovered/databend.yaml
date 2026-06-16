@@ -1,0 +1,35 @@
+name: databend
+repo: databendlabs/databend
+category: safety
+homepage: https://github.com/databendlabs/databend
+description: 'Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python
+  Sandbox.  — rebuilt from scratch. Unified architecture on your S3.'
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 9341
+agent_fit_score: 4.3
+tags:
+- ai
+- bigdata
+- cloud-native
+- database
+- elasticsearch
+- geospatial
+- lakehouse
+- olap
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/databendlabs/databend
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.34
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 6.888

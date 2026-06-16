@@ -1,0 +1,26 @@
+name: coding-agent-template
+repo: vercel-labs/coding-agent-template
+category: safety
+homepage: https://github.com/vercel-labs/coding-agent-template
+description: Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1732
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/vercel-labs/coding-agent-template
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.71
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 7.972

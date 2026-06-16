@@ -1,0 +1,26 @@
+name: blender-mcp
+repo: ahujasid/blender-mcp
+category: mcp-server
+homepage: https://github.com/ahujasid/blender-mcp
+description: ''
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 22820
+agent_fit_score: 5.5
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/ahujasid/blender-mcp
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.0
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.85

@@ -1,0 +1,34 @@
+name: giskard-oss
+repo: Giskard-AI/giskard-oss
+category: eval
+homepage: https://github.com/Giskard-AI/giskard-oss
+description: 🐢 Open-Source Evaluation & Testing library for LLM Agents
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5433
+agent_fit_score: 4.9
+tags:
+- agent-evaluation
+- ai-red-team
+- ai-security
+- ai-testing
+- fairness-ai
+- llm
+- llm-eval
+- llm-evaluation
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/Giskard-AI/giskard-oss
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.57
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.854

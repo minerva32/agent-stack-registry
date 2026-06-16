@@ -1,0 +1,36 @@
+name: openclaw-superpowers
+repo: ArchieIndian/openclaw-superpowers
+category: safety
+homepage: https://github.com/ArchieIndian/openclaw-superpowers
+description: '44 plug-and-play skills for OpenClaw — self-modifying AI agent with
+  cron scheduling, security guardrails, persistent memory, knowledge graphs, and MCP
+  health monitoring. Your agent teaches itself new '
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 63
+agent_fit_score: 4.6
+tags:
+- agent-framework
+- ai-agent
+- ai-automation
+- ai-plugins
+- ai-security
+- ai-tools
+- autonomous-agent
+- cron-scheduling
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/ArchieIndian/openclaw-superpowers
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 5.996

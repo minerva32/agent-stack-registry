@@ -1,0 +1,34 @@
+name: valuecell
+repo: ValueCell-ai/valuecell
+category: tool
+homepage: https://github.com/ValueCell-ai/valuecell
+description: ValueCell is a community-driven, multi-agent platform for financial applications.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 10809
+agent_fit_score: 4.8
+tags:
+- agentic-ai
+- agents
+- ai
+- assitant
+- crypto
+- equity
+- finance
+- investment
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ValueCell-ai/valuecell
+score_breakdown:
+  installability: 3
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6.6899999999999995

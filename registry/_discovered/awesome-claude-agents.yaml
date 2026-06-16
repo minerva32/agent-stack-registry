@@ -1,0 +1,26 @@
+name: awesome-claude-agents
+repo: vijaythecoder/awesome-claude-agents
+category: tool
+homepage: https://github.com/vijaythecoder/awesome-claude-agents
+description: An orchestrated sub agent dev team powered by claude code
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4310
+agent_fit_score: 4.2
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/vijaythecoder/awesome-claude-agents
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.57
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.91

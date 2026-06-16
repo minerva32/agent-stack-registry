@@ -1,0 +1,34 @@
+name: browser-agent
+repo: magnitudedev/browser-agent
+category: tool
+homepage: https://github.com/magnitudedev/browser-agent
+description: Open-source, vision-first browser agent
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4080
+agent_fit_score: 4.5
+tags:
+- ai
+- automation
+- browser
+- framework
+- javascipt
+- playwright
+- rpa
+- selenium
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/magnitudedev/browser-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.39
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.938

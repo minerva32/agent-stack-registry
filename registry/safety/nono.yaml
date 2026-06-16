@@ -1,0 +1,34 @@
+name: nono
+repo: always-further/nono
+category: safety
+homepage: https://github.com/always-further/nono
+description: Sandbox any AI agent in seconds - zero setup, zero latency.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 2707
+agent_fit_score: 6.5
+tags:
+- agent-sandbox
+- agent-security
+- ai-agent-sandbox
+- ai-agent-security
+- ai-agents
+- ai-security
+- ai-security-tool
+- code-execution
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/always-further/nono
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 10
+  sandbox_safety: 4
+  reproducibility: 2
+  maintenance: 8.18

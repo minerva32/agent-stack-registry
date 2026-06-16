@@ -1,0 +1,36 @@
+name: opik
+repo: comet-ml/opik
+category: tool
+homepage: https://github.com/comet-ml/opik
+description: Debug, evaluate, and monitor your LLM applications, RAG systems, and
+  agentic workflows with comprehensive tracing, automated evaluations, and production-ready
+  dashboards.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 19666
+agent_fit_score: 5.1
+tags:
+- evaluation
+- hacktoberfest
+- hacktoberfest2025
+- langchain
+- llama-index
+- llm
+- llm-evaluation
+- llm-observability
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/comet-ml/opik
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.744

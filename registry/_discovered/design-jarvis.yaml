@@ -1,0 +1,28 @@
+name: design-jarvis
+repo: renfei-design/design-jarvis
+category: tool
+homepage: https://github.com/renfei-design/design-jarvis
+description: An AI-native design team for VS Code — one orchestrator routes your requests
+  to specialist agents (UX, UI, research, content) that collaborate autonomously.
+  Design Lead reviews every output and drives
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 91
+agent_fit_score: 4.6
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/renfei-design/design-jarvis
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6

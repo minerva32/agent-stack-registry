@@ -1,0 +1,35 @@
+name: modelence
+repo: modelence/modelence
+category: safety
+homepage: https://github.com/modelence/modelence
+description: Modelence is a full-stack framework for building production web apps
+  with a built-in database, authentication and monitoring. Modelence is opinionated
+  and AI agent-first, which means it's optimized fo
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 407
+agent_fit_score: 4.3
+tags:
+- ai
+- cloud
+- modelence
+- mongodb
+- node
+- react
+- typescript
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/modelence/modelence
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6.992

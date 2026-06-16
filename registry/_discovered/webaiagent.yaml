@@ -1,0 +1,29 @@
+name: WebAIAgent
+repo: jasonmayes/WebAIAgent
+category: tool
+homepage: https://github.com/jasonmayes/WebAIAgent
+description: A Web AI Agent running entirely client side in browser, that's capable
+  of controlling a fictional flights webpage, to get the job done by using Google's
+  Gemma 2 (2B) model in JavaScript via WebGPU tha
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 140
+agent_fit_score: 3.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/jasonmayes/WebAIAgent
+score_breakdown:
+  installability: 3
+  automation_readiness: 5
+  extensibility: 3
+  repo_clarity: 5
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 5.0

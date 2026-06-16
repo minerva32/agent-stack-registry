@@ -1,0 +1,29 @@
+name: dev-browser
+repo: SawyerHood/dev-browser
+category: tool
+homepage: https://github.com/SawyerHood/dev-browser
+description: A Claude Skill to give your agent the ability to use a web browser
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6261
+agent_fit_score: 6.1
+tags:
+- claude-code
+- playwright
+- skills
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/SawyerHood/dev-browser
+score_breakdown:
+  installability: 7
+  automation_readiness: 3
+  extensibility: 10
+  repo_clarity: 8
+  sandbox_safety: 4
+  reproducibility: 2
+  maintenance: 8.97

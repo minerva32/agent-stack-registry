@@ -1,0 +1,34 @@
+name: obsidian-agent-client
+repo: RAIT-09/obsidian-agent-client
+category: agent
+homepage: https://github.com/RAIT-09/obsidian-agent-client
+description: Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as
+  Claude Code, Codex and Gemini CLI.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2181
+agent_fit_score: 6.2
+tags:
+- agent-client-protocol
+- claude-code
+- codex
+- gemini-cli
+- obsidian-md
+- obsidian-plugin
+- opencode
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/RAIT-09/obsidian-agent-client
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.735

@@ -1,0 +1,26 @@
+name: ClawTeam
+repo: HKUDS/ClawTeam
+category: tool
+homepage: https://github.com/HKUDS/ClawTeam
+description: '"ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5328
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/HKUDS/ClawTeam
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.68
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.936

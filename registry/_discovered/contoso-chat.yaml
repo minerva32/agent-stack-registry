@@ -1,0 +1,36 @@
+name: contoso-chat
+repo: Azure-Samples/contoso-chat
+category: tool
+homepage: https://github.com/Azure-Samples/contoso-chat
+description: 'This sample has the full End2End process of creating RAG application
+  with Prompty and Azure AI Foundry. It includes GPT-4 LLM application code, evaluations,
+  deployment automation with AZD CLI, GitHub '
+license: MIT
+open_source: true
+interface:
+- cli
+status: archived
+last_verified: '2026-06-16'
+stars: 762
+agent_fit_score: 4.3
+tags:
+- ai-azd-templates
+- azd-templates
+- azure-ai-foundry
+- azure-ai-samples
+- azure-ai-search
+- azure-ai-services
+- azure-cosmosdb
+- azure-openai-service
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Azure-Samples/contoso-chat
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.95

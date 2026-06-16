@@ -1,0 +1,35 @@
+name: karpathy-llm-wiki
+repo: Astro-Han/karpathy-llm-wiki
+category: tool
+homepage: https://github.com/Astro-Han/karpathy-llm-wiki
+description: Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex.
+  Build a Karpathy-style knowledge base from raw sources, citations, and linting.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1135
+agent_fit_score: 4.8
+tags:
+- agent-skill
+- claude-code
+- codex
+- cursor
+- karpathy
+- knowledge-base
+- knowledge-management
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Astro-Han/karpathy-llm-wiki
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.48
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.994

@@ -1,0 +1,37 @@
+name: LibreChat
+repo: danny-avila/LibreChat
+category: mcp-server
+homepage: https://github.com/danny-avila/LibreChat
+description: 'Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic,
+  AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex
+  AI, Gemini, Artifacts, AI model switching, me'
+license: MIT
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 39285
+agent_fit_score: 5.9
+tags:
+- ai
+- anthropic
+- artifacts
+- aws
+- azure
+- chatgpt
+- chatgpt-clone
+- claude
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/danny-avila/LibreChat
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.986

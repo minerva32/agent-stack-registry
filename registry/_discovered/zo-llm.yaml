@@ -1,0 +1,30 @@
+name: ZO-LLM
+repo: ZO-Bench/ZO-LLM
+category: eval
+homepage: https://github.com/ZO-Bench/ZO-LLM
+description: '[ICML‘24] Official code for the paper "Revisiting Zeroth-Order Optimization
+  for Memory-Efficient LLM Fine-Tuning: A Benchmark ".'
+license: GPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 126
+agent_fit_score: 4.0
+tags:
+- large-language-models
+- parameter-efficient-tuning
+- zeroth-order-optimization
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ZO-Bench/ZO-LLM
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.98

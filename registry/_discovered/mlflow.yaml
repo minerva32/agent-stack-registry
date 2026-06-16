@@ -1,0 +1,36 @@
+name: mlflow
+repo: mlflow/mlflow
+category: eval
+homepage: https://github.com/mlflow/mlflow
+description: The open source AI engineering platform for agents, LLMs, and ML models.
+  MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality
+  AI applications while controllin
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 26556
+agent_fit_score: 4.9
+tags:
+- agentops
+- agents
+- ai
+- ai-governance
+- apache-spark
+- evaluation
+- langchain
+- llm-evaluation
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/mlflow/mlflow
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.045999999999999

@@ -1,0 +1,36 @@
+name: nuwax
+repo: nuwax-ai/nuwax
+category: tool
+homepage: https://github.com/nuwax-ai/nuwax
+description: Nuwax Agent OS - An enterprise-grade AI Agent Development and Operation
+  Platform - Providing a complete solution for agent creation and distribution, knowledge
+  base management, model proxy, memory sys
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 785
+agent_fit_score: 5.6
+tags:
+- a2a
+- agent
+- agent-os
+- agent-sandbox
+- agentic
+- agentic-rag
+- agentos
+- application
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/nuwax-ai/nuwax
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.978

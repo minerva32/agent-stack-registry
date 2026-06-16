@@ -1,0 +1,35 @@
+name: Awesome-MCP-ZH
+repo: yzfly/Awesome-MCP-ZH
+category: mcp-server
+homepage: https://github.com/yzfly/Awesome-MCP-ZH
+description: MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 7293
+agent_fit_score: 5.2
+tags:
+- claude
+- claude-mcp
+- deepseek
+- deepseek-mcp
+- mcp
+- mcp-clients
+- mcp-host
+- mcp-server
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/yzfly/Awesome-MCP-ZH
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.51
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.994

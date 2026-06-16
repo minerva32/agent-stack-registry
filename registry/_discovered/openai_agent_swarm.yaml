@@ -1,0 +1,29 @@
+name: OpenAI_Agent_Swarm
+repo: daveshap/OpenAI_Agent_Swarm
+category: tool
+homepage: https://github.com/daveshap/OpenAI_Agent_Swarm
+description: HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!"
+license: MIT
+open_source: true
+interface:
+- cli
+status: archived
+last_verified: '2026-06-16'
+stars: 3098
+agent_fit_score: 4.2
+tags:
+- agent
+- autonomous
+- swarm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/daveshap/OpenAI_Agent_Swarm
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.68
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.99

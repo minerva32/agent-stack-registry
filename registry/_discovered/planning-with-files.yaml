@@ -11,8 +11,8 @@ interface:
 - cli
 status: active
 last_verified: '2026-06-16'
-stars: 23429
-agent_fit_score: 4.9
+stars: 23430
+agent_fit_score: 5.3
 tags:
 - agent-skills
 - agentic-ai
@@ -23,14 +23,14 @@ tags:
 - claude-skills
 - codex
 notes:
-- Auto-scored 2026-06-16
+- Auto-discovered 2026-06-16
 evidence:
 - https://github.com/OthmanAdi/planning-with-files
 score_breakdown:
-  installability: 3
+  installability: 6
   automation_readiness: 3
-  extensibility: 7
-  repo_clarity: 7
+  extensibility: 3
+  repo_clarity: 9
   sandbox_safety: 2
-  reproducibility: 2
-  maintenance: 9.97
+  reproducibility: 5
+  maintenance: 8.988

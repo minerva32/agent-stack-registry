@@ -1,0 +1,32 @@
+name: pm-kit
+repo: kv0906/pm-kit
+category: tool
+homepage: https://github.com/kv0906/pm-kit
+description: AI-augmented PM workspace for Coding Agents — daily standups, decisions,
+  blockers, docs, and sprint reviews as markdown   skills
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 131
+agent_fit_score: 4.6
+tags:
+- claude-code
+- obsidian
+- product
+- productmanagement
+- productmanager
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/kv0906/pm-kit
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.28
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7

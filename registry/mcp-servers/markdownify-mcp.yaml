@@ -1,0 +1,34 @@
+name: markdownify-mcp
+repo: zcaceres/markdownify-mcp
+category: mcp-server
+homepage: https://github.com/zcaceres/markdownify-mcp
+description: A Model Context Protocol server for converting almost anything to Markdown
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 2740
+agent_fit_score: 7.0
+tags:
+- ai
+- anthropic
+- anthropic-ai
+- anthropic-claude
+- markdown
+- mcp
+- model-context-protocol
+- ocr
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/zcaceres/markdownify-mcp
+score_breakdown:
+  installability: 5
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 10
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.915

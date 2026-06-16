@@ -1,0 +1,35 @@
+name: camel
+repo: camel-ai/camel
+category: tool
+homepage: https://github.com/camel-ai/camel
+description: '🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling
+  Law of Agents. https://www.camel-ai.org'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 17206
+agent_fit_score: 5.2
+tags:
+- agent
+- ai-societies
+- artificial-intelligence
+- communicative-ai
+- cooperative-ai
+- deep-learning
+- large-language-models
+- multi-agent-systems
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/camel-ai/camel
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.14
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.1

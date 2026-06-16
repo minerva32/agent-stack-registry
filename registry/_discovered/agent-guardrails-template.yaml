@@ -1,0 +1,35 @@
+name: agent-guardrails-template
+repo: TheArchitectit/agent-guardrails-template
+category: safety
+homepage: https://github.com/TheArchitectit/agent-guardrails-template
+description: Template repository with AI agent guardrails, safety protocols, and sprint
+  task framework. For Claude, GPT, Gemini, and all LLMs.
+license: BSD-3-Clause
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 66
+agent_fit_score: 4.5
+tags:
+- ai-agents
+- claude
+- gemini
+- gpt
+- guardrails
+- llm
+- safety
+- template
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/TheArchitectit/agent-guardrails-template
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.29
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6

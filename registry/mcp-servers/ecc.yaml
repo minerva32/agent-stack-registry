@@ -1,0 +1,36 @@
+name: ECC
+repo: affaan-m/ECC
+category: mcp-server
+homepage: https://github.com/affaan-m/ECC
+description: The agent harness performance optimization system. Skills, instincts,
+  memory, security, and research-first development for Claude Code, Codex, Opencode,
+  Cursor and beyond.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 216583
+agent_fit_score: 6.0
+tags:
+- ai-agents
+- anthropic
+- claude
+- claude-code
+- developer-tools
+- llm
+- mcp
+- productivity
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/affaan-m/ECC
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.71
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.96

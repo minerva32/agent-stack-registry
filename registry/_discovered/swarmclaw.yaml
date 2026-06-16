@@ -1,0 +1,36 @@
+name: swarmclaw
+repo: swarmclawai/swarmclaw
+category: tool
+homepage: https://github.com/swarmclawai/swarmclaw
+description: 'Open-source self-hosted AI agent runtime and multi-agent framework for
+  autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+
+  LLM providers (Claude, GPT, Gemini, OpenRouter, '
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 584
+agent_fit_score: 5.1
+tags:
+- agent-framework
+- agent-memory
+- agent-runtime
+- agent-swarm
+- agents
+- ai
+- ai-agent-framework
+- ai-agents
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/swarmclawai/swarmclaw
+score_breakdown:
+  installability: 3
+  automation_readiness: 7
+  extensibility: 7
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.98

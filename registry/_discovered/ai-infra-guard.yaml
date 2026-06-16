@@ -1,0 +1,36 @@
+name: AI-Infra-Guard
+repo: Tencent/AI-Infra-Guard
+category: eval
+homepage: https://github.com/Tencent/AI-Infra-Guard
+description: A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw
+  Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak
+  evaluation.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 3907
+agent_fit_score: 5.2
+tags:
+- agent
+- agent-security
+- ai-infra
+- ai-red-teaming
+- ai-security
+- llm
+- llm-evaluation
+- llm-jailbreak
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Tencent/AI-Infra-Guard
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.66
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.982

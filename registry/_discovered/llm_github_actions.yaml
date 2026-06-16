@@ -1,0 +1,27 @@
+name: llm_github_actions
+repo: MalteLeuschner/llm_github_actions
+category: tool
+homepage: https://github.com/MalteLeuschner/llm_github_actions
+description: 'We implement a github actions llm that creates google docstrings, typing,
+  linting, and the sphinx documentation. '
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 8
+agent_fit_score: 4.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/MalteLeuschner/llm_github_actions
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.129999999999999
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 2

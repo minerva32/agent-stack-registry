@@ -1,0 +1,32 @@
+name: eval-dev-quality
+repo: symflower/eval-dev-quality
+category: eval
+homepage: https://github.com/symflower/eval-dev-quality
+description: 'DevQualityEval: An evaluation benchmark 📈 and framework to compare and
+  evolve the quality of code generation of LLMs.'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 186
+agent_fit_score: 4.2
+tags:
+- evaluation
+- evaluation-framework
+- llms
+- software-development
+- software-quality
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/symflower/eval-dev-quality
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.17
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.95

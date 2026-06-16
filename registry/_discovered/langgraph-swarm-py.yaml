@@ -1,0 +1,32 @@
+name: langgraph-swarm-py
+repo: langchain-ai/langgraph-swarm-py
+category: tool
+homepage: https://github.com/langchain-ai/langgraph-swarm-py
+description: For your multi-agent needs
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1518
+agent_fit_score: 4.9
+tags:
+- agents
+- langgraph
+- llms
+- multiagent
+- multiagent-systems
+- python
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/langchain-ai/langgraph-swarm-py
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.26
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.958

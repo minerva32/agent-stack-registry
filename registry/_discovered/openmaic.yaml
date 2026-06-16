@@ -1,0 +1,27 @@
+name: OpenMAIC
+repo: THU-MAIC/OpenMAIC
+category: tool
+homepage: https://github.com/THU-MAIC/OpenMAIC
+description: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent
+  learning experience in just one click
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 18632
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/THU-MAIC/OpenMAIC
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.08
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.588

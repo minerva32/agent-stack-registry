@@ -1,0 +1,35 @@
+name: EverOS
+repo: EverMind-AI/EverOS
+category: tool
+homepage: https://github.com/EverMind-AI/EverOS
+description: Self-evolving memory across Agent and platform. The one portable memory
+  layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 7541
+agent_fit_score: 5.5
+tags:
+- agent-memory
+- agentic-ai
+- ai
+- chats
+- clawdbot
+- clawdbot-skill
+- llm
+- long-term-memory
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/EverMind-AI/EverOS
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.51
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.938

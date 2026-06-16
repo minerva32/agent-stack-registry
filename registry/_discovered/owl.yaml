@@ -1,0 +1,32 @@
+name: owl
+repo: camel-ai/owl
+category: tool
+homepage: https://github.com/camel-ai/owl
+description: '🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance
+  in Real-World Task Automation'
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 19855
+agent_fit_score: 4.0
+tags:
+- agent
+- artificial-intelligence
+- multi-agent-systems
+- task-automation
+- web-interaction
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/camel-ai/owl
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.0
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.776

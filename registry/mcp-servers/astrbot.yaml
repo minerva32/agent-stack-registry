@@ -1,0 +1,35 @@
+name: AstrBot
+repo: AstrBotDevs/AstrBot
+category: mcp-server
+homepage: https://github.com/AstrBotDevs/AstrBot
+description: AI Agent Assistant & development framework that integrates lots of IM
+  platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+license: AGPL-3.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 34774
+agent_fit_score: 6.6
+tags:
+- agent
+- ai
+- chatbot
+- chatgpt
+- discord
+- docker
+- gemini
+- gpt
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/AstrBotDevs/AstrBot
+score_breakdown:
+  installability: 5
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 9

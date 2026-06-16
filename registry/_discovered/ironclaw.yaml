@@ -1,0 +1,31 @@
+name: ironclaw
+repo: nearai/ironclaw
+category: safety
+homepage: https://github.com/nearai/ironclaw
+description: IronClaw is an Agent OS focused on privacy, security and extensibility
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 12456
+agent_fit_score: 4.5
+tags:
+- codeact
+- openclaw
+- rlm
+- rust
+- wasm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/nearai/ironclaw
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.63

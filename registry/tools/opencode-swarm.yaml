@@ -1,0 +1,36 @@
+name: opencode-swarm
+repo: zaxbysauce/opencode-swarm
+category: tool
+homepage: https://github.com/zaxbysauce/opencode-swarm
+description: '  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke
+  orchestration with SME consultation, code generation, and QA review.'
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 352
+agent_fit_score: 6.5
+tags:
+- agent-swarm
+- ai-agents
+- ai-coding
+- automation
+- bun
+- cli
+- code-review
+- coding-agent
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/zaxbysauce/opencode-swarm
+score_breakdown:
+  installability: 7
+  automation_readiness: 10
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.64

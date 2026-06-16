@@ -1,0 +1,33 @@
+name: openinterpreter
+repo: openinterpreter/openinterpreter
+category: agent
+homepage: https://github.com/openinterpreter/openinterpreter
+description: A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 64004
+agent_fit_score: 4.9
+tags:
+- coding-agent
+- deepseek
+- interpreter
+- kimi
+- qwen
+- rust
+- tui
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/openinterpreter/openinterpreter
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.72
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.462

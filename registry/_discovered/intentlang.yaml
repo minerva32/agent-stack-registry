@@ -1,0 +1,33 @@
+name: intentlang
+repo: l3yx/intentlang
+category: tool
+homepage: https://github.com/l3yx/intentlang
+description: 'The next-generation AI Agent framework driven by Intent Engineering.
+  Move beyond turn-based Function Calling to embrace code-level intent expression
+  and embedded execution.                         An '
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 90
+agent_fit_score: 4.1
+tags:
+- agentframework
+- ai
+- ai-agent
+- llm
+- python
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/l3yx/intentlang
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3

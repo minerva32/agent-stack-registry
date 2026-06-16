@@ -1,0 +1,35 @@
+name: kibitz
+repo: kibitzsh/kibitz
+category: tool
+homepage: https://github.com/kibitzsh/kibitz
+description: Real-time decoded feed of AI agent actions — monitor multiple Claude
+  Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms
+  efficiently
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 512
+agent_fit_score: 5.5
+tags:
+- claude
+- claudecode
+- cli
+- codex
+- macos
+- vscode-extension
+- windows
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/kibitzsh/kibitz
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 7.63
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7

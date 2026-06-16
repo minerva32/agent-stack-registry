@@ -1,0 +1,35 @@
+name: memU
+repo: NevaMind-AI/memU
+category: tool
+homepage: https://github.com/NevaMind-AI/memU
+description: The memory harness for proactive AI agents — structured storage, intent
+  capture, 10x token reduction.
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 13874
+agent_fit_score: 5.1
+tags:
+- agent-memory
+- agentic-workflow
+- claude
+- claude-skills
+- mcp
+- memory
+- openclaw
+- openclaw-skills
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/NevaMind-AI/memU
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 3.01
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.804

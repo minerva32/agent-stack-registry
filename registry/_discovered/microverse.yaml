@@ -1,0 +1,32 @@
+name: Microverse
+repo: KsanaDock/Microverse
+category: safety
+homepage: https://github.com/KsanaDock/Microverse
+description: 'A god-simulation sandbox game built on Godot 4 as a multi-agent AI social
+  simulation system. In this virtual world, AI characters possess independent thinking
+  and memory, capable of autonomous social '
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2367
+agent_fit_score: 5.4
+tags:
+- ai-game
+- ai-world-simulation
+- godot
+- multi-agent
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/KsanaDock/Microverse
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.98

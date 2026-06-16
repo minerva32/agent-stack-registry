@@ -1,0 +1,28 @@
+name: bottleneck
+repo: areibman/bottleneck
+category: tool
+homepage: https://github.com/areibman/bottleneck
+description: Code review for AI native teams. Native Electron app for reviewing pull
+  requests dramatically faster than Github web. Specialized for handling reviews for
+  background agents working on multiple concurr
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 154
+agent_fit_score: 4.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/areibman/bottleneck
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.888

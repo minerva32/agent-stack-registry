@@ -1,0 +1,36 @@
+name: fast-agent
+repo: evalstate/fast-agent
+category: eval
+homepage: https://github.com/evalstate/fast-agent
+description: Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP
+  Support
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3825
+agent_fit_score: 6.0
+tags:
+- acp
+- agent
+- agent-framework
+- agent-skills
+- cli
+- mcp
+- mcp-client
+- mcp-server
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/evalstate/fast-agent
+score_breakdown:
+  installability: 8
+  automation_readiness: 10
+  extensibility: 3
+  repo_clarity: 5.76
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.944

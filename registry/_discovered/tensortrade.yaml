@@ -1,0 +1,27 @@
+name: tensortrade
+repo: tensortrade-org/tensortrade
+category: eval
+homepage: https://github.com/tensortrade-org/tensortrade
+description: An open source reinforcement learning framework for training, evaluating,
+  and deploying robust trading agents.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6346
+agent_fit_score: 5.1
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/tensortrade-org/tensortrade
+score_breakdown:
+  installability: 7
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 5.765

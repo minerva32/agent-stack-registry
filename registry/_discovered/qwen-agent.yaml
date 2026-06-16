@@ -1,0 +1,27 @@
+name: Qwen-Agent
+repo: QwenLM/Qwen-Agent
+category: tool
+homepage: https://github.com/QwenLM/Qwen-Agent
+description: Agent framework and applications built upon Qwen>=3.0, featuring Function
+  Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 16561
+agent_fit_score: 4.5
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/QwenLM/Qwen-Agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.33
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.978

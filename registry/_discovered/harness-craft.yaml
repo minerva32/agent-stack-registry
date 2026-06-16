@@ -1,0 +1,28 @@
+name: harness-craft
+repo: YuxiaoWang-520/harness-craft
+category: tool
+homepage: https://github.com/YuxiaoWang-520/harness-craft
+description: A composable library of skills and rules for AI coding agents. Covers
+  repo memory,      long-horizon execution, multi-agent coordination, TDD, security
+  review, and delivery automation.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 86
+agent_fit_score: 4.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/YuxiaoWang-520/harness-craft
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.84
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6

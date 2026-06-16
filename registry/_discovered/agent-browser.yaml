@@ -1,0 +1,26 @@
+name: agent-browser
+repo: vercel-labs/agent-browser
+category: tool
+homepage: https://github.com/vercel-labs/agent-browser
+description: Browser automation CLI for AI agents
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 36215
+agent_fit_score: 4.9
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/vercel-labs/agent-browser
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.36
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.95

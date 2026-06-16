@@ -1,0 +1,35 @@
+name: codeg
+repo: xintaofei/codeg
+category: agent
+homepage: https://github.com/xintaofei/codeg
+description: 'Collaborative multi-agent AI coding workspace: aggregate sessions from
+  Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1673
+agent_fit_score: 5.0
+tags:
+- acp
+- agent
+- claude-code
+- code-generation
+- codex
+- gemini-cli
+- git
+- gui
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/xintaofei/codeg
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.51
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.826

@@ -1,0 +1,36 @@
+name: cua
+repo: trycua/cua
+category: eval
+homepage: https://github.com/trycua/cua
+description: Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs,
+  and benchmarks to train and evaluate AI agents that can control full desktops (macOS,
+  Linux, Windows).
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 18348
+agent_fit_score: 5.1
+tags:
+- agent
+- ai-agent
+- apple
+- computer-use
+- computer-use-agent
+- containerization
+- cua
+- desktop-automation
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/trycua/cua
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.71
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 8.25

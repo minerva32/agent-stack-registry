@@ -1,0 +1,36 @@
+name: ultraship
+repo: Houseofmvps/ultraship
+category: safety
+homepage: https://github.com/Houseofmvps/ultraship
+description: '"ULTRASHIP" Claude Code plugin — 39 skills, 33 tools, 11 agents for
+  ship-ready workflows: planning, review, pentesting, safety guardrails, canary monitoring,
+  SEO/AI-readiness check, penetration testin'
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 106
+agent_fit_score: 6.1
+tags:
+- aeo
+- ai
+- claude
+- claude-code
+- claude-code-plugin
+- claude-code-plugins
+- code-review
+- competitive-analysis
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Houseofmvps/ultraship
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.0

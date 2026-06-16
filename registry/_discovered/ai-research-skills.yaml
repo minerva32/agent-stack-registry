@@ -1,0 +1,36 @@
+name: ai-research-skills
+repo: WenyuChiou/ai-research-skills
+category: tool
+homepage: https://github.com/WenyuChiou/ai-research-skills
+description: 'Universal SKILL.md catalog for research workflows: literature review,
+  research design, project memory, manuscript writing, and cross-agent delegation
+  for Claude Code, Codex, Gemini, Cursor, OpenClaw, '
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 100
+agent_fit_score: 5.0
+tags:
+- academic-writing
+- agentic-ai
+- agentskills
+- ai-research
+- ai-skills
+- claude-code
+- claude-skills
+- codex
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/WenyuChiou/ai-research-skills
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6

@@ -1,0 +1,36 @@
+name: promptfoo
+repo: promptfoo/promptfoo
+category: tool
+homepage: https://github.com/promptfoo/promptfoo
+description: 'Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability
+  scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more.
+  Simple declarative configs with command line '
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 22277
+agent_fit_score: 5.6
+tags:
+- ci
+- ci-cd
+- cicd
+- evaluation
+- evaluation-framework
+- llm
+- llm-eval
+- llm-evaluation
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/promptfoo/promptfoo
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 10
+  maintenance: 8.336

@@ -1,0 +1,36 @@
+name: skales
+repo: skalesapp/skales
+category: agent
+homepage: https://github.com/skalesapp/skales
+description: Your personal AI desktop agent for Windows, macOS, Linux & Android. Set
+  a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent,
+  Workflows, Codework, multi-agent orgs, des
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 1081
+agent_fit_score: 4.6
+tags:
+- agentic-ai
+- ai-agent
+- ai-assistant
+- ai-companions
+- android
+- automation
+- autonomous-agent
+- desktop-app
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/skalesapp/skales
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 4
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.998

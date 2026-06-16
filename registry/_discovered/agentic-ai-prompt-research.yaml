@@ -1,0 +1,32 @@
+name: agentic-ai-prompt-research
+repo: Leonxlnx/agentic-ai-prompt-research
+category: safety
+homepage: https://github.com/Leonxlnx/agentic-ai-prompt-research
+description: Research into how agentic AI coding assistants work. Reconstructed prompt
+  patterns, agent coordination, and security classification
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2453
+agent_fit_score: 3.9
+tags:
+- agentic-ai
+- ai-research
+- claude
+- prompt-engineering
+- system-prompts
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Leonxlnx/agentic-ai-prompt-research
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.3100000000000005
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.994

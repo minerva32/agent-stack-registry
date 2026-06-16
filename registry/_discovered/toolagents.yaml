@@ -1,0 +1,35 @@
+name: ToolAgents
+repo: Maximilian-Winter/ToolAgents
+category: tool
+homepage: https://github.com/Maximilian-Winter/ToolAgents
+description: ToolAgents is a lightweight and flexible framework for creating function-calling
+  agents with various language models and APIs.
+license: MIT
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 38
+agent_fit_score: 5.3
+tags:
+- agent
+- agents
+- function-calling
+- llm
+- llm-agent
+- llm-agents
+- llms
+- local-llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Maximilian-Winter/ToolAgents
+score_breakdown:
+  installability: 7
+  automation_readiness: 5
+  extensibility: 6
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6.995

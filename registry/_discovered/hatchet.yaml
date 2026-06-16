@@ -1,0 +1,35 @@
+name: hatchet
+repo: hatchet-dev/hatchet
+category: tool
+homepage: https://github.com/hatchet-dev/hatchet
+description: 🪓 An orchestration engine for background tasks, AI agents, and durable
+  workflows
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 7367
+agent_fit_score: 4.6
+tags:
+- concurrency
+- dag
+- distributed
+- distributed-systems
+- durable-execution
+- event-driven
+- fastapi
+- golang
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/hatchet-dev/hatchet
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.736

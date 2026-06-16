@@ -1,0 +1,37 @@
+name: openagent
+repo: Haohao-end/openagent
+category: tool
+homepage: https://github.com/Haohao-end/openagent
+description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi),
+  knowledge base management, workflow automation, and enterprise-grade security. Built
+  with Flask + Vue3 + LangC
+license: unknown
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 824
+agent_fit_score: 5.6
+tags:
+- agent
+- ai
+- celery
+- deepagents
+- deepresearch
+- deepseek
+- docker
+- faiss-vector-database
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Haohao-end/openagent
+score_breakdown:
+  installability: 8
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 6.922

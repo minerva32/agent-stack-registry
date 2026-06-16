@@ -1,0 +1,37 @@
+name: FrontAgent
+repo: FrontAgent/FrontAgent
+category: safety
+homepage: https://github.com/FrontAgent/FrontAgent
+description: Frontend AI coding agent platform with CLI, VS Code extension, desktop
+  app, MCP server, RAG planning, Skills, SDD guardrails, browser automation, and LoRA
+  planner models | 面向前端工程的 AI Agent 平台，支持 CLI、V
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 104
+agent_fit_score: 6.1
+tags:
+- agent
+- controllable
+- feedback
+- frontend
+- grounded
+- mcp
+- multi-phases
+- rag
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/FrontAgent/FrontAgent
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.98

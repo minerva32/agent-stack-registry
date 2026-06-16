@@ -1,0 +1,31 @@
+name: Julia-LLM-Leaderboard
+repo: svilupp/Julia-LLM-Leaderboard
+category: eval
+homepage: https://github.com/svilupp/Julia-LLM-Leaderboard
+description: Provides a platform for the Julia community to compare AI models' abilities
+  in generating syntactically correct Julia code, featuring structured tests and automated
+  evaluations for easy and collaborat
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 86
+agent_fit_score: 4.3
+tags:
+- generative-ai
+- julia
+- julialang
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/svilupp/Julia-LLM-Leaderboard
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 2.996

@@ -1,0 +1,36 @@
+name: OpenViking
+repo: volcengine/OpenViking
+category: tool
+homepage: https://github.com/volcengine/OpenViking
+description: OpenViking is an open-source context database designed specifically for
+  AI Agents(such as openclaw). OpenViking unifies the management of context (memory,
+  resources, and skills) that Agents need throu
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 25714
+agent_fit_score: 5.1
+tags:
+- agent
+- agentic-rag
+- ai-agents
+- clawbot
+- context-database
+- context-engineering
+- filesystem
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/volcengine/OpenViking
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.478

@@ -1,0 +1,31 @@
+name: claude-code-system-prompts
+repo: Piebald-AI/claude-code-system-prompts
+category: safety
+homepage: https://github.com/Piebald-AI/claude-code-system-prompts
+description: All parts of Claude Code's system prompt, 27 builtin tool descriptions,
+  sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline,
+  magic docs, WebFetch, Bash cmd, securit
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 11138
+agent_fit_score: 5.0
+tags:
+- claude-code
+- claude-code-system-prompts
+- system-prompts
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Piebald-AI/claude-code-system-prompts
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.986

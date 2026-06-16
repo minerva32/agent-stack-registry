@@ -1,0 +1,36 @@
+name: TrendRadar
+repo: sansan0/TrendRadar
+category: mcp-server
+homepage: https://github.com/sansan0/TrendRadar
+description: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation,
+  RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI
+  智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+license: GPL-3.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 59523
+agent_fit_score: 5.7
+tags:
+- ai
+- bark
+- data-analysis
+- docker
+- hot-news
+- llm
+- mail
+- mcp
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/sansan0/TrendRadar
+score_breakdown:
+  installability: 5
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 10

@@ -1,0 +1,27 @@
+name: llm-wiki-skill
+repo: lewislulu/llm-wiki-skill
+category: tool
+homepage: https://github.com/lewislulu/llm-wiki-skill
+description: Karpathy-style LLM knowledge base Agent Skill for OpenClaw/Codex. Experimental
+  — will iterate over time.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 586
+agent_fit_score: 4.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/lewislulu/llm-wiki-skill
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.04
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6.992

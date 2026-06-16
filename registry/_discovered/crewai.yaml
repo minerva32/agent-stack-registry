@@ -1,0 +1,33 @@
+name: crewAI
+repo: crewAIInc/crewAI
+category: tool
+homepage: https://github.com/crewAIInc/crewAI
+description: Framework for orchestrating role-playing, autonomous AI agents. By fostering
+  collaborative intelligence, CrewAI empowers agents to work together seamlessly,
+  tackling complex tasks.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 53702
+agent_fit_score: 5.1
+tags:
+- agents
+- ai
+- ai-agents
+- aiagentframework
+- llms
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/crewAIInc/crewAI
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.076

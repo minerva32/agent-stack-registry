@@ -1,0 +1,35 @@
+name: agent-protocol
+repo: agi-inc/agent-protocol
+category: tool
+homepage: https://github.com/agi-inc/agent-protocol
+description: Common interface for interacting with AI agents. The protocol is tech
+  stack agnostic - you can use it with any framework for building agents.
+license: MIT
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 1462
+agent_fit_score: 4.6
+tags:
+- agents
+- ai
+- ai-agent
+- api
+- auto-gpt
+- gpt-4
+- javascript
+- llms
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/agi-inc/agent-protocol
+score_breakdown:
+  installability: 6
+  automation_readiness: 5
+  extensibility: 3
+  repo_clarity: 6.41
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.906

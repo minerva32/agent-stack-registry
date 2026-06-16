@@ -1,0 +1,37 @@
+name: firecrawl-mcp-server
+repo: firecrawl/firecrawl-mcp-server
+category: mcp-server
+homepage: https://github.com/firecrawl/firecrawl-mcp-server
+description: 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search
+  to Cursor, Claude and any other LLM clients.
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 6594
+agent_fit_score: 5.6
+tags:
+- batch-processing
+- claude
+- content-extraction
+- data-collection
+- firecrawl
+- firecrawl-ai
+- javascript-rendering
+- llm-tools
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/firecrawl/firecrawl-mcp-server
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.16
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.756

@@ -1,0 +1,27 @@
+name: mcp-go
+repo: mark3labs/mcp-go
+category: mcp-server
+homepage: https://github.com/mark3labs/mcp-go
+description: A Go implementation of the Model Context Protocol (MCP), enabling seamless
+  integration between LLM applications and external data sources and tools.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 8805
+agent_fit_score: 5.8
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mark3labs/mcp-go
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9.48
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.956

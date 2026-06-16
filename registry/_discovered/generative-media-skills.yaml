@@ -1,0 +1,37 @@
+name: Generative-Media-Skills
+repo: SamurAIGPT/Generative-Media-Skills
+category: agent
+homepage: https://github.com/SamurAIGPT/Generative-Media-Skills
+description: Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor,
+  Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 3549
+agent_fit_score: 5.4
+tags:
+- agent-skills
+- agent-tools
+- ai-agents
+- ai-video
+- claude-code
+- claude-code-skills
+- claude-skills
+- flux
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/SamurAIGPT/Generative-Media-Skills
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.53
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.994

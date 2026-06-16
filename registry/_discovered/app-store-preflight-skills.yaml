@@ -1,0 +1,27 @@
+name: app-store-preflight-skills
+repo: truongduy2611/app-store-preflight-skills
+category: tool
+homepage: https://github.com/truongduy2611/app-store-preflight-skills
+description: AI agent skill to scan iOS/macOS projects for App Store rejection patterns
+  before submission
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1243
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/truongduy2611/app-store-preflight-skills
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.92
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8

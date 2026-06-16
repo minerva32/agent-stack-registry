@@ -1,0 +1,27 @@
+name: copilot-sdk
+repo: github/copilot-sdk
+category: tool
+homepage: https://github.com/github/copilot-sdk
+description: Multi-platform SDK for integrating GitHub Copilot Agent into apps and
+  services
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 9406
+agent_fit_score: 4.6
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/github/copilot-sdk
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.78
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.62

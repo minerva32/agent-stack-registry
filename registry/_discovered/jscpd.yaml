@@ -1,0 +1,35 @@
+name: jscpd
+repo: kucherenko/jscpd
+category: mcp-server
+homepage: https://github.com/kucherenko/jscpd
+description: Copy/paste detector for programming source code, supports 223 formats.
+  AI-ready with token-efficient reporter, skill and MCP server.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 5776
+agent_fit_score: 5.5
+tags:
+- ai
+- clones-detection
+- code-quality
+- coding-agents
+- copy-paste
+- cpd
+- detector
+- dry
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/kucherenko/jscpd
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.32
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.912

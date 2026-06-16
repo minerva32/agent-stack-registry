@@ -1,0 +1,27 @@
+name: stage-cli
+repo: ReviewStage/stage-cli
+category: tool
+homepage: https://github.com/ReviewStage/stage-cli
+description: A viewer for reviewing local code changes in small individual chapters.
+  Works with any AI agent.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 233
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/ReviewStage/stage-cli
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.96
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.982

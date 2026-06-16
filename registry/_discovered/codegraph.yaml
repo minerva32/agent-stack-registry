@@ -1,0 +1,28 @@
+name: codegraph
+repo: colbymchenry/codegraph
+category: agent
+homepage: https://github.com/colbymchenry/codegraph
+description: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude
+  Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer
+  tokens, fewer tool calls, 100% local
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 50224
+agent_fit_score: 5.5
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/colbymchenry/codegraph
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.92
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.486

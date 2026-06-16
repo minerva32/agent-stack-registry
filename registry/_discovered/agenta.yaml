@@ -1,0 +1,35 @@
+name: agenta
+repo: Agenta-AI/agenta
+category: eval
+homepage: https://github.com/Agenta-AI/agenta
+description: 'The open-source LLMOps platform: prompt playground, prompt management,
+  LLM evaluation, and LLM observability all in one place.'
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4210
+agent_fit_score: 3.9
+tags:
+- agents
+- evaluation
+- llm-as-a-judge
+- llm-evaluation
+- llm-framework
+- llm-monitoring
+- llm-observability
+- llm-platform
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Agenta-AI/agenta
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.26
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.838

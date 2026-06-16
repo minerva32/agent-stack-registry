@@ -1,0 +1,34 @@
+name: mianshiya
+repo: liyupi/mianshiya
+category: tool
+homepage: https://github.com/liyupi/mianshiya
+description: 持续维护的企业面试题库网站，帮你拿到满意 offer！⭐️ 2026年最新Java面试题、前端面试题、AI大模型面试题、AI Agent面试题、RAG面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题、
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5572
+agent_fit_score: 4.7
+tags:
+- ai
+- ai-agents
+- algorithm
+- ant-design
+- backend
+- cpp
+- css
+- database
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/liyupi/mianshiya
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.934

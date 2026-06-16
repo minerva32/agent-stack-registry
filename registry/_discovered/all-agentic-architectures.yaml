@@ -1,0 +1,34 @@
+name: all-agentic-architectures
+repo: FareedKhan-dev/all-agentic-architectures
+category: eval
+homepage: https://github.com/FareedKhan-dev/all-agentic-architectures
+description: 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG,
+  MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with
+  multi-provider LLM support and a 17-task benc
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3635
+agent_fit_score: 5.0
+tags:
+- agentic-ai
+- ai-agents
+- langchain
+- langgraph
+- langsmith
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/FareedKhan-dev/all-agentic-architectures
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.994

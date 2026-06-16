@@ -1,0 +1,36 @@
+name: minds
+repo: mindsdb/minds
+category: mcp-server
+homepage: https://github.com/mindsdb/minds
+description: General-purpose AI designed for knowledge workers — creators, strategists,
+  and operators — and individuals seeking AI systems they can truly control to help
+  them get work done, with full flexibility t
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 39313
+agent_fit_score: 5.7
+tags:
+- agents
+- ai
+- analytics
+- artificial-inteligence
+- bigquery
+- business-intelligence
+- databases
+- hacktoberfest
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mindsdb/minds
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.826

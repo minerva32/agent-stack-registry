@@ -1,0 +1,33 @@
+name: OpenCLI
+repo: jackwener/OpenCLI
+category: tool
+homepage: https://github.com/jackwener/OpenCLI
+description: 'Make Any Website into CLI & Use your logged-in browser by AI agent. '
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 24553
+agent_fit_score: 5.9
+tags:
+- ai-agent
+- ai-agents
+- ai-tools
+- browser-automation
+- browser-use
+- cli
+- playwright
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/jackwener/OpenCLI
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 8.68
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.672

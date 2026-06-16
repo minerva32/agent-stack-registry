@@ -1,0 +1,36 @@
+name: LocalAI
+repo: mudler/LocalAI
+category: mcp-server
+homepage: https://github.com/mudler/LocalAI
+description: LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice,
+  image, video - on any hardware. No GPU required.
+license: MIT
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 46891
+agent_fit_score: 6.0
+tags:
+- agents
+- ai
+- api
+- audio-generation
+- decentralized
+- distributed
+- image-generation
+- libp2p
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mudler/LocalAI
+score_breakdown:
+  installability: 5
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 9.035

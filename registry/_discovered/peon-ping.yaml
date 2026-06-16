@@ -1,0 +1,35 @@
+name: peon-ping
+repo: PeonPing/peon-ping
+category: agent
+homepage: https://github.com/PeonPing/peon-ping
+description: Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex,
+  IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4824
+agent_fit_score: 4.8
+tags:
+- ai
+- ai-engineering
+- antigravity
+- claude-code
+- codex
+- cursor
+- opencode
+- terminal
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/PeonPing/peon-ping
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.48
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.946

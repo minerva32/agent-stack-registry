@@ -1,0 +1,27 @@
+name: cv-arxiv-daily
+repo: Xuchen-Li/cv-arxiv-daily
+category: tool
+homepage: https://github.com/Xuchen-Li/cv-arxiv-daily
+description: Automatically update arXiv papers about SOT & VLT,  Multi-modal Learning,
+  LLM and Video Understanding using Github Actions.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 47
+agent_fit_score: 4.0
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/Xuchen-Li/cv-arxiv-daily
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.23
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 5.998

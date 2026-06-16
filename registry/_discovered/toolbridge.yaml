@@ -1,0 +1,28 @@
+name: toolbridge
+repo: Oct4Pie/toolbridge
+category: tool
+homepage: https://github.com/Oct4Pie/toolbridge
+description: Enable tool/function calling for any LLM, in OpenAI and Ollama API formats,
+  adding universal function calling to models without native support. Use local or
+  cloud models with full agent capabilities.
+license: MIT
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 75
+agent_fit_score: 4.9
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Oct4Pie/toolbridge
+score_breakdown:
+  installability: 7
+  automation_readiness: 5
+  extensibility: 6
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.99

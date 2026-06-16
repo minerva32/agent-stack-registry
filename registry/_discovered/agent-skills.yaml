@@ -1,0 +1,32 @@
+name: agent-skills
+repo: addyosmani/agent-skills
+category: agent
+homepage: https://github.com/addyosmani/agent-skills
+description: Production-grade engineering skills for AI coding agents.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 61005
+agent_fit_score: 4.9
+tags:
+- agent-skills
+- antigravity
+- antigravity-ide
+- claude-code
+- cursor
+- skills
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/addyosmani/agent-skills
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.57
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.725999999999999

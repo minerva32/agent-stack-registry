@@ -1,0 +1,31 @@
+name: letta
+repo: letta-ai/letta
+category: tool
+homepage: https://github.com/letta-ai/letta
+description: 'Platform for stateful agents: AI with advanced memory that can learn
+  and self-improve over time.'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 23363
+agent_fit_score: 5.0
+tags:
+- ai
+- ai-agents
+- llm
+- llm-agent
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/letta-ai/letta
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.96
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.87

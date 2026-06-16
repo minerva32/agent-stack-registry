@@ -1,0 +1,33 @@
+name: PostTrainBench
+repo: aisa-group/PostTrainBench
+category: agent
+homepage: https://github.com/aisa-group/PostTrainBench
+description: Measuring how well CLI agents like Claude Code or Codex CLI can post-train
+  base LLMs on a single H100 GPU in 10 hours
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 362
+agent_fit_score: 4.9
+tags:
+- ai-research-automation
+- ai-safety
+- claude-code
+- codex-cli
+- gemini-cli
+- post-training
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/aisa-group/PostTrainBench
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.17
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.97

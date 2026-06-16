@@ -1,0 +1,31 @@
+name: OpenSandbox
+repo: opensandbox-group/OpenSandbox
+category: safety
+homepage: https://github.com/opensandbox-group/OpenSandbox
+description: Secure, Fast, and Extensible Sandbox runtime for AI agents.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 11552
+agent_fit_score: 6.2
+tags:
+- ai
+- ai-agent
+- ai-infra
+- kubernetes
+- sandbox
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/opensandbox-group/OpenSandbox
+score_breakdown:
+  installability: 10
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 9.53

@@ -1,0 +1,35 @@
+name: composio
+repo: ComposioHQ/composio
+category: safety
+homepage: https://github.com/ComposioHQ/composio
+description: Composio powers 1000+ toolkits, tool search, context management, authentication,
+  and a sandboxed workbench to help you build AI agents that turn intent into action.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 28800
+agent_fit_score: 6.2
+tags:
+- agentic-ai
+- agents
+- ai
+- ai-agents
+- aiagents
+- developer-tools
+- function-calling
+- gpt-4
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ComposioHQ/composio
+score_breakdown:
+  installability: 10
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 9.345

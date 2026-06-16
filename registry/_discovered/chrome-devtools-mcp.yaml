@@ -1,0 +1,34 @@
+name: chrome-devtools-mcp
+repo: ChromeDevTools/chrome-devtools-mcp
+category: mcp-server
+homepage: https://github.com/ChromeDevTools/chrome-devtools-mcp
+description: Chrome DevTools for coding agents
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 43766
+agent_fit_score: 5.3
+tags:
+- browser
+- chrome
+- chrome-devtools
+- debugging
+- devtools
+- mcp
+- mcp-server
+- puppeteer
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ChromeDevTools/chrome-devtools-mcp
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.33
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.818

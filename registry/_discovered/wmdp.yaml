@@ -1,0 +1,28 @@
+name: wmdp
+repo: centerforaisafety/wmdp
+category: eval
+homepage: https://github.com/centerforaisafety/wmdp
+description: WMDP is a LLM proxy benchmark for hazardous knowledge in bio, cyber,
+  and chemical security. We also release code for RMU, an unlearning method which
+  reduces LLM performance on WMDP while retaining gen
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 175
+agent_fit_score: 3.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/centerforaisafety/wmdp
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.925

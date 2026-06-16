@@ -1,0 +1,27 @@
+name: ai-manus
+repo: Simpleyyt/ai-manus
+category: safety
+homepage: https://github.com/Simpleyyt/ai-manus
+description: AI Manus is a general-purpose AI Agent system that supports running various
+  tools and operations in a sandbox environment.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1568
+agent_fit_score: 5.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Simpleyyt/ai-manus
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.22
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.942

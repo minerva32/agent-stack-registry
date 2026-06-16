@@ -1,0 +1,35 @@
+name: computer-agent
+repo: suitedaces/computer-agent
+category: agent
+homepage: https://github.com/suitedaces/computer-agent
+description: Desktop app to control your computer with AI using your terminal, browser,
+  mouse & keyboard
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 655
+agent_fit_score: 3.3
+tags:
+- ai
+- ai-tools
+- anthropic
+- claude-3-5-sonnet
+- claude-4-5-opus
+- claude-4-5-sonnet
+- claude-4-6-opus
+- computer-use
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/suitedaces/computer-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 2.91
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.984

@@ -1,0 +1,36 @@
+name: core
+repo: opensumi/core
+category: mcp-server
+homepage: https://github.com/opensumi/core
+description: A framework helps you quickly build AI Native IDE products. MCP Client,
+  supports Model Context Protocol (MCP) tools via MCP server.
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3635
+agent_fit_score: 5.7
+tags:
+- ai
+- ai-first
+- ai-native
+- editor
+- electron
+- ide
+- ide-framework
+- mcp
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/opensumi/core
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9.31
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.438

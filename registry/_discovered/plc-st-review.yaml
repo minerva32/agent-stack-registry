@@ -1,0 +1,36 @@
+name: plc-st-review
+repo: HeytalePazguato/plc-st-review
+category: tool
+homepage: https://github.com/HeytalePazguato/plc-st-review
+description: Deterministic semantic linter and PR reviewer for IEC 61131-3 Structured
+  Text. 80 checks across diff-based, static integrity, FB-instance, PLCopen, MISRA-C,
+  IEC 61508/62443 mappings. Plus --metrics mo
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 10
+agent_fit_score: 5.6
+tags:
+- ci
+- code-review
+- codesys
+- cybersecurity
+- github-actions
+- gitlab-ci
+- iec61131-3
+- iec61508
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/HeytalePazguato/plc-st-review
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 10
+  maintenance: 4.996

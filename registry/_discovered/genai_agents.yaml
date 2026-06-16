@@ -1,0 +1,35 @@
+name: GenAI_Agents
+repo: NirDiamant/GenAI_Agents
+category: tool
+homepage: https://github.com/NirDiamant/GenAI_Agents
+description: 50+ tutorials and implementations for Generative AI Agent techniques,
+  from basic conversational bots to complex multi-agent systems.
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 22633
+agent_fit_score: 4.6
+tags:
+- agentic-ai
+- agents
+- ai
+- ai-agents
+- autonomous-agents
+- genai
+- generative-ai
+- langchain
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/NirDiamant/GenAI_Agents
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.32
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.984

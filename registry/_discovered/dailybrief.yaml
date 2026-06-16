@@ -1,0 +1,35 @@
+name: DailyBrief
+repo: leiting-eric/DailyBrief
+category: tool
+homepage: https://github.com/leiting-eric/DailyBrief
+description: AI 每日新闻简报 · GitHub 热门 + X 热门文章 + 行情技术分析 · 23 个数据源聚合 + LLM 中文摘要 · 本地或
+  GitHub Actions 部署
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 261
+agent_fit_score: 4.7
+tags:
+- ai
+- claude-code
+- claude-skills
+- daily-digest
+- llm
+- news-aggregator
+- rss-aggregator
+- self-hosted
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/leiting-eric/DailyBrief
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.86
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.998

@@ -1,0 +1,37 @@
+name: defender
+repo: StackOneHQ/defender
+category: tool
+homepage: https://github.com/StackOneHQ/defender
+description: Open source prompt injection protection for Agents calling tools (via
+  MCP, CLI or direct function calling). Detect and defend against prompt injection
+  attacks. 22MB, CPU-only, < 10ms latency.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 106
+agent_fit_score: 5.0
+tags:
+- ai-security
+- indirect-prompt-injection
+- llm-security
+- mcp-security
+- prompt-injection
+- prompt-injection-defense
+- prompt-injection-detection
+- prompt-injection-protection
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/StackOneHQ/defender
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.91
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.996

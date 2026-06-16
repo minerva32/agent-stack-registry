@@ -1,0 +1,35 @@
+name: AgentGuide
+repo: adongwanai/AgentGuide
+category: tool
+homepage: https://github.com/adongwanai/AgentGuide
+description: https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战
+  | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5990
+agent_fit_score: 4.0
+tags:
+- agenticrag
+- ai-agent
+- crewai
+- graphrag
+- grpo
+- interview
+- job-hunting
+- langchain
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/adongwanai/AgentGuide
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.1899999999999995
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.806

@@ -1,0 +1,35 @@
+name: OpenRLHF
+repo: OpenRLHF/OpenRLHF
+category: tool
+homepage: https://github.com/OpenRLHF/OpenRLHF
+description: An Easy-to-use, Scalable and High-performance Agentic RL Framework based
+  on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 9648
+agent_fit_score: 5.0
+tags:
+- large-language-models
+- proximal-policy-optimization
+- raylib
+- reinforcement-learning
+- reinforcement-learning-from-human-feedback
+- transformers
+- visual-language-models
+- vllm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/OpenRLHF/OpenRLHF
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.44
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.326

@@ -1,0 +1,36 @@
+name: accessibility-agents
+repo: Community-Access/accessibility-agents
+category: tool
+homepage: https://github.com/Community-Access/accessibility-agents
+description: Accessibility review agents for Claude Code, GitHub Copilot, and Claude
+  Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools
+  stop generating inaccessible code.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 310
+agent_fit_score: 5.0
+tags:
+- a11y
+- accessibility
+- ai-agents
+- aria
+- assistive-technology
+- claude
+- claude-code
+- copilot
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Community-Access/accessibility-agents
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.89
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.974

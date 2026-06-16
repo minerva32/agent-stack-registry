@@ -1,0 +1,36 @@
+name: MCP-Reborn
+repo: Hexeption/MCP-Reborn
+category: mcp-server
+homepage: https://github.com/Hexeption/MCP-Reborn
+description: MCP-Reborn is an MCP (Mod Coder Pack) for Minecraft for making modded
+  clients and researching its code. (1.13-1.21.4)
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1521
+agent_fit_score: 4.0
+tags:
+- 1-13-1
+- 1-13-2
+- 1-14
+- 1-14-1
+- 1-14-2
+- 1-14-3
+- 1-14-4
+- 1-15
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Hexeption/MCP-Reborn
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.17
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.75

@@ -1,0 +1,36 @@
+name: ART
+repo: OpenPipe/ART
+category: tool
+homepage: https://github.com/OpenPipe/ART
+description: 'Agent Reinforcement Trainer: train multi-step agents for real-world
+  tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for
+  Qwen3.6, GPT-OSS, Llama, and more!'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 9986
+agent_fit_score: 5.1
+tags:
+- agent
+- agentic-ai
+- grpo
+- llms
+- lora
+- qwen
+- qwen3
+- reinforcement-learning
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/OpenPipe/ART
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.85
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.752

@@ -1,0 +1,35 @@
+name: abtop
+repo: graykode/abtop
+category: agent
+homepage: https://github.com/graykode/abtop
+description: Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI
+  sessions, tokens, context window,    rate limits, and ports in real-time.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2907
+agent_fit_score: 5.8
+tags:
+- ai-agents
+- ai-coding-agent
+- btop
+- claude-code
+- cli
+- codex
+- developer-tools
+- htop
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/graykode/abtop
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 8.45
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.962

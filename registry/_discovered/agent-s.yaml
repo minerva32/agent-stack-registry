@@ -1,0 +1,34 @@
+name: Agent-S
+repo: simular-ai/Agent-S
+category: tool
+homepage: https://github.com/simular-ai/Agent-S
+description: 'Agent S: an open agentic framework that uses computers like a human'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 11856
+agent_fit_score: 5.1
+tags:
+- agent-computer-interface
+- ai-agents
+- computer-automation
+- computer-use
+- computer-use-agent
+- cua
+- grounding
+- gui-agents
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/simular-ai/Agent-S
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.67
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.936

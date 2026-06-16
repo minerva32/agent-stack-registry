@@ -1,0 +1,28 @@
+name: wine-llmops
+repo: GregoryTomy/wine-llmops
+category: tool
+homepage: https://github.com/GregoryTomy/wine-llmops
+description: Developed an end-to-end LLM sommelier chatbot that uses Microsoft Azure
+  Open AI, LangChain, and the RAG method for wine recommendations. Powered by FastAPI
+  and Streamlit. CI/CD with GitHub Actions
+license: unknown
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 6
+agent_fit_score: 3.9
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/GregoryTomy/wine-llmops
+score_breakdown:
+  installability: 3
+  automation_readiness: 5
+  extensibility: 3
+  repo_clarity: 5
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 3.0

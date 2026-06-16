@@ -1,0 +1,36 @@
+name: LatteReview
+repo: PouriaRouzrokh/LatteReview
+category: tool
+homepage: https://github.com/PouriaRouzrokh/LatteReview
+description: This is the repository for the LatteReview python package. LatteReview
+  is a low-code Python package designed to automate systematic literature review processes
+  through AI-powered agents.
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 112
+agent_fit_score: 4.0
+tags:
+- ai
+- deep-learning
+- large-language-models
+- multi-agent
+- multi-agent-systems
+- multiagent
+- review
+- review-tools
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/PouriaRouzrokh/LatteReview
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.86
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6.992

@@ -1,0 +1,32 @@
+name: MetaGPT
+repo: FoundationAgents/MetaGPT
+category: tool
+homepage: https://github.com/FoundationAgents/MetaGPT
+description: '🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural
+  Language Programming'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 68846
+agent_fit_score: 6.2
+tags:
+- agent
+- gpt
+- llm
+- metagpt
+- multi-agent
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/FoundationAgents/MetaGPT
+score_breakdown:
+  installability: 9
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 7.355

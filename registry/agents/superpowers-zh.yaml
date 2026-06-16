@@ -1,0 +1,37 @@
+name: superpowers-zh
+repo: jnMetaCode/superpowers-zh
+category: agent
+homepage: https://github.com/jnMetaCode/superpowers-zh
+description: 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude
+  Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款
+  AI 编程工具真正会干活
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5454
+agent_fit_score: 6.7
+tags:
+- agent-skills
+- agentic-coding
+- ai-coding
+- chinese
+- claude-code
+- code-review
+- cursor
+- gemini-cli
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/jnMetaCode/superpowers-zh
+score_breakdown:
+  installability: 7
+  automation_readiness: 10
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.9

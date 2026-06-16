@@ -1,0 +1,27 @@
+name: gemma_4_tool_calling
+repo: mmmayo13/gemma_4_tool_calling
+category: tool
+homepage: https://github.com/mmmayo13/gemma_4_tool_calling
+description: A straightforward Python guide demonstrating how to build a local, agentic
+  AI assistant using Gemma 4, Ollama, and real-time API function calling.
+license: unknown
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 42
+agent_fit_score: 3.9
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/mmmayo13/gemma_4_tool_calling
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.46
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6

@@ -1,0 +1,28 @@
+name: agentic-commerce-protocol
+repo: agentic-commerce-protocol/agentic-commerce-protocol
+category: tool
+homepage: https://github.com/agentic-commerce-protocol/agentic-commerce-protocol
+description: The Agentic Commerce Protocol (ACP) is an interaction model and open
+  standard for connecting buyers, their AI agents, and businesses to complete purchases
+  seamlessly. The specification is currently ma
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1441
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/agentic-commerce-protocol/agentic-commerce-protocol
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.776

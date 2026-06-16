@@ -1,0 +1,32 @@
+name: Product-Manager-Skills
+repo: deanpeters/Product-Manager-Skills
+category: tool
+homepage: https://github.com/deanpeters/Product-Manager-Skills
+description: Product Management skills framework built on battle-tested methods for
+  Claude Code, Cowork, Codex, and AI agents.
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5173
+agent_fit_score: 3.9
+tags:
+- ai-agents
+- ai-product-management
+- claude-skills
+- pm-frameworks
+- product-management
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/deanpeters/Product-Manager-Skills
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.13
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.992

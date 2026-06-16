@@ -1,0 +1,30 @@
+name: agent-swarm
+repo: desplega-ai/agent-swarm
+category: tool
+homepage: https://github.com/desplega-ai/agent-swarm
+description: Intelligence that compounds. Every single day.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 529
+agent_fit_score: 4.8
+tags:
+- ai-agents
+- claude
+- claude-code
+- swarm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/desplega-ai/agent-swarm
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.46
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.99

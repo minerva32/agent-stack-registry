@@ -1,0 +1,27 @@
+name: openclaw-security-practice-guide
+repo: slowmist/openclaw-security-practice-guide
+category: safety
+homepage: https://github.com/slowmist/openclaw-security-practice-guide
+description: This guide is designed for OpenClaw itself (Agent-facing), not as a traditional
+  human-only hardening checklist.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2852
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/slowmist/openclaw-security-practice-guide
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.11
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.986

@@ -1,0 +1,36 @@
+name: mcp-searxng
+repo: ihor-sokoliuk/mcp-searxng
+category: mcp-server
+homepage: https://github.com/ihor-sokoliuk/mcp-searxng
+description: Private web search for AI assistants via SearXNG — supports Claude, Cursor,
+  and any MCP client
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 905
+agent_fit_score: 7.4
+tags:
+- ai
+- claude
+- cursor
+- llm
+- mcp
+- mcp-server
+- mcp-servers
+- privacy
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ihor-sokoliuk/mcp-searxng
+score_breakdown:
+  installability: 9
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 10
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 7.95

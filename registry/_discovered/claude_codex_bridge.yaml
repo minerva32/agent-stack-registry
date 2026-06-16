@@ -1,0 +1,35 @@
+name: claude_codex_bridge
+repo: SeemSeam/claude_codex_bridge
+category: agent
+homepage: https://github.com/SeemSeam/claude_codex_bridge
+description: Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi,
+  Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3007
+agent_fit_score: 4.9
+tags:
+- ai-coding
+- ai-collaboration
+- antigravity
+- claude-code
+- cli
+- codex
+- coding-agent
+- crush
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/SeemSeam/claude_codex_bridge
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 5.37
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.868

@@ -1,0 +1,34 @@
+name: ollama-action
+repo: ai-action/ollama-action
+category: tool
+homepage: https://github.com/ai-action/ollama-action
+description: 🦙 Run Ollama large language models (LLMs) with GitHub Actions.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 27
+agent_fit_score: 5.1
+tags:
+- ai
+- ai-action
+- composite-action
+- github-action
+- github-actions
+- github-composite-action
+- large-language-models
+- llm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/ai-action/ollama-action
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.62
+  sandbox_safety: 2
+  reproducibility: 10
+  maintenance: 6

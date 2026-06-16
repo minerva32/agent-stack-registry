@@ -1,0 +1,36 @@
+name: ragflow
+repo: infiniflow/ragflow
+category: tool
+homepage: https://github.com/infiniflow/ragflow
+description: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG)
+  engine that fuses cutting-edge RAG with Agent capabilities to create a superior
+  context layer for LLMs
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 82937
+agent_fit_score: 4.2
+tags:
+- agentic-ai
+- agentic-retrieval
+- agentic-search
+- ai
+- ai-agents
+- context-engine
+- context-management
+- llm-apps
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/infiniflow/ragflow
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.72
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.7220000000000004

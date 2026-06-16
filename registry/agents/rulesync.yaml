@@ -1,0 +1,34 @@
+name: rulesync
+repo: dyoshikawa/rulesync
+category: agent
+homepage: https://github.com/dyoshikawa/rulesync
+description: A Utility CLI for AI Coding Agents
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1168
+agent_fit_score: 6.1
+tags:
+- ai
+- ai-agents
+- ai-coding
+- llm
+- mcp
+- rules
+- skills
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/dyoshikawa/rulesync
+score_breakdown:
+  installability: 8
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 4
+  reproducibility: 2
+  maintenance: 8.785

@@ -1,0 +1,31 @@
+name: openclaw-mission-control
+repo: abhi1693/openclaw-mission-control
+category: tool
+homepage: https://github.com/abhi1693/openclaw-mission-control
+description: AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and
+  coordinate multi-agent collaboration via OpenClaw Gateway.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4046
+agent_fit_score: 4.7
+tags:
+- ai-agents
+- automation
+- openclaw
+- orchestration
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/abhi1693/openclaw-mission-control
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.29
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.826

@@ -1,0 +1,29 @@
+name: foundry-citadel-platform
+repo: Azure-Samples/foundry-citadel-platform
+category: safety
+homepage: https://github.com/Azure-Samples/foundry-citadel-platform
+description: 'Deploy production-ready AI agents in one click! Citadel delivers unified
+  governance, end-to-end observability & rapid development for secure, compliant AI
+  at scale. Built on Azure best practices—turn '
+license: MIT
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 132
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/Azure-Samples/foundry-citadel-platform
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7

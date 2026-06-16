@@ -1,0 +1,31 @@
+name: agent-scan
+repo: snyk/agent-scan
+category: safety
+homepage: https://github.com/snyk/agent-scan
+description: Security scanner for AI agents, MCP servers and agent skills.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 2583
+agent_fit_score: 6.3
+tags:
+- agent
+- ai
+- mcp
+- modelcontextprotocol
+- security
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/snyk/agent-scan
+score_breakdown:
+  installability: 3
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.87

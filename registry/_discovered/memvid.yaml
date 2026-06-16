@@ -1,0 +1,35 @@
+name: memvid
+repo: memvid/memvid
+category: tool
+homepage: https://github.com/memvid/memvid
+description: Memory layer for AI Agents. Replace complex RAG pipelines with a serverless,
+  single-file memory layer. Give your agents instant retrieval and long-term memory.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 15656
+agent_fit_score: 5.2
+tags:
+- ai
+- context
+- embedded
+- faiss
+- knowledge-base
+- knowledge-graph
+- llm
+- machine-learning
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/memvid/memvid
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.59
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.958

@@ -1,0 +1,28 @@
+name: OpenMonoAgent.ai
+repo: StartupHakk/OpenMonoAgent.ai
+category: agent
+homepage: https://github.com/StartupHakk/OpenMonoAgent.ai
+description: (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine.
+  Your agent. Use it from anywhere. Terminal-native coding agent powered by local
+  LLMs — 100% open source, free forever, and in
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1545
+agent_fit_score: 6.1
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/StartupHakk/OpenMonoAgent.ai
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.88

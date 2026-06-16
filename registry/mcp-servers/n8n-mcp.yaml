@@ -1,0 +1,31 @@
+name: n8n-mcp
+repo: czlonkowski/n8n-mcp
+category: mcp-server
+homepage: https://github.com/czlonkowski/n8n-mcp
+description: 'A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build
+  n8n workflows for you '
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 21781
+agent_fit_score: 7.1
+tags:
+- mcp
+- mcp-server
+- n8n
+- workflows
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/czlonkowski/n8n-mcp
+score_breakdown:
+  installability: 9
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 9.6

@@ -1,0 +1,26 @@
+name: python-sdk
+repo: modelcontextprotocol/python-sdk
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/python-sdk
+description: The official Python SDK for Model Context Protocol servers and clients
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 23341
+agent_fit_score: 6.1
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/modelcontextprotocol/python-sdk
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 9

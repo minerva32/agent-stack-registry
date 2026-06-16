@@ -1,0 +1,37 @@
+name: html-anything
+repo: nexu-io/html-anything
+category: safety
+homepage: https://github.com/nexu-io/html-anything
+description: ✨ The agentic HTML editor — your local AI agent writes the HTML, you
+  ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype
+  · data report · Hyperframes) 🛡️ Sandboxed pre
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 6873
+agent_fit_score: 5.4
+tags:
+- agent-skills
+- agentic
+- ai-agents
+- ai-design
+- ai-editor
+- byok
+- claude
+- claude-code
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/nexu-io/html-anything
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.91

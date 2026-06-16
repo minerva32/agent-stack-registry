@@ -1,0 +1,30 @@
+name: 500-AI-Agents-Projects
+repo: ashishpatel26/500-AI-Agents-Projects
+category: tool
+homepage: https://github.com/ashishpatel26/500-AI-Agents-Projects
+description: The 500 AI Agents Projects is a curated collection of AI agent use cases
+  across various industries. It showcases practical applications and provides links
+  to open-source projects for implementation, i
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 32584
+agent_fit_score: 5.4
+tags:
+- ai-agents
+- genai
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ashishpatel26/500-AI-Agents-Projects
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.854

@@ -1,0 +1,30 @@
+name: TextWorld
+repo: microsoft/TextWorld
+category: eval
+homepage: https://github.com/microsoft/TextWorld
+description: ​TextWorld is a sandbox learning environment for the training and evaluation
+  of reinforcement learning (RL) agents on text-based games.
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1419
+agent_fit_score: 5.3
+tags:
+- reinforcement-learning
+- text-based-adventure
+- text-based-game
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/microsoft/TextWorld
+score_breakdown:
+  installability: 10
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 5.9

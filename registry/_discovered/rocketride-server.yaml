@@ -1,0 +1,36 @@
+name: rocketride-server
+repo: rocketride-org/rocketride-server
+category: tool
+homepage: https://github.com/rocketride-org/rocketride-server
+description: High-performance AI pipeline engine with a C++ core and 50+ Python-extensible
+  nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector
+  databases, and agent orchestration, all f
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 3871
+agent_fit_score: 5.7
+tags:
+- ai
+- cpp
+- data-pipeline
+- data-processing
+- machine-learning
+- mcp
+- python
+- sdk
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/rocketride-org/rocketride-server
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.618

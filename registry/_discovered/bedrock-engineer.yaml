@@ -1,0 +1,36 @@
+name: bedrock-engineer
+repo: aws-samples/bedrock-engineer
+category: tool
+homepage: https://github.com/aws-samples/bedrock-engineer
+description: Universal AI Agent using Amazon Bedrock, capable of customize to create/edit
+  files, execute commands, search the web, use knowledge base, use multi-agents, generative
+  images and more.
+license: MIT-0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 482
+agent_fit_score: 5.0
+tags:
+- agent
+- ai
+- aws
+- bedrock
+- claude
+- deepseek-r1
+- generative-ai
+- llm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/aws-samples/bedrock-engineer
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.83
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.942

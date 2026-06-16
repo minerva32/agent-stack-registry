@@ -1,0 +1,31 @@
+name: LLM-Blender-Agent
+repo: saofund/LLM-Blender-Agent
+category: tool
+homepage: https://github.com/saofund/LLM-Blender-Agent
+description: An AI-powered agent utilizing LLMs (e.g., Claude) with Function Calling
+  to automate tasks in Blender. Enhances workflow efficiency by integrating intelligent
+  command execution and automation. 🚀
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 29
+agent_fit_score: 4.4
+tags:
+- agents
+- blender
+- blender-addon
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/saofund/LLM-Blender-Agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.93
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3

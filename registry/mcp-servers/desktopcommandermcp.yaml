@@ -1,0 +1,35 @@
+name: DesktopCommanderMCP
+repo: wonderwhy-er/DesktopCommanderMCP
+category: mcp-server
+homepage: https://github.com/wonderwhy-er/DesktopCommanderMCP
+description: This is MCP server for Claude that gives it terminal control, file system
+  search and diff file editing capabilities
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 6176
+agent_fit_score: 6.0
+tags:
+- agent
+- ai
+- code-analysis
+- code-generation
+- gemini-cli-extension
+- mcp
+- terminal-ai
+- terminal-automation
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/wonderwhy-er/DesktopCommanderMCP
+score_breakdown:
+  installability: 7
+  automation_readiness: 10
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.25

@@ -1,0 +1,26 @@
+name: research-agents-3.0
+repo: JayZeeDesign/research-agents-3.0
+category: tool
+homepage: https://github.com/JayZeeDesign/research-agents-3.0
+description: Autogen + GPTs - build a swarm AI researchers
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 455
+agent_fit_score: 3.5
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/JayZeeDesign/research-agents-3.0
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.45
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.99

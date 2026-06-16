@@ -1,0 +1,34 @@
+name: honcho
+repo: plastic-labs/honcho
+category: tool
+homepage: https://github.com/plastic-labs/honcho
+description: ' Memory library for building stateful agents'
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5200
+agent_fit_score: 4.9
+tags:
+- agent-memory
+- ai
+- ai-agents
+- ai-memory
+- anthropic
+- context-engineering
+- continual-learning
+- embeddings
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/plastic-labs/honcho
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.44
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.68

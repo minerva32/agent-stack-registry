@@ -1,0 +1,34 @@
+name: fast-llm-security-guardrails
+repo: ZenGuard-AI/fast-llm-security-guardrails
+category: safety
+homepage: https://github.com/ZenGuard-AI/fast-llm-security-guardrails
+description: The fastest Trust Layer for AI Agents
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 153
+agent_fit_score: 4.1
+tags:
+- agentic-ai
+- ai-agent
+- ai-agents
+- ai-runtime
+- cx-agent
+- llm-guard
+- llm-guardrails
+- llm-privacy
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ZenGuard-AI/fast-llm-security-guardrails
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.37
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4

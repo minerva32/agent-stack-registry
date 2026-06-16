@@ -1,0 +1,33 @@
+name: ChatClaw
+repo: zhimaAi/ChatClaw
+category: tool
+homepage: https://github.com/zhimaAi/ChatClaw
+description: 'ChatClaw: Get OpenClaw-like knowledge base personal AI agent in 5 mins.
+  Sandbox-secured, ultra-small 30MB installer for macOS & Windows (install in 1 min).
+  Connects to WhatsApp, Telegram, Slack, Disco'
+license: GPL-3.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 291
+agent_fit_score: 5.6
+tags:
+- ai-assistant
+- ima
+- open-cowork
+- openclaw
+- rag
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/zhimaAi/ChatClaw
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 6.96

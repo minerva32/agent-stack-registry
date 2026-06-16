@@ -1,0 +1,36 @@
+name: ai-devkit
+repo: codeaholicguy/ai-devkit
+category: tool
+homepage: https://github.com/codeaholicguy/ai-devkit
+description: Make AI coding agents follow a repeatable engineering workflow with planning,
+  memory, verification, skills, and review. One config. All agents. Same workflow.
+license: unknown
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1364
+agent_fit_score: 6.1
+tags:
+- agent-framework
+- agent-skills
+- ai
+- ai-agents
+- ai-coding
+- antigravity
+- claude-code
+- cli
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/codeaholicguy/ai-devkit
+score_breakdown:
+  installability: 7
+  automation_readiness: 10
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.955

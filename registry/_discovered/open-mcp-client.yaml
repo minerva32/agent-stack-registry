@@ -1,0 +1,26 @@
+name: open-mcp-client
+repo: CopilotKit/open-mcp-client
+category: mcp-server
+homepage: https://github.com/CopilotKit/open-mcp-client
+description: ''
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1645
+agent_fit_score: 4.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/CopilotKit/open-mcp-client
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 2.0
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.968

@@ -1,0 +1,32 @@
+name: mempalace
+repo: MemPalace/mempalace
+category: mcp-server
+homepage: https://github.com/MemPalace/mempalace
+description: The best-benchmarked open-source AI memory system. And it's free.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 55719
+agent_fit_score: 7.0
+tags:
+- ai
+- chromadb
+- llm
+- mcp
+- memory
+- python
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/MemPalace/mempalace
+score_breakdown:
+  installability: 9
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 5
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 10

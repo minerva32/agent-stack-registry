@@ -1,0 +1,29 @@
+name: awesome-mcp-clients
+repo: punkpeye/awesome-mcp-clients
+category: mcp-server
+homepage: https://github.com/punkpeye/awesome-mcp-clients
+description: A collection of MCP clients.
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6475
+agent_fit_score: 6.3
+tags:
+- clients
+- mcp
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/punkpeye/awesome-mcp-clients
+score_breakdown:
+  installability: 3
+  automation_readiness: 10
+  extensibility: 7
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.865

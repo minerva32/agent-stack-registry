@@ -1,0 +1,27 @@
+name: Prompt-Vault
+repo: w512/Prompt-Vault
+category: eval
+homepage: https://github.com/w512/Prompt-Vault
+description: A collection of coding prompts and detailed project specifications designed
+  for benchmarking and testing LLMs.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 126
+agent_fit_score: 3.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/w512/Prompt-Vault
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.1
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7

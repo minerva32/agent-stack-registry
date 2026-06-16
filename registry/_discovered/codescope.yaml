@@ -1,0 +1,27 @@
+name: CodeScope
+repo: WeixiangYAN/CodeScope
+category: eval
+homepage: https://github.com/WeixiangYAN/CodeScope
+description: '[ACL 2024] CodeScope: An Execution-based Multilingual Multitask Multidimensional
+  Benchmark for Evaluating LLMs on Code Understanding and Generation'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 103
+agent_fit_score: 4.5
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/WeixiangYAN/CodeScope
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.47
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4

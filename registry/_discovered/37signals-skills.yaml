@@ -1,0 +1,28 @@
+name: 37signals-skills
+repo: marckohlbrugge/37signals-skills
+category: tool
+homepage: https://github.com/marckohlbrugge/37signals-skills
+description: Unofficial agent skills + reference guide that teach AI coding assistants
+  to write Rails the 37signals way — extracted from Fizzy, Campfire, and DHH's code
+  reviews
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 644
+agent_fit_score: 3.8
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/marckohlbrugge/37signals-skills
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.63
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7

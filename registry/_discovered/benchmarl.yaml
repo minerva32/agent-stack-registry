@@ -1,0 +1,36 @@
+name: BenchMARL
+repo: facebookresearch/BenchMARL
+category: eval
+homepage: https://github.com/facebookresearch/BenchMARL
+description: 'BenchMARL is a library for benchmarking Multi-Agent Reinforcement Learning
+  (MARL). BenchMARL allows to quickly compare different MARL algorithms, tasks, and
+  models while being systematically grounded '
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 636
+agent_fit_score: 4.3
+tags:
+- benchmark
+- machine-learning
+- marl
+- multi-agent
+- multi-agent-reinforcement-learning
+- pytorch
+- reinforcement-learning
+- rl
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/facebookresearch/BenchMARL
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.928

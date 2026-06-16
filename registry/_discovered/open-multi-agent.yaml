@@ -1,0 +1,35 @@
+name: open-multi-agent
+repo: open-multi-agent/open-multi-agent
+category: tool
+homepage: https://github.com/open-multi-agent/open-multi-agent
+description: From a goal to a task DAG, automatically. TypeScript-native multi-agent
+  orchestration.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 6384
+agent_fit_score: 5.5
+tags:
+- agent-framework
+- ai-agents
+- anthropic
+- claude
+- deepseek
+- gemini
+- grok
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/open-multi-agent/open-multi-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.86
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.982

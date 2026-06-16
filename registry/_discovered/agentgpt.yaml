@@ -1,0 +1,34 @@
+name: AgentGPT
+repo: reworkd/AgentGPT
+category: tool
+homepage: https://github.com/reworkd/AgentGPT
+description: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+license: GPL-3.0
+open_source: true
+interface:
+- cli
+status: archived
+last_verified: '2026-06-16'
+stars: 36193
+agent_fit_score: 4.3
+tags:
+- agent
+- agentgpt
+- agents
+- agi
+- ai
+- ai-agents
+- autogpt
+- baby-agi
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/reworkd/AgentGPT
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.71
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.562

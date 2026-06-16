@@ -1,0 +1,36 @@
+name: Awesome-AI-Memory
+repo: IAAR-Shanghai/Awesome-AI-Memory
+category: tool
+homepage: https://github.com/IAAR-Shanghai/Awesome-AI-Memory
+description: Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory
+  for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native
+  system design.  Awesome-AI-Memory 是一个 集中式
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 993
+agent_fit_score: 4.7
+tags:
+- agent-memory
+- ai-memory
+- ai-memory-system
+- awesome-ai-memory
+- continual-learning
+- llm-memory
+- long-term-memory
+- memory-augmented-models
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/IAAR-Shanghai/Awesome-AI-Memory
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.996

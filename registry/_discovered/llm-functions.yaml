@@ -1,0 +1,35 @@
+name: llm-functions
+repo: sigoden/llm-functions
+category: tool
+homepage: https://github.com/sigoden/llm-functions
+description: Easily create LLM tools and agents using plain Bash/JavaScript/Python
+  functions.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 757
+agent_fit_score: 4.4
+tags:
+- ai
+- ai-agents
+- ai-tools
+- function-calling
+- llm
+- llm-agents
+- llm-functions
+- llm-tools
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/sigoden/llm-functions
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.98

@@ -1,0 +1,29 @@
+name: Comp_Sci_Sem_2
+repo: danderfer/Comp_Sci_Sem_2
+category: tool
+homepage: https://github.com/danderfer/Comp_Sci_Sem_2
+description: 'According to all known laws of aviation, there is no way that a bee
+  should be able to fly. Its wings are too small to get its fat little body off the
+  ground. The bee, of course, flies anyway. Because '
+license: unknown
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 183
+agent_fit_score: 3.7
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/danderfer/Comp_Sci_Sem_2
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.96

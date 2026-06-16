@@ -1,0 +1,30 @@
+name: mcp-adapter
+repo: WordPress/mcp-adapter
+category: mcp-server
+homepage: https://github.com/WordPress/mcp-adapter
+description: An MCP adapter that bridges the Abilities API to the Model Context Protocol,
+  enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities
+  programmatically.
+license: GPL-2.0
+open_source: true
+interface:
+- mcp
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 1284
+agent_fit_score: 6.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/WordPress/mcp-adapter
+score_breakdown:
+  installability: 3
+  automation_readiness: 9
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 4
+  reproducibility: 2
+  maintenance: 8.755

@@ -1,0 +1,36 @@
+name: pyod
+repo: yzhao062/pyod
+category: tool
+homepage: https://github.com/yzhao062/pyod
+description: A Python library for anomaly detection across tabular, time series, graph,
+  text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and
+  an agentic workflow for AI agents.
+license: BSD-2-Clause
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 9878
+agent_fit_score: 5.1
+tags:
+- agentic-ai
+- anomaly-detection
+- data-mining
+- data-science
+- deep-learning
+- foundation-models
+- fraud-detection
+- graph-anomaly-detection
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/yzhao062/pyod
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.91
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.534

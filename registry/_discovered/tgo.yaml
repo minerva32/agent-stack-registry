@@ -1,0 +1,34 @@
+name: tgo
+repo: tgoai/tgo
+category: tool
+homepage: https://github.com/tgoai/tgo
+description: Open-source AI Agent Customer Service Platform. Build AI agent teams
+  with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration.
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 496
+agent_fit_score: 5.8
+tags:
+- ai-agent
+- artificial-intelligence
+- chatbot
+- customer-service
+- customer-support
+- llm
+- rag
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/tgoai/tgo
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 10
+  repo_clarity: 8
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 7.88

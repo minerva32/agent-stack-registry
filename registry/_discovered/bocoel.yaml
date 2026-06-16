@@ -1,0 +1,34 @@
+name: bocoel
+repo: rentruewang/bocoel
+category: eval
+homepage: https://github.com/rentruewang/bocoel
+description: Bayesian Optimization as a Coverage Tool for Evaluating LLMs. Accurate
+  evaluation (benchmarking) that's 10 times faster with just a few lines of modular
+  code.
+license: BSD-3-Clause
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 289
+agent_fit_score: 5.1
+tags:
+- bayesian-optimization
+- benchmarking
+- evaluation
+- language-model
+- llm
+- machine-learning
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/rentruewang/bocoel
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.58
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.988

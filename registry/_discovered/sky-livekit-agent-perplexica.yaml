@@ -1,0 +1,36 @@
+name: sky-livekit-agent-perplexica
+repo: dwain-barnes/sky-livekit-agent-perplexica
+category: tool
+homepage: https://github.com/dwain-barnes/sky-livekit-agent-perplexica
+description: Sky LiveKit Agent Perplexica is a local, free solution integrating LiveKit
+  with advanced internet search. It uses a local Perplexica instance with function
+  calling to retrieve and summarise search res
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 37
+agent_fit_score: 4.4
+tags:
+- ai
+- ai-assistant-offline
+- ai-search-engine
+- docker
+- kokoro-tts
+- livekit
+- local-deployment
+- local-search-engine
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/dwain-barnes/sky-livekit-agent-perplexica
+score_breakdown:
+  installability: 8
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 3

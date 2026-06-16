@@ -1,0 +1,26 @@
+name: LocalRecall
+repo: mudler/LocalRecall
+category: tool
+homepage: https://github.com/mudler/LocalRecall
+description: ':brain: 100% Local Memory layer and Knowledge base for agents with WebUI '
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 835
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/mudler/LocalRecall
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.73
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.962

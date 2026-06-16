@@ -1,0 +1,34 @@
+name: gemini-kit
+repo: nth5693/gemini-kit
+category: tool
+homepage: https://github.com/nth5693/gemini-kit
+description: 🚀 19 AI Agents + 44 Commands for Gemini CLI - Code 10x faster with auto
+  planning, testing, review & security
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 353
+agent_fit_score: 6.3
+tags:
+- ai-agents
+- coding-assistant
+- developer-tools
+- gemini-cli
+- gemini-extension
+- mcp
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/nth5693/gemini-kit
+score_breakdown:
+  installability: 7
+  automation_readiness: 10
+  extensibility: 7
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 4.96

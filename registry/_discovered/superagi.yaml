@@ -1,0 +1,36 @@
+name: SuperAGI
+repo: TransformerOptimus/SuperAGI
+category: tool
+homepage: https://github.com/TransformerOptimus/SuperAGI
+description: <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework.
+  Enabling developers to build, manage & run useful autonomous agents quickly and
+  reliably.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 17572
+agent_fit_score: 4.7
+tags:
+- agents
+- agi
+- ai
+- artificial-general-intelligence
+- artificial-intelligence
+- autonomous-agents
+- gpt-4
+- hacktoberfest
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/TransformerOptimus/SuperAGI
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.6
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.47

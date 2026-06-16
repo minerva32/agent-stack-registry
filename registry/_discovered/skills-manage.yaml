@@ -1,0 +1,35 @@
+name: skills-manage
+repo: iamzhihuix/skills-manage
+category: agent
+homepage: https://github.com/iamzhihuix/skills-manage
+description: Desktop app to manage AI coding agent skills across Claude Code, Cursor,
+  Gemini CLI, Codex, and 20+ platforms from one place.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2011
+agent_fit_score: 4.7
+tags:
+- ai
+- claude-code
+- cursor
+- desktop-app
+- llm
+- react
+- rust
+- skills
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/iamzhihuix/skills-manage
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.25
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.908

@@ -1,0 +1,34 @@
+name: csharp-sdk
+repo: modelcontextprotocol/csharp-sdk
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/csharp-sdk
+description: The official C# SDK for Model Context Protocol servers and clients. Maintained
+  in collaboration with Microsoft.
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4331
+agent_fit_score: 6.0
+tags:
+- csharp
+- dotnet
+- mcp
+- mcp-client
+- mcp-server
+- modelcontextprotocol
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/modelcontextprotocol/csharp-sdk
+score_breakdown:
+  installability: 3
+  automation_readiness: 10
+  extensibility: 7
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.01

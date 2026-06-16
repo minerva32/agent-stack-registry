@@ -1,0 +1,29 @@
+name: spec-workflow-mcp
+repo: Pimzino/spec-workflow-mcp
+category: mcp-server
+homepage: https://github.com/Pimzino/spec-workflow-mcp
+description: A Model Context Protocol (MCP) server that provides structured spec-driven
+  development workflow tools for AI-assisted software development, featuring a real-time
+  web dashboard and VSCode extension for
+license: GPL-3.0
+open_source: true
+interface:
+- mcp
+- vscode
+status: active
+last_verified: '2026-06-16'
+stars: 4229
+agent_fit_score: 6.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Pimzino/spec-workflow-mcp
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.97

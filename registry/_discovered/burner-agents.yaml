@@ -1,0 +1,35 @@
+name: burner-agents
+repo: NotPBShaw/burner-agents
+category: tool
+homepage: https://github.com/NotPBShaw/burner-agents
+description: A swarm of disposable agents for unattributable web interaction. The
+  user never acts on the web directly, delegating instead to agents that are destroyed
+  on completion, leaving nothing that leads back
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 371
+agent_fit_score: 5.0
+tags:
+- ai-agents
+- autonomous-agents
+- browser-automation
+- disposable-agents
+- privacy
+- stealth-browser
+- web-automation
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/NotPBShaw/burner-agents
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7

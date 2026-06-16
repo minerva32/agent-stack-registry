@@ -1,0 +1,36 @@
+name: ai-i18n
+repo: i18n-actions/ai-i18n
+category: tool
+homepage: https://github.com/i18n-actions/ai-i18n
+description: ai-i18n is a GitHub Action that translates your app's i18n files using
+  LLMs. It extracts strings, translates only what's changed, and commits the results
+  back to your repo. Works with your LLM provide
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 17
+agent_fit_score: 4.3
+tags:
+- ai
+- angular
+- angular-i18n
+- anthropic
+- crowdin
+- github-actions
+- i18n
+- internationalization
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/i18n-actions/ai-i18n
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 7
+  maintenance: 3

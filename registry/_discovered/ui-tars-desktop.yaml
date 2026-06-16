@@ -1,0 +1,28 @@
+# Auto-discovered: bytedance/UI-TARS-desktop
+name: UI-TARS-desktop
+repo: bytedance/UI-TARS-desktop
+category: mcp-server
+homepage: https://github.com/bytedance/UI-TARS-desktop
+description: 'The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI
+  Models and Agent Infra'
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 36469
+agent_fit_score: 5.0
+tags:
+- agent
+- agent-tars
+- browser-use
+- computer-use
+- cowork
+- gui-agent
+- gui-operator
+- mcp
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/bytedance/UI-TARS-desktop

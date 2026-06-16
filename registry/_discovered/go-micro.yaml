@@ -1,0 +1,32 @@
+name: go-micro
+repo: micro/go-micro
+category: tool
+homepage: https://github.com/micro/go-micro
+description: A Go framework for services and agents
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 22779
+agent_fit_score: 4.9
+tags:
+- distributed-systems
+- go
+- golang
+- micro
+- microservices
+- rpc
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/micro/go-micro
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.38
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.996

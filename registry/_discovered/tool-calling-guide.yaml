@@ -1,0 +1,28 @@
+name: tool-calling-guide
+repo: ALucek/tool-calling-guide
+category: tool
+homepage: https://github.com/ALucek/tool-calling-guide
+description: Learn function calling and tool calling from simple tools to full agents.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 83
+agent_fit_score: 2.7
+tags:
+- function-calling
+- tool-use
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ALucek/tool-calling-guide
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 2
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.995

@@ -1,0 +1,22 @@
+# Auto-discovered: xpzouying/xiaohongshu-mcp
+name: xiaohongshu-mcp
+repo: xpzouying/xiaohongshu-mcp
+category: mcp-server
+homepage: https://github.com/xpzouying/xiaohongshu-mcp
+description: MCP for xiaohongshu.com
+license: unknown
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 14205
+agent_fit_score: 5.0
+tags:
+- mcp
+- mcp-server
+- xiaohongshu-mcp
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/xpzouying/xiaohongshu-mcp

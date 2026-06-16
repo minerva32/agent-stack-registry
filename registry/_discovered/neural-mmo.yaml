@@ -1,0 +1,28 @@
+name: neural-mmo
+repo: openai/neural-mmo
+category: eval
+homepage: https://github.com/openai/neural-mmo
+description: 'Code for the paper "Neural MMO: A Massively Multiagent Game Environment
+  for Training and Evaluating Intelligent Agents"'
+license: MIT
+open_source: true
+interface:
+- cli
+status: archived
+last_verified: '2026-06-16'
+stars: 1651
+agent_fit_score: 4.3
+tags:
+- paper
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/openai/neural-mmo
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.1899999999999995
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.966

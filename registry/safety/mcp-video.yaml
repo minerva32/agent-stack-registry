@@ -1,0 +1,36 @@
+name: mcp-video
+repo: KyaniteLabs/mcp-video
+category: safety
+homepage: https://github.com/KyaniteLabs/mcp-video
+description: Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes,
+  repurposing tools, Python client, and CLI. Local, fast, free.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 43
+agent_fit_score: 6.3
+tags:
+- agent-tools
+- ai-agents
+- ai-video
+- claude
+- claude-code
+- cli
+- cursor
+- ffmpeg
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/KyaniteLabs/mcp-video
+score_breakdown:
+  installability: 8
+  automation_readiness: 10
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 7
+  maintenance: 7.0

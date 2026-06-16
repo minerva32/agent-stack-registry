@@ -1,0 +1,26 @@
+name: qwen-code
+repo: QwenLM/qwen-code
+category: agent
+homepage: https://github.com/QwenLM/qwen-code
+description: An open-source AI coding agent that lives in your terminal.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 25276
+agent_fit_score: 4.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/QwenLM/qwen-code
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.59
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.436

@@ -1,0 +1,36 @@
+name: DeepCamera
+repo: SharpAI/DeepCamera
+category: safety
+homepage: https://github.com/SharpAI/DeepCamera
+description: Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local
+  VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic
+  security camera agent — watches, understand
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2835
+agent_fit_score: 5.3
+tags:
+- ai
+- ai-camera
+- ai-nvr
+- camera
+- cctv
+- computer-vision
+- deep-learning
+- face-recognition
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/SharpAI/DeepCamera
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.982

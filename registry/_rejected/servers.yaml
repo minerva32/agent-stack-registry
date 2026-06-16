@@ -1,0 +1,27 @@
+name: servers
+repo: modelcontextprotocol/servers
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/servers
+description: Model Context Protocol Servers
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 87323
+agent_fit_score: 5.4
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/modelcontextprotocol/servers
+score_breakdown:
+  installability: 3
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 10
+reject_reason: no MCP signal in name/description/topics

@@ -1,0 +1,28 @@
+# Auto-discovered: kennethleungty/Wikipedia-Scraping-with-LLM-Agents
+name: Wikipedia-Scraping-with-LLM-Agents
+repo: kennethleungty/Wikipedia-Scraping-with-LLM-Agents
+category: tool
+homepage: https://github.com/kennethleungty/Wikipedia-Scraping-with-LLM-Agents
+description: Scraping Wikipedia by combining LangChain's agents and tools with OpenAI's
+  LLMs and function calling
+license: MIT
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 31
+agent_fit_score: 5.0
+tags:
+- artificial-intelligence
+- data-analytics
+- data-mining
+- data-science
+- deep-learning
+- genai
+- generative-ai
+- langchain
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/kennethleungty/Wikipedia-Scraping-with-LLM-Agents

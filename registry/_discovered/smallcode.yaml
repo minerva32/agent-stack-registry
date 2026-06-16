@@ -1,0 +1,27 @@
+name: smallcode
+repo: Doorman11991/smallcode
+category: eval
+homepage: https://github.com/Doorman11991/smallcode
+description: AI coding agent optimized for small LLMs. 87% benchmark with 4B-active
+  model.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1879
+agent_fit_score: 5.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Doorman11991/smallcode
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.77
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.972

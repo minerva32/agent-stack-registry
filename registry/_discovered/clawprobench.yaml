@@ -1,0 +1,34 @@
+name: ClawProBench
+repo: suyoumo/ClawProBench
+category: eval
+homepage: https://github.com/suyoumo/ClawProBench
+description: ClawProBench is a live-first benchmark harness for evaluating LLM agents   in
+  the OpenClaw runtime with deterministic grading and repeated-trial   reliability.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 711
+agent_fit_score: 4.9
+tags:
+- agent
+- benchmark
+- evaluation
+- harness
+- leaderboard
+- llm
+- openclaw
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/suyoumo/ClawProBench
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.59
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7

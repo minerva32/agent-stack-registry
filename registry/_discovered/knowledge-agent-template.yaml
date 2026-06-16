@@ -1,0 +1,35 @@
+name: knowledge-agent-template
+repo: vercel-labs/knowledge-agent-template
+category: tool
+homepage: https://github.com/vercel-labs/knowledge-agent-template
+description: Open source file-system and knowledge based agent template. Build AI
+  agents that stay up to date with your knowledge base
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 825
+agent_fit_score: 5.2
+tags:
+- agents
+- ai-agent
+- chatbot
+- file-system
+- knowledge-base
+- nuxt
+- sandbox
+- typescript
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/vercel-labs/knowledge-agent-template
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.21
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 6.994

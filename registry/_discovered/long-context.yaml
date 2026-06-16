@@ -1,0 +1,28 @@
+name: Long-Context
+repo: abacusai/Long-Context
+category: eval
+homepage: https://github.com/abacusai/Long-Context
+description: This repository contains code and tooling for the Abacus.AI LLM Context
+  Expansion project. Also included are evaluation scripts and benchmark tasks that
+  evaluate a model’s information retrieval capabi
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 604
+agent_fit_score: 4.6
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/abacusai/Long-Context
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.986

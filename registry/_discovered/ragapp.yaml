@@ -1,0 +1,32 @@
+name: ragapp
+repo: ragapp/ragapp
+category: tool
+homepage: https://github.com/ragapp/ragapp
+description: The easiest way to use Agentic RAG in any enterprise
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4439
+agent_fit_score: 5.1
+tags:
+- agentic
+- agents
+- ai
+- docker
+- llamaindex
+- rag
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ragapp/ragapp
+score_breakdown:
+  installability: 8
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.52
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 4.866

@@ -1,0 +1,35 @@
+name: ai-dispatch
+repo: Yifannnnnnnnw/ai-dispatch
+category: tool
+homepage: https://github.com/Yifannnnnnnnw/ai-dispatch
+description: Your daily AI intelligence dispatch to Email 📧· Robotics, Agents & LLMs
+  analyzed by Claude Opus · 每日多源聚合 + 深度分析，GitHub Actions 一键部署，无需服务器
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 18
+agent_fit_score: 5.2
+tags:
+- ai
+- ai-agents
+- anthropic
+- automation
+- claude
+- email-automation
+- github-actions
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Yifannnnnnnnw/ai-dispatch
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.37
+  sandbox_safety: 2
+  reproducibility: 10
+  maintenance: 5.998

@@ -1,0 +1,36 @@
+name: nexent
+repo: ModelEngine-Group/nexent
+category: tool
+homepage: https://github.com/ModelEngine-Group/nexent
+description: Nexent is a zero-code platform for auto-generating production-grade AI
+  agents using Harness Engineering principles — unified tools, skills, memory, and
+  orchestration with built-in constraints, feedbac
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 5107
+agent_fit_score: 5.5
+tags:
+- agent
+- agentic-ai
+- agentic-framework
+- agentic-rag
+- agentic-workflow
+- ai
+- harness
+- harness-engineering
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ModelEngine-Group/nexent
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.4879999999999995

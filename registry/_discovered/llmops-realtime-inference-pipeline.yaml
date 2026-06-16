@@ -1,0 +1,28 @@
+name: llmops-realtime-inference-pipeline
+repo: eliharoun/llmops-realtime-inference-pipeline
+category: tool
+homepage: https://github.com/eliharoun/llmops-realtime-inference-pipeline
+description: 'Deploy Large Language Models for real-time inference at scale. Complete
+  MLOps pipeline: BentoML + Docker + Kubernetes + AWS EKS + GitHub Actions + Prometheus/Grafana
+  monitoring. Demonstrates productio'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 8
+agent_fit_score: 4.0
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/eliharoun/llmops-realtime-inference-pipeline
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 2

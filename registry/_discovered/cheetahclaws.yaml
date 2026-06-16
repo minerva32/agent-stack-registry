@@ -1,0 +1,34 @@
+name: cheetahclaws
+repo: SafeRL-Lab/cheetahclaws
+category: tool
+homepage: https://github.com/SafeRL-Lab/cheetahclaws
+description: 'CheetahClaws: A Fast and Easy-to-Use Agent Harness Infrastructure for
+  Long-Horizon, Multi-Model, and Tool-Using AI Systems'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 731
+agent_fit_score: 4.9
+tags:
+- agentic-ai
+- claude
+- claude-code
+- memory
+- openclaw
+- python
+- skills
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/SafeRL-Lab/cheetahclaws
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.22
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.952

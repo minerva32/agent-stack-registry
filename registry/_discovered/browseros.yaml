@@ -1,0 +1,35 @@
+name: BrowserOS
+repo: browseros-ai/BrowserOS
+category: tool
+homepage: https://github.com/browseros-ai/BrowserOS
+description: 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity
+  Comet, Dia.
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 11410
+agent_fit_score: 5.0
+tags:
+- agent
+- browser
+- browseros
+- chromium
+- hacktoberfest
+- linux
+- llm
+- lmstudio
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/browseros-ai/BrowserOS
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.87
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.934

@@ -1,0 +1,36 @@
+name: mobile-mcp
+repo: mobile-next/mobile-mcp
+category: mcp-server
+homepage: https://github.com/mobile-next/mobile-mcp
+description: Model Context Protocol Server for Mobile Automation and Scraping (iOS,
+  Android, Emulators, Simulators and Real Devices)
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 5212
+agent_fit_score: 5.6
+tags:
+- agent
+- android
+- emulator
+- ios
+- mcp
+- mobile
+- physical
+- real
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mobile-next/mobile-mcp
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.19
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.892

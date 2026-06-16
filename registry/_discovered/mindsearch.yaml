@@ -1,0 +1,35 @@
+name: MindSearch
+repo: InternLM/MindSearch
+category: tool
+homepage: https://github.com/InternLM/MindSearch
+description: 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai
+  Pro and SearchGPT)
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6873
+agent_fit_score: 4.3
+tags:
+- ai-search-engine
+- gpt
+- llm
+- llms
+- multi-agent-systems
+- perplexity-ai
+- search
+- searchgpt
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/InternLM/MindSearch
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.96
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.884

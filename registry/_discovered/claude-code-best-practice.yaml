@@ -1,0 +1,34 @@
+name: claude-code-best-practice
+repo: shanraisshan/claude-code-best-practice
+category: agent
+homepage: https://github.com/shanraisshan/claude-code-best-practice
+description: from vibe coding to agentic engineering - practice makes claude perfect
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 57943
+agent_fit_score: 5.0
+tags:
+- agentic-ai
+- agentic-coding
+- agentic-engineering
+- agentic-workflow
+- ai
+- ai-agents
+- anthropic
+- best-practices
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/shanraisshan/claude-code-best-practice
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.71
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.984

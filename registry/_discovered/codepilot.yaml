@@ -1,0 +1,36 @@
+name: CodePilot
+repo: op7418/CodePilot
+category: mcp-server
+homepage: https://github.com/op7418/CodePilot
+description: A multi-model AI agent desktop client — connect any AI provider, extend
+  with MCP & skills, control from your phone. Built with Electron + Next.js.
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6013
+agent_fit_score: 4.7
+tags:
+- ai
+- anthropic
+- claude
+- claude-code
+- desktop-app
+- electron
+- gui
+- nextjs
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/op7418/CodePilot
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.46
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.122

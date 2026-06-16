@@ -1,0 +1,36 @@
+name: cto-new-openai-proxy
+repo: 1837620622/cto-new-openai-proxy
+category: tool
+homepage: https://github.com/1837620622/cto-new-openai-proxy
+description: 🚀 cto.new 免费反代 | OpenAI & Anthropic 兼容 API | GPT-5.4 / GLM-5.1 账号池自动轮询
+  · JWT 刷新 · Dashboard UI · 批量注册 ｜ Free OpenAI/Anthropic-compatible API proxy with
+  account pool auto-rotation, JWT refresh, bulk re
+license: MIT
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 32
+agent_fit_score: 4.9
+tags:
+- account-pool
+- ai-proxy
+- anthropic-api
+- api-proxy
+- chatbot-api
+- chatgpt-proxy
+- claude-api
+- clerk-auth
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/1837620622/cto-new-openai-proxy
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.998

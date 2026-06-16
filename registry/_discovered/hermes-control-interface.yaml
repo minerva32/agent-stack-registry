@@ -1,0 +1,30 @@
+name: hermes-control-interface
+repo: xaspx/hermes-control-interface
+category: agent
+homepage: https://github.com/xaspx/hermes-control-interface
+description: A self-hosted web dashboard for the Hermes AI agent stack. Provides a
+  browser-based terminal, file explorer, session overview, cron management, system
+  metrics, and an agent status panel — all behind a
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 765
+agent_fit_score: 5.0
+tags:
+- ai-agents
+- hermes-agent
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/xaspx/hermes-control-interface
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.996

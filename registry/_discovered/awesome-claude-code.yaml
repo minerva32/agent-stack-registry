@@ -1,0 +1,35 @@
+name: awesome-claude-code
+repo: hesreallyhim/awesome-claude-code
+category: agent
+homepage: https://github.com/hesreallyhim/awesome-claude-code
+description: A curated list of awesome skills, hooks, slash-commands, agent orchestrators,
+  applications, and plugins for Claude Code by Anthropic
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 46627
+agent_fit_score: 3.9
+tags:
+- agent-skills
+- agentic-code
+- agentic-coding
+- ai-workflow-optimization
+- ai-workflows
+- anthropic
+- anthropic-claude
+- awesome
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/hesreallyhim/awesome-claude-code
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.3200000000000003
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.04

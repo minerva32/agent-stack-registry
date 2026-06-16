@@ -1,0 +1,35 @@
+name: cmux
+repo: manaflow-ai/cmux
+category: agent
+homepage: https://github.com/manaflow-ai/cmux
+description: Ghostty-based macOS terminal with vertical tabs and notifications for
+  AI coding agents
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 22197
+agent_fit_score: 3.2
+tags:
+- amp
+- claude-code
+- codex
+- gemini
+- ghostty
+- opencode
+- terminal
+- tmux
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/manaflow-ai/cmux
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.86
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.676

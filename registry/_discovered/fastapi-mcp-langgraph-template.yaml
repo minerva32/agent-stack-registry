@@ -1,0 +1,37 @@
+name: fastapi-mcp-langgraph-template
+repo: NicholasGoh/fastapi-mcp-langgraph-template
+category: tool
+homepage: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
+description: A modern template for agentic orchestration — built for rapid iteration
+  and scalable deployment using highly customizable, community-supported tools like
+  MCP, LangGraph, and more.
+license: MIT
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 548
+agent_fit_score: 4.8
+tags:
+- compose
+- fastapi
+- grafana
+- langfuse
+- langgraph-python
+- mcp
+- nginx
+- prometheus
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 6.79
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.998

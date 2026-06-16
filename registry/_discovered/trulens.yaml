@@ -1,0 +1,34 @@
+name: trulens
+repo: truera/trulens
+category: eval
+homepage: https://github.com/truera/trulens
+description: Evaluation and Tracking for LLM Experiments and AI Agents
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3384
+agent_fit_score: 5.1
+tags:
+- agent-evaluation
+- agentops
+- ai-agents
+- ai-monitoring
+- ai-observability
+- evals
+- explainable-ml
+- llm-eval
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/truera/trulens
+score_breakdown:
+  installability: 7
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.505

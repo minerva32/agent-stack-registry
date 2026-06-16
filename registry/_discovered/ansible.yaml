@@ -1,0 +1,30 @@
+name: ansible
+repo: ansible/ansible
+category: agent
+homepage: https://github.com/ansible/ansible
+description: 'Ansible is a radically simple IT automation platform that makes your
+  applications and systems easier to deploy and maintain. Automate everything from
+  code deployment to network configuration to cloud '
+license: GPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 68970
+agent_fit_score: 4.9
+tags:
+- ansible
+- python
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/ansible/ansible
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.422

@@ -1,0 +1,28 @@
+name: mr-agent
+repo: zixingtangmouren/mr-agent
+category: tool
+homepage: https://github.com/zixingtangmouren/mr-agent
+description: 'mr-agent: A Node.js service that auto-triggers AI-powered code reviews
+  when receiving Git merge request webhook events. Integrates with GitHub/GitLab/Bitbucket
+  to analyze changes, flag issues, and sug'
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 87
+agent_fit_score: 3.6
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/zixingtangmouren/mr-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 2.998

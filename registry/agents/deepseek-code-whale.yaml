@@ -1,0 +1,35 @@
+name: DeepSeek-Code-Whale
+repo: usewhale/DeepSeek-Code-Whale
+category: agent
+homepage: https://github.com/usewhale/DeepSeek-Code-Whale
+description: Whale — blazingly fast, terminal-first AI coding agent for DeepSeek.
+  ~98% prompt cache hit rate, 1M context, MCP tools, dynamic workflows.
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 654
+agent_fit_score: 6.7
+tags:
+- coding-agent
+- deepseek
+- deepseek-agent
+- deepseek-cli
+- deepseek-coding-agent
+- go
+- llm
+- mcp
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/usewhale/DeepSeek-Code-Whale
+score_breakdown:
+  installability: 8
+  automation_readiness: 10
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.95

@@ -1,0 +1,35 @@
+name: edict
+repo: cft0808/edict
+category: tool
+homepage: https://github.com/cft0808/edict
+description: 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized
+  AI agents with real-time dashboard, model config, and full audit trails
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 16077
+agent_fit_score: 5.2
+tags:
+- ai-agents
+- ai-orchestration
+- autonomous-agents
+- claude
+- dashboard
+- kanban
+- llm
+- multi-agent
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/cft0808/edict
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.4
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.928

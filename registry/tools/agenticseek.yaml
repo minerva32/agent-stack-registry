@@ -1,0 +1,36 @@
+name: agenticSeek
+repo: Fosowl/agenticSeek
+category: tool
+homepage: https://github.com/Fosowl/agenticSeek
+description: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous
+  agent that thinks, browses the web, and code for the sole cost of electricity. 🔔
+  Official updates only via twitter @Martin9938
+license: GPL-3.0
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 26530
+agent_fit_score: 6.4
+tags:
+- agentic-ai
+- agents
+- ai
+- autonomous-agents
+- deepseek-r1
+- llm
+- llm-agents
+- voice-assistant
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Fosowl/agenticSeek
+score_breakdown:
+  installability: 5
+  automation_readiness: 5
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 9.825

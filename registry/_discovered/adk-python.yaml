@@ -1,0 +1,35 @@
+name: adk-python
+repo: google/adk-python
+category: eval
+homepage: https://github.com/google/adk-python
+description: An open-source, code-first Python toolkit for building, evaluating, and
+  deploying sophisticated AI agents with flexibility and control.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 20136
+agent_fit_score: 4.7
+tags:
+- agent
+- agentic
+- agentic-ai
+- agents
+- agents-sdk
+- ai
+- ai-agents
+- aiagentframework
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/google/adk-python
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.35
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.242

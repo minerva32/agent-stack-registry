@@ -1,0 +1,28 @@
+name: ai-agent-benchmark-compendium
+repo: philschmid/ai-agent-benchmark-compendium
+category: tool
+homepage: https://github.com/philschmid/ai-agent-benchmark-compendium
+description: Compendium of over 50 benchmarks for evaluating AI agents, categorized
+  into Function Calling & Tool Use, General Assistant & Reasoning, Coding & Software
+  Engineering, and Computer Interaction.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 161
+agent_fit_score: 3.4
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/philschmid/ai-agent-benchmark-compendium
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.92
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.988

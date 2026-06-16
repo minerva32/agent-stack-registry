@@ -1,0 +1,35 @@
+name: vibecosystem
+repo: vibeeval/vibecosystem
+category: tool
+homepage: https://github.com/vibeeval/vibecosystem
+description: AI software team for Claude Code - 138 agents, 295 skills, 73 hooks.
+  Self-learning, multi-agent swarm, autonomous skill evolution.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 506
+agent_fit_score: 5.7
+tags:
+- ai-agents
+- ai-software-team
+- anthropic
+- automation
+- claude
+- claude-code
+- claude-skills
+- developer-tools
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/vibeeval/vibecosystem
+score_breakdown:
+  installability: 8
+  automation_readiness: 3
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.9399999999999995

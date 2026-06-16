@@ -1,0 +1,29 @@
+name: llm-benchmarks
+repo: OskarsEzerins/llm-benchmarks
+category: eval
+homepage: https://github.com/OskarsEzerins/llm-benchmarks
+description: Popular LLM benchmarks for ruby code generation
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 77
+agent_fit_score: 4.1
+tags:
+- benchmarks
+- llm
+- ruby
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/OskarsEzerins/llm-benchmarks
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.47
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6

@@ -1,0 +1,37 @@
+name: chatgpt-cli
+repo: kardolus/chatgpt-cli
+category: agent
+homepage: https://github.com/kardolus/chatgpt-cli
+description: ChatGPT CLI is a powerful, multi-provider command-line interface for
+  working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more,
+  with features like streaming, interactive chat, p
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 936
+agent_fit_score: 5.4
+tags:
+- agent
+- agentic-ai
+- azure
+- chatgpt
+- cli
+- go
+- golang
+- gpt
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/kardolus/chatgpt-cli
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.998

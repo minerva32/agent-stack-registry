@@ -1,0 +1,36 @@
+name: Scrapling
+repo: D4Vinci/Scrapling
+category: mcp-server
+homepage: https://github.com/D4Vinci/Scrapling
+description: 🕷️ An adaptive Web Scraping framework that handles everything from a
+  single request to a full-scale crawl!
+license: BSD-3-Clause
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 64268
+agent_fit_score: 5.9
+tags:
+- ai
+- ai-scraping
+- automation
+- crawler
+- crawling
+- crawling-python
+- data
+- data-extraction
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/D4Vinci/Scrapling
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.06
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.986

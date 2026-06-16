@@ -1,0 +1,28 @@
+name: Agent-Skills-for-Context-Engineering
+repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+category: tool
+homepage: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
+description: A comprehensive collection of Agent Skills for context engineering, multi-agent
+  architectures, and production agent systems. Use when building, optimizing, or debugging
+  agent systems that require effe
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 16574
+agent_fit_score: 5.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.95

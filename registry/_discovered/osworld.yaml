@@ -1,0 +1,35 @@
+name: OSWorld
+repo: xlang-ai/OSWorld
+category: eval
+homepage: https://github.com/xlang-ai/OSWorld
+description: '[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended
+  Tasks in Real Computer Environments'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2942
+agent_fit_score: 5.7
+tags:
+- agent
+- artificial-intelligence
+- benchmark
+- cli
+- code-generation
+- gui
+- language-model
+- large-action-model
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/xlang-ai/OSWorld
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 8.05
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.672

@@ -1,0 +1,26 @@
+name: android_world
+repo: google-research/android_world
+category: eval
+homepage: https://github.com/google-research/android_world
+description: AndroidWorld is an environment and benchmark for autonomous agents
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 796
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/google-research/android_world
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.66
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.91

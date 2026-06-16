@@ -1,0 +1,36 @@
+name: claw-empire
+repo: GreenSheep01201/claw-empire
+category: agent
+homepage: https://github.com/GreenSheep01201/claw-empire
+description: Command Your AI Agent Empire from the CEO Desk — A local-first AI agent
+  office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude
+  Code, Codex CLI, Gemini CLI, OpenCode, and more)
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 1235
+agent_fit_score: 4.7
+tags:
+- agentic-workflow
+- agents
+- ochestration
+- openclaw
+- openclaw-agent
+- openclaw-extension
+- openclaw-plugin
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/GreenSheep01201/claw-empire
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.992

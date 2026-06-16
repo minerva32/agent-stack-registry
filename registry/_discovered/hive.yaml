@@ -1,0 +1,34 @@
+name: hive
+repo: aden-hive/hive
+category: tool
+homepage: https://github.com/aden-hive/hive
+description: Multi-Agent Harness for Production AI
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 10541
+agent_fit_score: 4.7
+tags:
+- agent
+- agent-framework
+- agent-skills
+- anthropic
+- automation
+- autonomous-agents
+- claude
+- harness
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/aden-hive/hive
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.37
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.406000000000001

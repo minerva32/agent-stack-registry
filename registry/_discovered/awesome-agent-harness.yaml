@@ -1,0 +1,30 @@
+name: awesome-agent-harness
+repo: Picrew/awesome-agent-harness
+category: eval
+homepage: https://github.com/Picrew/awesome-agent-harness
+description: An awesome list of Agent Harness engineering resources, including GitHub
+  projects, tools, benchmarks, and practical guides.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1232
+agent_fit_score: 4.2
+tags:
+- agent-harness
+- context-engineering
+- harness-engineering
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Picrew/awesome-agent-harness
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.23
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.966

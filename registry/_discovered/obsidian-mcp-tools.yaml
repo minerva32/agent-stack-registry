@@ -1,0 +1,31 @@
+name: obsidian-mcp-tools
+repo: jacksteamdev/obsidian-mcp-tools
+category: mcp-server
+homepage: https://github.com/jacksteamdev/obsidian-mcp-tools
+description: Add Obsidian integrations like semantic search and custom Templater prompts
+  to Claude or any MCP client.
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: archived
+last_verified: '2026-06-16'
+stars: 828
+agent_fit_score: 5.4
+tags:
+- mcp
+- mcp-server
+- model-context-protocol
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/jacksteamdev/obsidian-mcp-tools
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.04
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.886

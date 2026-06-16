@@ -10,8 +10,8 @@ interface:
 - mcp
 status: active
 last_verified: '2026-06-16'
-stars: 29717
-agent_fit_score: 5.1
+stars: 29730
+agent_fit_score: 5.8
 tags:
 - agent
 - ai
@@ -26,10 +26,10 @@ notes:
 evidence:
 - https://github.com/chopratejas/headroom
 score_breakdown:
-  installability: 3
+  installability: 6
   automation_readiness: 7
-  extensibility: 6
-  repo_clarity: 7
+  extensibility: 3
+  repo_clarity: 9.4
   sandbox_safety: 2
-  reproducibility: 2
-  maintenance: 9
+  reproducibility: 5
+  maintenance: 8.446

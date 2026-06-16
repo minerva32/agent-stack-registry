@@ -1,0 +1,36 @@
+name: immunity-agent
+repo: PrismorSec/immunity-agent
+category: safety
+homepage: https://github.com/PrismorSec/immunity-agent
+description: 'Self improving security layer for AI coding agents : Safe package recommendations,
+  Secret protection, MCP/tools guardrails, Skill governance, runtime policy enforcement
+  and full audit visibility with '
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 192
+agent_fit_score: 4.7
+tags:
+- agent-security
+- agentic-ai
+- agents
+- ai-security
+- cybersecurity
+- prompt-injection
+- prompt-security
+- security
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/PrismorSec/immunity-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.978

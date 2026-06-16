@@ -1,0 +1,34 @@
+name: sot-cli
+repo: SoftwareLogico/sot-cli
+category: safety
+homepage: https://github.com/SoftwareLogico/sot-cli
+description: A terminal AI that doesn't babysit you. sot-cli gives LLMs full power,
+  a novel memory architecture that slashes token costs, and agent orchestration, all
+  from a single Python CLI. No guardrails, no bl
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 40
+agent_fit_score: 4.6
+tags:
+- ai-agents
+- coding-assistant
+- llm
+- multi-agent
+- os-assistant
+- terminal
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/SoftwareLogico/sot-cli
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.998

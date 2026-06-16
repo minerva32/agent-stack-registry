@@ -1,0 +1,35 @@
+name: agent-framework
+repo: microsoft/agent-framework
+category: tool
+homepage: https://github.com/microsoft/agent-framework
+description: A framework for building, orchestrating and deploying AI agents and multi-agent
+  workflows with support for Python and .NET.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 11393
+agent_fit_score: 4.7
+tags:
+- agent-framework
+- agentic-ai
+- agents
+- ai
+- dotnet
+- multi-agent
+- orchestration
+- python
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/microsoft/agent-framework
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.23
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.648

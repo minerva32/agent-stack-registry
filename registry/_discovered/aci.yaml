@@ -1,0 +1,37 @@
+name: aci
+repo: aipotheosis-labs/aci
+category: tool
+homepage: https://github.com/aipotheosis-labs/aci
+description: ACI.dev is the open source tool-calling platform that hooks up 600+ tools
+  into any agentic IDE or custom AI agent through direct function calling or a unified
+  MCP server. The birthplace of VibeOps.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 4801
+agent_fit_score: 5.7
+tags:
+- agents
+- ai
+- ai-agents
+- api
+- developer-tools
+- function-calling
+- integration
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/aipotheosis-labs/aci
+score_breakdown:
+  installability: 6
+  automation_readiness: 9
+  extensibility: 3
+  repo_clarity: 6.97
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.88

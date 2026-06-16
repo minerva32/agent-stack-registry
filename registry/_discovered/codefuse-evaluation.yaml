@@ -1,0 +1,34 @@
+name: codefuse-evaluation
+repo: codefuse-ai/codefuse-evaluation
+category: eval
+homepage: https://github.com/codefuse-ai/codefuse-evaluation
+description: Industrial-level evaluation benchmarks for Coding LLMs in the full life-cycle
+  of AI native software developing.企业级代码大模型评测体系,持续开放中
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 110
+agent_fit_score: 3.3
+tags:
+- code-evaluation
+- codecommenteval
+- codefuse
+- codetranseval
+- evaluation-framework
+- lcc
+- repository-eval
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/codefuse-ai/codefuse-evaluation
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.29
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.992

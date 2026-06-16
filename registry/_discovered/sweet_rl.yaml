@@ -1,0 +1,27 @@
+name: sweet_rl
+repo: facebookresearch/sweet_rl
+category: eval
+homepage: https://github.com/facebookresearch/sweet_rl
+description: Benchmark and research code for the paper SWEET-RL Training Multi-Turn
+  LLM Agents onCollaborative Reasoning Tasks
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 269
+agent_fit_score: 4.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/facebookresearch/sweet_rl
+score_breakdown:
+  installability: 7
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 5
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.965

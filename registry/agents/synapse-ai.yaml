@@ -1,0 +1,36 @@
+name: synapse-ai
+repo: synapseorch-ai/synapse-ai
+category: agent
+homepage: https://github.com/synapseorch-ai/synapse-ai
+description: Build AI agents that actually do things. Synapse is an open-source platform
+  for creating, connecting, and orchestrating AI agents powered by any LLM — local,
+  cloud or CLIs.
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 268
+agent_fit_score: 7.0
+tags:
+- custom-agents
+- custom-tools
+- directed-acyclic-graph
+- llm-agent
+- mcp-client
+- mcp-server
+- mcp-servers
+- mcp-tools
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/synapseorch-ai/synapse-ai
+score_breakdown:
+  installability: 10
+  automation_readiness: 10
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 7.995

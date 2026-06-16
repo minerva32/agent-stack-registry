@@ -1,0 +1,27 @@
+name: SkillSpector
+repo: NVIDIA/SkillSpector
+category: safety
+homepage: https://github.com/NVIDIA/SkillSpector
+description: Security scanner for AI agent skills. Detect vulnerabilities, malicious
+  patterns, and security risks.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6880
+agent_fit_score: 5.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/NVIDIA/SkillSpector
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.01
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.87

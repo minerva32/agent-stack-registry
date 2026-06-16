@@ -12,7 +12,7 @@ interface:
 status: active
 last_verified: '2026-06-16'
 stars: 22786
-agent_fit_score: 4.7
+agent_fit_score: 4.5
 tags:
 - ai-agent
 - ai-agent-tools
@@ -27,10 +27,10 @@ notes:
 evidence:
 - https://github.com/activepieces/activepieces
 score_breakdown:
-  installability: 3
+  installability: 6
   automation_readiness: 7
   extensibility: 3
-  repo_clarity: 7
+  repo_clarity: 3.6100000000000003
   sandbox_safety: 2
   reproducibility: 2
-  maintenance: 9
+  maintenance: 7.9719999999999995

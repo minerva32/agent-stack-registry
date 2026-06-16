@@ -1,0 +1,27 @@
+name: claw-code
+repo: ultraworkers/claw-code
+category: agent
+homepage: https://github.com/ultraworkers/claw-code
+description: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex
+  — developed and maintained with no human intervention.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 193909
+agent_fit_score: 5.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ultraworkers/claw-code
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.29
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.982

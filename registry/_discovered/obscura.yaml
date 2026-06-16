@@ -1,0 +1,34 @@
+name: obscura
+repo: h4ckf0r0day/obscura
+category: tool
+homepage: https://github.com/h4ckf0r0day/obscura
+description: The headless browser for AI agents and web scraping
+license: Apache-2.0
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 15800
+agent_fit_score: 5.1
+tags:
+- antidetect
+- antidetect-browser
+- browser
+- browser-automation
+- cdp
+- headless
+- playwright
+- puppeteer
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/h4ckf0r0day/obscura
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.51
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.984

@@ -1,0 +1,35 @@
+name: open-code-review
+repo: spencermarx/open-code-review
+category: tool
+homepage: https://github.com/spencermarx/open-code-review
+description: AI-powered multi-agent code review. Simulates a customizable team of
+  Engineers performing code review with built-in discourse.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 250
+agent_fit_score: 4.9
+tags:
+- agentic-ai
+- agents
+- ai
+- claude-ai
+- claude-code
+- claude-code-plugin
+- claude-skills
+- code-review
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/spencermarx/open-code-review
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.26
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.998

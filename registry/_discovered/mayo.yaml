@@ -1,0 +1,33 @@
+name: mayo
+repo: HOLYKEYZ/mayo
+category: tool
+homepage: https://github.com/HOLYKEYZ/mayo
+description: my autonomous 3riple-LLMs agents for my github actions & workflows(opens
+  suggestive PRs every hour)
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 17
+agent_fit_score: 3.9
+tags:
+- actions
+- agent
+- ai
+- automation
+- llm
+- workflow
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/HOLYKEYZ/mayo
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.99
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 5.998

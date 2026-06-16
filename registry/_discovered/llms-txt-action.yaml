@@ -1,0 +1,33 @@
+name: llms-txt-action
+repo: kevinnkansah/llms-txt-action
+category: tool
+homepage: https://github.com/kevinnkansah/llms-txt-action
+description: A Github Action that automates creation of llms.txt
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 16
+agent_fit_score: 3.4
+tags:
+- actions
+- aeo
+- ai
+- automation
+- context7
+- llms-txt
+- llmstxt
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/kevinnkansah/llms-txt-action
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.51
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3

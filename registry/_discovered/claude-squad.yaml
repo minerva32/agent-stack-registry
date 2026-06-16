@@ -1,0 +1,32 @@
+name: claude-squad
+repo: smtg-ai/claude-squad
+category: agent
+homepage: https://github.com/smtg-ai/claude-squad
+description: Manage multiple AI terminal agents like Claude Code, Codex, OpenCode,
+  and Amp.
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 7822
+agent_fit_score: 5.5
+tags:
+- claude-code
+- cli
+- codex
+- opencode
+- vibe-coding
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/smtg-ai/claude-squad
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 6.78
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.9

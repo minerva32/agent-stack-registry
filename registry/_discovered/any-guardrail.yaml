@@ -1,0 +1,26 @@
+name: any-guardrail
+repo: mozilla-ai/any-guardrail
+category: safety
+homepage: https://github.com/mozilla-ai/any-guardrail
+description: Guardrails to support any-agent
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 94
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mozilla-ai/any-guardrail
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.31
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.954

@@ -1,0 +1,26 @@
+name: knowledge
+repo: withoneai/knowledge
+category: tool
+homepage: https://github.com/withoneai/knowledge
+description: The world's largest API knowledge base, built for agents.
+license: NOASSERTION
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 181
+agent_fit_score: 3.7
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/withoneai/knowledge
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.57
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7

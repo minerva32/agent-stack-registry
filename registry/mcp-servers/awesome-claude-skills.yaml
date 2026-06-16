@@ -1,0 +1,35 @@
+name: awesome-claude-skills
+repo: ComposioHQ/awesome-claude-skills
+category: mcp-server
+homepage: https://github.com/ComposioHQ/awesome-claude-skills
+description: A curated list of awesome Claude Skills, resources, and tools for customizing
+  Claude AI workflows
+license: unknown
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 64827
+agent_fit_score: 6.3
+tags:
+- agent-skills
+- ai-agents
+- antigravity
+- automation
+- claude
+- claude-code
+- codex
+- composio
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ComposioHQ/awesome-claude-skills
+score_breakdown:
+  installability: 3
+  automation_readiness: 10
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 10

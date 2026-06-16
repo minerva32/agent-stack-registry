@@ -1,0 +1,34 @@
+name: ChemLLMBench
+repo: ChemFoundationModels/ChemLLMBench
+category: eval
+homepage: https://github.com/ChemFoundationModels/ChemLLMBench
+description: Official Code for What can Large Language Models do in chemistry? A comprehensive
+  benchmark on eight tasks (In NeurIPS 2023)
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 173
+agent_fit_score: 3.0
+tags:
+- ai4science
+- benchmark
+- chemistry
+- large-language-models
+- llm
+- llms-benchmarking
+- nlp
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/ChemFoundationModels/ChemLLMBench
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.24
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.998

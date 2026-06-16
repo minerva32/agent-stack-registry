@@ -1,0 +1,32 @@
+name: Windows-MCP
+repo: CursorTouch/Windows-MCP
+category: mcp-server
+homepage: https://github.com/CursorTouch/Windows-MCP
+description: MCP Server for Computer Use in Windows
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 6077
+agent_fit_score: 6.1
+tags:
+- ai
+- desktop
+- mcp
+- tools
+- windows
+- windows-automation
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/CursorTouch/Windows-MCP
+score_breakdown:
+  installability: 10
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.96

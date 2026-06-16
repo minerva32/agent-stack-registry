@@ -1,0 +1,36 @@
+name: unsloth-buddy
+repo: TYH-labs/unsloth-buddy
+category: agent
+homepage: https://github.com/TYH-labs/unsloth-buddy
+description: Zero-friction LLM fine-tuning skill for Claude Code, Gemini CLI & any
+  ACP agent. Unsloth on NVIDIA · TRL+MPS/MLX on Apple Silicon. Automates env setup,
+  LoRA training (SFT, DPO, GRPO, vision), post-hoc
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 251
+agent_fit_score: 5.4
+tags:
+- apple-silicon
+- claude-code
+- dpo
+- fine-tuning
+- gaslamp
+- grpo
+- huggingface
+- lora
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/TYH-labs/unsloth-buddy
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 10
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.0

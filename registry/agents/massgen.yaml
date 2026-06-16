@@ -1,0 +1,36 @@
+name: MassGen
+repo: massgen/MassGen
+category: agent
+homepage: https://github.com/massgen/MassGen
+description: 🚀 MassGen is an open-source multi-agent scaling system that runs in your
+  terminal, autonomously orchestrating frontier models and agents to collaborate,
+  reason, and produce high-quality results. | Joi
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1060
+agent_fit_score: 6.0
+tags:
+- agent
+- agentic-ai
+- autonomous-agents
+- cli
+- collaborative-ai
+- conversational-ai
+- genai
+- generative-ai
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/massgen/MassGen
+score_breakdown:
+  installability: 7
+  automation_readiness: 6
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.995

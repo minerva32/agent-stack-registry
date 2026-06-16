@@ -1,0 +1,32 @@
+name: dac
+repo: bruin-data/dac
+category: tool
+homepage: https://github.com/bruin-data/dac
+description: DaC is a dashboard-as-code tool. Build interactive dashboards using YAML
+  and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable
+  dashboards.
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 696
+agent_fit_score: 5.1
+tags:
+- ai-agents
+- business-intelligence
+- dashboard
+- semantic-layer
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/bruin-data/dac
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.68
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.984

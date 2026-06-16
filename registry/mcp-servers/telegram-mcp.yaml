@@ -1,0 +1,37 @@
+name: telegram-mcp
+repo: chigwell/telegram-mcp
+category: mcp-server
+homepage: https://github.com/chigwell/telegram-mcp
+description: Telegram MCP server powered by Telethon to let MCP clients read chats,
+  manage groups, and send/modify messages, media, contacts, and settings.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 1206
+agent_fit_score: 7.7
+tags:
+- admin
+- api
+- chat-management
+- contacts
+- groups
+- mcp
+- media
+- messaging
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/chigwell/telegram-mcp
+score_breakdown:
+  installability: 9
+  automation_readiness: 10
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 8
+  reproducibility: 2
+  maintenance: 8.905

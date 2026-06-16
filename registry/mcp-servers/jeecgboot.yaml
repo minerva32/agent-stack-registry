@@ -1,0 +1,37 @@
+name: JeecgBoot
+repo: jeecgboot/JeecgBoot
+category: mcp-server
+homepage: https://github.com/jeecgboot/JeecgBoot
+description: AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置
+  AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目
+  80% 的重复工作，提效而不失灵活。
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 46753
+agent_fit_score: 6.4
+tags:
+- activiti
+- agent
+- ai
+- antd
+- claude-code
+- cli
+- codegenerator
+- codex
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/jeecgboot/JeecgBoot
+score_breakdown:
+  installability: 6
+  automation_readiness: 10
+  extensibility: 3
+  repo_clarity: 9.82
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.93

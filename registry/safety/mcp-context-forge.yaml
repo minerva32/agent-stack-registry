@@ -1,0 +1,37 @@
+name: mcp-context-forge
+repo: IBM/mcp-context-forge
+category: safety
+homepage: https://github.com/IBM/mcp-context-forge
+description: An AI Gateway, registry, and proxy that sits in front of any MCP, A2A,
+  or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails
+  and management. Optimizes Agent & Tool call
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 3896
+agent_fit_score: 6.7
+tags:
+- agents
+- ai
+- api-gateway
+- asyncio
+- authentication-middleware
+- devops
+- docker
+- fastapi
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/IBM/mcp-context-forge
+score_breakdown:
+  installability: 5
+  automation_readiness: 9
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8

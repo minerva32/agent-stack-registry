@@ -1,0 +1,27 @@
+name: Context
+repo: indragiek/Context
+category: mcp-server
+homepage: https://github.com/indragiek/Context
+description: Native macOS client for Model Context Protocol (MCP)
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 798
+agent_fit_score: 4.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/indragiek/Context
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.52
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.98

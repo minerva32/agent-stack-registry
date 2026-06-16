@@ -1,0 +1,31 @@
+name: pi_agent_rust
+repo: Dicklesworthstone/pi_agent_rust
+category: agent
+homepage: https://github.com/Dicklesworthstone/pi_agent_rust
+description: High-performance AI coding agent CLI written in Rust with zero unsafe
+  code
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1180
+agent_fit_score: 4.8
+tags:
+- ai-agents
+- cli
+- developer-tools
+- rust
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Dicklesworthstone/pi_agent_rust
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 4.74
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8

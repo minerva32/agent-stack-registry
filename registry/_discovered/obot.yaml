@@ -1,0 +1,31 @@
+name: obot
+repo: obot-platform/obot
+category: mcp-server
+homepage: https://github.com/obot-platform/obot
+description: Complete MCP Platform -- Hosting, Registry, Gateway, and Chat Client
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 831
+agent_fit_score: 5.3
+tags:
+- ai
+- chat
+- mcp
+- modelcontextprotocol
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/obot-platform/obot
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.68
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.136

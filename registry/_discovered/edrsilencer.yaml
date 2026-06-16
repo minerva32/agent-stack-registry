@@ -1,0 +1,27 @@
+name: EDRSilencer
+repo: netero1010/EDRSilencer
+category: safety
+homepage: https://github.com/netero1010/EDRSilencer
+description: A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection
+  and Response (EDR) agents from reporting security events to the server.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1879
+agent_fit_score: 4.1
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/netero1010/EDRSilencer
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.4399999999999995
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.984

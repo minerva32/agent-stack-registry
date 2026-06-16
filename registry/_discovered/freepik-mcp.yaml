@@ -1,0 +1,28 @@
+name: freepik-mcp
+repo: freepik-company/freepik-mcp
+category: tool
+homepage: https://github.com/freepik-company/freepik-mcp
+description: The Freepik enables popular agent Model Context Protocol (MCP) to integrate
+  with Freepik APIs through function calling.
+license: unknown
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 71
+agent_fit_score: 2.9
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/freepik-company/freepik-mcp
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.19
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 2.988

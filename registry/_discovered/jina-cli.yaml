@@ -1,0 +1,37 @@
+name: jina-cli
+repo: geekjourneyx/jina-cli
+category: agent
+homepage: https://github.com/geekjourneyx/jina-cli
+description: A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch
+  and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for
+  reading X(Twitter), blogs, and news sites.
+license: MIT
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 302
+agent_fit_score: 5.3
+tags:
+- ai-agent
+- ai-tools
+- claude-code
+- cli
+- jina-ai-reader
+- openclaw
+- skills
+- url-to-markdown
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/geekjourneyx/jina-cli
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 8.94
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.994

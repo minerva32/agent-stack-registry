@@ -1,0 +1,33 @@
+name: promptfoo-action
+repo: promptfoo/promptfoo-action
+category: tool
+homepage: https://github.com/promptfoo/promptfoo-action
+description: The GitHub Action for Promptfoo.  Test your prompts, agents, and RAGs.
+  AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance
+  of GPT, Claude, Gemini, Llama, and more. Sim
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 70
+agent_fit_score: 4.6
+tags:
+- actions
+- llm
+- prompt-engineering
+- rag
+- security
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/promptfoo/promptfoo-action
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.996

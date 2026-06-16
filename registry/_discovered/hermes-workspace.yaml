@@ -1,0 +1,34 @@
+name: hermes-workspace
+repo: outsourc-e/hermes-workspace
+category: tool
+homepage: https://github.com/outsourc-e/hermes-workspace
+description: Native web workspace for Hermes Agent — chat, terminal, memory, skills,
+  inspector.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5727
+agent_fit_score: 4.7
+tags:
+- agent-ui
+- ai-workspace
+- hackathon
+- hermes-agent
+- nous-research
+- react
+- typescript
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/outsourc-e/hermes-workspace
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.82
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.832

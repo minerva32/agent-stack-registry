@@ -1,0 +1,35 @@
+name: browser-agent-py
+repo: oxylabs/browser-agent-py
+category: tool
+homepage: https://github.com/oxylabs/browser-agent-py
+description: AI Browser Agent is an advanced Browser AI tool developed by Oxylabs
+  AI Studio that automates real user browsing tasks using natural language instructions.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1242
+agent_fit_score: 3.6
+tags:
+- ai-agent
+- ai-agents
+- ai-browser
+- ai-studio
+- browser-agent
+- browser-ai
+- browser-automation
+- browser-automation-studio
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/oxylabs/browser-agent-py
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.55
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8

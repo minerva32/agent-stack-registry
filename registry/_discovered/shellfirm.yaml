@@ -1,0 +1,34 @@
+name: shellfirm
+repo: kaplanelad/shellfirm
+category: agent
+homepage: https://github.com/kaplanelad/shellfirm
+description: Safety guardrails for ai coding agents and human terminal commands
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 917
+agent_fit_score: 5.4
+tags:
+- agent
+- ai
+- captcha
+- devops
+- devops-tools
+- mcp
+- prompt
+- rust
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/kaplanelad/shellfirm
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.66
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.998

@@ -1,0 +1,37 @@
+name: aura
+repo: mezmo/aura
+category: safety
+homepage: https://github.com/mezmo/aura
+description: 'AURA is an agentic harness that turns an LLM model into a reliable,
+  autonomous service capable of executing real SRE work. AURA provides the guardrails,
+  API servers, state management, authentication, '
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 92
+agent_fit_score: 6.5
+tags:
+- ai-agent-framework
+- ai-agents
+- ai-sre
+- aiops
+- devops
+- harness
+- llm
+- llmops
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mezmo/aura
+score_breakdown:
+  installability: 6
+  automation_readiness: 9
+  extensibility: 6
+  repo_clarity: 10
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 6.575

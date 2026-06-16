@@ -1,0 +1,36 @@
+name: swarm-orchestrator
+repo: moonrunnerkc/swarm-orchestrator
+category: tool
+homepage: https://github.com/moonrunnerkc/swarm-orchestrator
+description: 'Reviews pull requests for the shortcuts AI coding agents take to look
+  done without being done: relaxed tests, swallowed errors, fake renames, 11 checks
+  in all. Flags them for a human by default, or bl'
+license: ISC
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 95
+agent_fit_score: 5.3
+tags:
+- ai-agents
+- ai-orchestration
+- aibom
+- anthropic
+- cheat-detector
+- ci
+- claude-code
+- cli
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/moonrunnerkc/swarm-orchestrator
+score_breakdown:
+  installability: 7
+  automation_readiness: 6
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.0

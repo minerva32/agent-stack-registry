@@ -1,0 +1,28 @@
+name: terminal-velocity
+repo: mind-protocol/terminal-velocity
+category: agent
+homepage: https://github.com/mind-protocol/terminal-velocity
+description: A novel created autonomously by a team of 10 AI agents
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1103
+agent_fit_score: 3.7
+tags:
+- book
+- writing
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mind-protocol/terminal-velocity
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 5.995

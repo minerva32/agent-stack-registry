@@ -1,0 +1,35 @@
+name: swarms
+repo: kyegomez/swarms
+category: tool
+homepage: https://github.com/kyegomez/swarms
+description: 'The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework.
+  Website: https://swarms.ai'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6855
+agent_fit_score: 5.9
+tags:
+- agentic-ai
+- agentic-workflow
+- agents
+- ai
+- artificial-intelligence
+- chatgpt
+- claude-code
+- gpt4all
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/kyegomez/swarms
+score_breakdown:
+  installability: 9
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.615

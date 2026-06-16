@@ -1,0 +1,27 @@
+name: java-sdk
+repo: modelcontextprotocol/java-sdk
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/java-sdk
+description: The official Java SDK for Model Context Protocol servers and clients.
+  Maintained in collaboration with Spring AI
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3475
+agent_fit_score: 6.1
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/modelcontextprotocol/java-sdk
+score_breakdown:
+  installability: 7
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8

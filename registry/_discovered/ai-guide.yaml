@@ -1,0 +1,36 @@
+name: ai-guide
+repo: liyupi/ai-guide
+category: tool
+homepage: https://github.com/liyupi/ai-guide
+description: 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek /
+  GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP /
+  A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor /
+license: unknown
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 15897
+agent_fit_score: 4.7
+tags:
+- ai
+- algorithm
+- artificial-intelligence
+- chatgpt
+- claude
+- cursor
+- deep-learning
+- deepseek
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/liyupi/ai-guide
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 4
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.994

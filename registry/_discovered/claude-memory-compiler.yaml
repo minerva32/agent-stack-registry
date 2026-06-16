@@ -1,0 +1,28 @@
+name: claude-memory-compiler
+repo: coleam00/claude-memory-compiler
+category: tool
+homepage: https://github.com/coleam00/claude-memory-compiler
+description: 'Give Claude Code a memory that evolves with your codebase. Hooks automatically
+  capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an
+  LLM compiler organizes everything into '
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1187
+agent_fit_score: 4.3
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/coleam00/claude-memory-compiler
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.962

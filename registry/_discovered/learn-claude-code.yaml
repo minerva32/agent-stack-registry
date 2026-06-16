@@ -1,0 +1,35 @@
+name: learn-claude-code
+repo: shareAI-lab/learn-claude-code
+category: agent
+homepage: https://github.com/shareAI-lab/learn-claude-code
+description: Bash is all you need -  A nano claude code–like 「agent harness」, built
+  from 0 to 1
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 66933
+agent_fit_score: 5.2
+tags:
+- agent
+- agent-development
+- ai-agent
+- claude
+- claude-code
+- educational
+- llm
+- python
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/shareAI-lab/learn-claude-code
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.82
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.856

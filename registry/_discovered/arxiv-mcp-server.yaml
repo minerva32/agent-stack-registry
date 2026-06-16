@@ -1,0 +1,34 @@
+name: arxiv-mcp-server
+repo: blazickjp/arxiv-mcp-server
+category: mcp-server
+homepage: https://github.com/blazickjp/arxiv-mcp-server
+description: A Model Context Protocol server for searching and analyzing arXiv papers
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2864
+agent_fit_score: 5.5
+tags:
+- ai
+- arxiv
+- claude-ai
+- gpt
+- llm
+- mcp-server
+- model-context-protocol
+- papers
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/blazickjp/arxiv-mcp-server
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.72
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.982

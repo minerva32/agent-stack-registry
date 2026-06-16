@@ -1,0 +1,25 @@
+# Auto-discovered: TheAgentCompany/TheAgentCompany
+name: TheAgentCompany
+repo: TheAgentCompany/TheAgentCompany
+category: eval
+homepage: https://github.com/TheAgentCompany/TheAgentCompany
+description: An agent benchmark with tasks in a simulated software company.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 727
+agent_fit_score: 5.0
+tags:
+- agent
+- ai
+- ai-benchmark
+- ai-research
+- benchmark
+- llm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/TheAgentCompany/TheAgentCompany

@@ -1,0 +1,35 @@
+name: DeepSeek-Reasonix
+repo: esengine/DeepSeek-Reasonix
+category: agent
+homepage: https://github.com/esengine/DeepSeek-Reasonix
+description: DeepSeek-native AI coding agent for your terminal. Engineered around
+  prefix-cache stability — leave it running.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 22605
+agent_fit_score: 5.6
+tags:
+- agent
+- agent-framework
+- ai-agent
+- ai-coding
+- cli
+- coding-agent
+- deepseek
+- developer-tools
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/esengine/DeepSeek-Reasonix
+score_breakdown:
+  installability: 8
+  automation_readiness: 6
+  extensibility: 3
+  repo_clarity: 7.11
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.8580000000000005

@@ -1,0 +1,35 @@
+name: QuantDinger
+repo: brokermr810/QuantDinger
+category: tool
+homepage: https://github.com/brokermr810/QuantDinger
+description: AI quantitative trading platform for crypto, stocks, and forex with backtesting,
+  live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 8105
+agent_fit_score: 4.8
+tags:
+- agent
+- ai
+- alpaca
+- backtesting
+- binance
+- coinbase
+- crypto
+- exchange
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/brokermr810/QuantDinger
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.82
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.974

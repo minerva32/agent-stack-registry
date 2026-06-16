@@ -1,0 +1,29 @@
+name: engram
+repo: Gentleman-Programming/engram
+category: agent
+homepage: https://github.com/Gentleman-Programming/engram
+description: Persistent memory system for AI coding agents. Agent-agnostic Go binary
+  with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 4396
+agent_fit_score: 6.2
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Gentleman-Programming/engram
+score_breakdown:
+  installability: 4
+  automation_readiness: 5
+  extensibility: 10
+  repo_clarity: 8
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8.675

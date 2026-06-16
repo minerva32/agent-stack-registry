@@ -1,0 +1,27 @@
+name: Webwright
+repo: microsoft/Webwright
+category: tool
+homepage: https://github.com/microsoft/Webwright
+description: 'A simple SWE style browser agent framework that achieves SOTA results
+  on long horizon web tasks. '
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5462
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/microsoft/Webwright
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 7
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.835

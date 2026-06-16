@@ -1,0 +1,27 @@
+name: mle-bench
+repo: openai/mle-bench
+category: eval
+homepage: https://github.com/openai/mle-bench
+description: MLE-bench is a benchmark for measuring how well AI agents perform at
+  machine learning engineering
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1586
+agent_fit_score: 3.9
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/openai/mle-bench
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 2.9699999999999998
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.984

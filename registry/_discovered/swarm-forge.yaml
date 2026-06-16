@@ -1,0 +1,26 @@
+name: swarm-forge
+repo: unclebob/swarm-forge
+category: tool
+homepage: https://github.com/unclebob/swarm-forge
+description: A simple tool for coordinating several AI agents.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 863
+agent_fit_score: 4.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/unclebob/swarm-forge
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 5
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.96

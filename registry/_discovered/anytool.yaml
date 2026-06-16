@@ -1,0 +1,31 @@
+name: AnyTool
+repo: HKUDS/AnyTool
+category: tool
+homepage: https://github.com/HKUDS/AnyTool
+description: '"AnyTool: Universal Tool-Use Layer for AI Agents"'
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 659
+agent_fit_score: 4.6
+tags:
+- ai-agents
+- computer-use-agents
+- mcp
+- tool-orchestration
+- tool-use
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/HKUDS/AnyTool
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.49
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.994

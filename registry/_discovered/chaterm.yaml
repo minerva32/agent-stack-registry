@@ -1,0 +1,36 @@
+name: Chaterm
+repo: chaterm/Chaterm
+category: agent
+homepage: https://github.com/chaterm/Chaterm
+description: Open source AI terminal for cloud and infrastructure management, enabling
+  you to deploy, troubleshoot, and automate services using natural language and intelligent
+  agents.
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3000
+agent_fit_score: 4.2
+tags:
+- aiagent
+- bastion
+- codex-cli
+- cursor
+- cyberark
+- devops
+- pam
+- putty
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/chaterm/Chaterm
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.71
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.898

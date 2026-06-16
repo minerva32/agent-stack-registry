@@ -1,0 +1,36 @@
+name: golutra
+repo: golutra/golutra
+category: tool
+homepage: https://github.com/golutra/golutra
+description: Multi-agent AI orchestration platform for automation, workflows, and
+  developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified
+  agent system with parallel execution, task orch
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3685
+agent_fit_score: 4.3
+tags:
+- agent
+- ai
+- automation
+- chatgpt
+- claude
+- claude-code
+- codex
+- codex-cli
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/golutra/golutra
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.89

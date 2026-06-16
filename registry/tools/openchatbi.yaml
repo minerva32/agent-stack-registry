@@ -1,0 +1,36 @@
+name: openchatbi
+repo: zhongyu09/openchatbi
+category: tool
+homepage: https://github.com/zhongyu09/openchatbi
+description: OpenChatBI is an intelligent chat-based BI tool powered by large language
+  models, designed to help users query, analyze, and visualize data through natural
+  language conversations. It uses LangGraph an
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 578
+agent_fit_score: 6.1
+tags:
+- agent
+- ai
+- analytics
+- anomaly-detection
+- bi
+- chatbi
+- data-agent
+- database
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/zhongyu09/openchatbi
+score_breakdown:
+  installability: 10
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 8
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 7.98

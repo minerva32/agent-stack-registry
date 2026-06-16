@@ -1,0 +1,35 @@
+name: optio
+repo: jonwiggins/optio
+category: tool
+homepage: https://github.com/jonwiggins/optio
+description: Workflow orchestration for AI coding agents swarms, from task to merged
+  PR.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 980
+agent_fit_score: 4.7
+tags:
+- agent
+- agents
+- ai
+- claude-code
+- copilot
+- gemini
+- kubernetes
+- opencode
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/jonwiggins/optio
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.75
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.956

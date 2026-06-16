@@ -1,0 +1,36 @@
+name: Awesome-Datasets-Hub
+repo: ahammadmejbah/Awesome-Datasets-Hub
+category: eval
+homepage: https://github.com/ahammadmejbah/Awesome-Datasets-Hub
+description: A curated collection of datasets for Large Language Models (LLMs), covering
+  medical AI, NLP, multimodal learning, instruction tuning, reasoning, code generation,
+  and evaluation benchmarks.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 138
+agent_fit_score: 3.8
+tags:
+- benchmark
+- benchmarking
+- deep-learning
+- deep-neural-networks
+- deeplearning
+- genetic-algorithm
+- llm
+- llm-evaluation
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ahammadmejbah/Awesome-Datasets-Hub
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.88
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7

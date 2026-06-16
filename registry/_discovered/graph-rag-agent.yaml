@@ -1,0 +1,35 @@
+name: graph-rag-agent
+repo: 1517005260/graph-rag-agent
+category: eval
+homepage: https://github.com/1517005260/graph-rag-agent
+description: 拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架|
+  Integrate GraphRAG, LightRAG, and Neo4j-llm-graph-builder for knowledge graph construction
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2226
+agent_fit_score: 4.7
+tags:
+- agentic-rag
+- chain-of-exploration
+- deepresearch
+- deepsearch
+- evaluation
+- graphrag
+- graphsearch
+- kg
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/1517005260/graph-rag-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.928

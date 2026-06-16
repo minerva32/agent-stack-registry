@@ -1,0 +1,34 @@
+name: JavaGuide
+repo: Snailclimb/JavaGuide
+category: mcp-server
+homepage: https://github.com/Snailclimb/JavaGuide
+description: Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 156406
+agent_fit_score: 5.8
+tags:
+- agent
+- ai
+- context-engineering
+- deepseek
+- interview
+- java
+- mcp
+- mysql
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/Snailclimb/JavaGuide
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.52
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 9.882

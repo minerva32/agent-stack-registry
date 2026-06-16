@@ -1,0 +1,33 @@
+name: goodai-ltm-benchmark
+repo: GoodAI/goodai-ltm-benchmark
+category: eval
+homepage: https://github.com/GoodAI/goodai-ltm-benchmark
+description: 'A library for benchmarking the Long Term Memory and Continual learning
+  capabilities of  LLM based agents. With all the tests and code you need to evaluate
+  your own agents. See more in the blogpost:'
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 87
+agent_fit_score: 3.3
+tags:
+- continual-learning
+- goodai
+- llm
+- long-term-memory
+- ltm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/GoodAI/goodai-ltm-benchmark
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.97
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3

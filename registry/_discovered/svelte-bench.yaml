@@ -1,0 +1,30 @@
+name: svelte-bench
+repo: khromov/svelte-bench
+category: eval
+homepage: https://github.com/khromov/svelte-bench
+description: An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs
+  paper "Evaluating Large Language Models Trained on Code".
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 181
+agent_fit_score: 4.2
+tags:
+- ai
+- svelte
+- sveltekit
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/khromov/svelte-bench
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.32
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6.994

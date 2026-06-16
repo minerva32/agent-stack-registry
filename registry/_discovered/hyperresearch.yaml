@@ -1,0 +1,32 @@
+name: hyperresearch
+repo: jordan-gibbs/hyperresearch
+category: tool
+homepage: https://github.com/jordan-gibbs/hyperresearch
+description: Agent-driven research knowledge base. Agents collect, search, and synthesize
+  web research into a persistent, searchable wiki.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 462
+agent_fit_score: 4.9
+tags:
+- agents
+- agentskills
+- claude-code
+- deep-research
+- deep-research-agent
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/jordan-gibbs/hyperresearch
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.25
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.99

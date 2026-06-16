@@ -1,0 +1,27 @@
+name: llm-decontaminator
+repo: lm-sys/llm-decontaminator
+category: eval
+homepage: https://github.com/lm-sys/llm-decontaminator
+description: Code for the paper "Rethinking Benchmark and Contamination for Language
+  Models with Rephrased Samples"
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 323
+agent_fit_score: 4.1
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/lm-sys/llm-decontaminator
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.02
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.992

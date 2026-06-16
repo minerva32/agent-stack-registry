@@ -1,0 +1,35 @@
+name: sandbox-agent
+repo: rivet-dev/sandbox-agent
+category: safety
+homepage: https://github.com/rivet-dev/sandbox-agent
+description: Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude
+  Code, Codex, OpenCode, and Amp.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1436
+agent_fit_score: 5.3
+tags:
+- agent
+- ai
+- amp
+- claude
+- claude-code
+- codex
+- daytona
+- e2b
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/rivet-dev/sandbox-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.03
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.85

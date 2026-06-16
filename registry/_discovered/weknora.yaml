@@ -1,0 +1,35 @@
+name: WeKnora
+repo: Tencent/WeKnora
+category: tool
+homepage: https://github.com/Tencent/WeKnora
+description: 'Open-source LLM knowledge platform: turn raw documents into a queryable
+  RAG, an autonomous reasoning agent, and a self-maintaining Wiki.'
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 16336
+agent_fit_score: 5.1
+tags:
+- agent
+- agentic
+- ai
+- chatbot
+- embeddings
+- evaluation
+- generative-ai
+- golang
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Tencent/WeKnora
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 9

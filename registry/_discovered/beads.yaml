@@ -1,0 +1,29 @@
+name: beads
+repo: gastownhall/beads
+category: tool
+homepage: https://github.com/gastownhall/beads
+description: Beads - A memory upgrade for your coding agent
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 24565
+agent_fit_score: 5.1
+tags:
+- agents
+- claude-code
+- coding
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/gastownhall/beads
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.46
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.05

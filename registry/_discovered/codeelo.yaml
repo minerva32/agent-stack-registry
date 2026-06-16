@@ -1,0 +1,27 @@
+name: CodeElo
+repo: QwenLM/CodeElo
+category: eval
+homepage: https://github.com/QwenLM/CodeElo
+description: 'CodeElo: Benchmarking Competition-level Code Generation of LLMs with
+  Human-comparable Elo Ratings'
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 75
+agent_fit_score: 3.1
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/QwenLM/CodeElo
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 2.9699999999999998
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 2.986

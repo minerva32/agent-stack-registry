@@ -1,0 +1,26 @@
+name: agency-swarm
+repo: VRSEN/agency-swarm
+category: tool
+homepage: https://github.com/VRSEN/agency-swarm
+description: Reliable Multi-Agent Orchestration Framework
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4451
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/VRSEN/agency-swarm
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.44
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.986

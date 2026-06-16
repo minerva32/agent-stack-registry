@@ -1,0 +1,37 @@
+name: mcphub.nvim
+repo: ravitemer/mcphub.nvim
+category: mcp-server
+homepage: https://github.com/ravitemer/mcphub.nvim
+description: An MCP client for Neovim that seamlessly integrates MCP servers into
+  your editing workflow with an intuitive interface for managing, testing, and using
+  MCP servers with your favorite chat plugins.
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1779
+agent_fit_score: 4.8
+tags:
+- avante
+- chatgpt
+- chatplugin
+- claude-ai
+- codecompanion
+- llm
+- mcp
+- mcp-client
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ravitemer/mcphub.nvim
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.96
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.952

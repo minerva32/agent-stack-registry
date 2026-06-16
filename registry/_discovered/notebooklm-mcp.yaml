@@ -1,0 +1,29 @@
+name: notebooklm-mcp
+repo: PleasePrompto/notebooklm-mcp
+category: mcp-server
+homepage: https://github.com/PleasePrompto/notebooklm-mcp
+description: MCP server for NotebookLM - Let your AI agents (Claude Code, Codex) research
+  documentation directly with grounded, citation-backed answers from Gemini. Persistent
+  auth, library management, cross-clien
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2793
+agent_fit_score: 5.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/PleasePrompto/notebooklm-mcp
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.97

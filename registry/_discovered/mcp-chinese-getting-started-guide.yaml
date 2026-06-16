@@ -1,0 +1,31 @@
+name: MCP-Chinese-Getting-Started-Guide
+repo: liaokongVFX/MCP-Chinese-Getting-Started-Guide
+category: mcp-server
+homepage: https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide
+description: Model Context Protocol(MCP) 编程极速入门
+license: unknown
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 3520
+agent_fit_score: 3.9
+tags:
+- ai
+- deepseek
+- mcp
+- mcp-server
+- modelcontextprotocol
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 4.34
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.986

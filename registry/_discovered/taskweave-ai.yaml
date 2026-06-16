@@ -1,0 +1,28 @@
+name: TaskWeave-AI
+repo: birukG09/TaskWeave-AI
+category: tool
+homepage: https://github.com/birukG09/TaskWeave-AI
+description: TL;DR  TaskWeave AI connects Slack, GitHub, Gmail, Trello, Notion, and
+  Google Drive; ingests their events; uses LLMs to extract actionable tasks with priority;
+  triggers cross‑app automations; and deli
+license: unknown
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 8
+agent_fit_score: 4.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/birukG09/TaskWeave-AI
+score_breakdown:
+  installability: 5
+  automation_readiness: 5
+  extensibility: 6
+  repo_clarity: 5
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 3.0

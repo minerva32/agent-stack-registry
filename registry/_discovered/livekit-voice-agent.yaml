@@ -1,0 +1,35 @@
+name: livekit-voice-agent
+repo: theaifutureguy/livekit-voice-agent
+category: tool
+homepage: https://github.com/theaifutureguy/livekit-voice-agent
+description: A production-ready voice agent implementation using LiveKit and Python,
+  featuring advanced conversational AI capabilities and optional telephony integration.
+  It provides intelligent turn detection, fu
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 41
+agent_fit_score: 4.4
+tags:
+- ai-agent
+- deepgram
+- elevenlabs
+- livekit
+- openai
+- pytho
+- twillio
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/theaifutureguy/livekit-voice-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 2.992

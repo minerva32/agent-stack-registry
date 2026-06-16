@@ -1,0 +1,26 @@
+name: LLM-paper-daily
+repo: cnlinxi/LLM-paper-daily
+category: tool
+homepage: https://github.com/cnlinxi/LLM-paper-daily
+description: 'Automatically Update LLM Papers Daily using Github Actions. Ref: https://github.com/Vincentqyw/cv-arxiv-daily'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 10
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/cnlinxi/LLM-paper-daily
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.09
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5

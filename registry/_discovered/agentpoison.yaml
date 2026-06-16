@@ -1,0 +1,30 @@
+name: AgentPoison
+repo: AI-secure/AgentPoison
+category: tool
+homepage: https://github.com/AI-secure/AgentPoison
+description: '[NeurIPS 2024] Official implementation for "AgentPoison: Red-teaming
+  LLM Agents via Memory or Knowledge Base Backdoor Poisoning"'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 219
+agent_fit_score: 4.9
+tags:
+- llm-agent
+- red-team
+- retrieval-augmented-generation
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/AI-secure/AgentPoison
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.28
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.992

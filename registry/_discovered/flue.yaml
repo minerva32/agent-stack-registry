@@ -1,0 +1,26 @@
+name: flue
+repo: withastro/flue
+category: safety
+homepage: https://github.com/withastro/flue
+description: The sandbox agent framework.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5008
+agent_fit_score: 5.2
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/withastro/flue
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.28
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.99

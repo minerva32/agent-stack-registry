@@ -1,0 +1,27 @@
+name: modelcontextprotocol
+repo: modelcontextprotocol/modelcontextprotocol
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/modelcontextprotocol
+description: Specification and documentation for the Model Context Protocol
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 8407
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/modelcontextprotocol/modelcontextprotocol
+score_breakdown:
+  installability: 3
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 5
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8
+reject_reason: no MCP signal in name/description/topics

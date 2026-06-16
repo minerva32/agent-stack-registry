@@ -1,0 +1,34 @@
+name: PocketFlow
+repo: The-Pocket/PocketFlow
+category: tool
+homepage: https://github.com/The-Pocket/PocketFlow
+description: 'Pocket Flow: 100-line LLM framework. Let Agents build Agents!'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 10767
+agent_fit_score: 5.2
+tags:
+- agentic-ai
+- agentic-framework
+- agentic-workflow
+- agents
+- ai-framework
+- ai-frameworks
+- aiagent
+- aiagents
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/The-Pocket/PocketFlow
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.61
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.86

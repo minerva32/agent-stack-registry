@@ -1,0 +1,38 @@
+name: kreuzberg
+repo: kreuzberg-dev/kreuzberg
+category: mcp-server
+homepage: https://github.com/kreuzberg-dev/kreuzberg
+description: A polyglot document intelligence framework with a Rust core. Extract
+  text, metadata, images, and structured information from PDFs, Office documents,
+  images, and 97+ formats. Available for Rust, Python
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 8495
+agent_fit_score: 4.7
+tags:
+- bun
+- csharp
+- document-intelligence
+- elixir
+- ffi
+- golang
+- java
+- metadata-extraction
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/kreuzberg-dev/kreuzberg
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.94

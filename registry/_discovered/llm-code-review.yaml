@@ -1,0 +1,27 @@
+name: llm-code-review
+repo: luiyen/llm-code-review
+category: tool
+homepage: https://github.com/luiyen/llm-code-review
+description: A container GitHub Action to review a pull request by HuggingFace's LLM
+  Model.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: archived
+last_verified: '2026-06-16'
+stars: 31
+agent_fit_score: 4.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/luiyen/llm-code-review
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.78
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 2.998

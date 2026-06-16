@@ -1,0 +1,28 @@
+# Auto-discovered: microsoft/WindowsAgentArena
+name: WindowsAgentArena
+repo: microsoft/WindowsAgentArena
+category: eval
+homepage: https://github.com/microsoft/WindowsAgentArena
+description: Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and
+  benchmarking of multi-modal AI agents.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 872
+agent_fit_score: 5.0
+tags:
+- agentic
+- ai
+- ai-agent
+- ai-benchmark
+- ai-research
+- computer
+- computer-use
+- desktop-agent
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/microsoft/WindowsAgentArena

@@ -1,0 +1,27 @@
+name: agent-sandbox
+repo: kubernetes-sigs/agent-sandbox
+category: safety
+homepage: https://github.com/kubernetes-sigs/agent-sandbox
+description: agent-sandbox enables easy management of isolated, stateful, singleton
+  workloads, ideal for use cases like AI agent runtimes.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2897
+agent_fit_score: 5.6
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/kubernetes-sigs/agent-sandbox
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.25
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.618

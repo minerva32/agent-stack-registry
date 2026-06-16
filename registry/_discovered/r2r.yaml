@@ -1,0 +1,35 @@
+name: R2R
+repo: SciPhi-AI/R2R
+category: tool
+homepage: https://github.com/SciPhi-AI/R2R
+description: SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented
+  Generation (RAG) with a RESTful API.
+license: MIT
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 7889
+agent_fit_score: 4.3
+tags:
+- artificial-intelligence
+- large-language-models
+- python
+- question-answering
+- rag
+- retrieval-augmented-generation
+- retrieval-systems
+- search
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/SciPhi-AI/R2R
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.07
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.766

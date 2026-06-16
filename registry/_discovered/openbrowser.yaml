@@ -1,0 +1,33 @@
+name: openbrowser
+repo: ntegrals/openbrowser
+category: tool
+homepage: https://github.com/ntegrals/openbrowser
+description: Let AI agents browse the web. An autonomous toolkit for browser-based
+  AI agents.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 9469
+agent_fit_score: 5.5
+tags:
+- ai-agents
+- automation
+- claude
+- playwright
+- puppeteer
+- sandbox
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ntegrals/openbrowser
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.8
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.962

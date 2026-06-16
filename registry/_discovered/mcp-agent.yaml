@@ -1,0 +1,35 @@
+name: mcp-agent
+repo: lastmile-ai/mcp-agent
+category: mcp-server
+homepage: https://github.com/lastmile-ai/mcp-agent
+description: Build effective agents using Model Context Protocol and simple workflow
+  patterns
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 8373
+agent_fit_score: 4.8
+tags:
+- agents
+- ai
+- ai-agents
+- llm
+- llms
+- mcp
+- model-context-protocol
+- python
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/lastmile-ai/mcp-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.724

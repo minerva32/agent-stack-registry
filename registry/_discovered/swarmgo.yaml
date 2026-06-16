@@ -1,0 +1,28 @@
+name: swarmgo
+repo: prathyushnallamothu/swarmgo
+category: tool
+homepage: https://github.com/prathyushnallamothu/swarmgo
+description: SwarmGo (agents-sdk-go) is a Go package that allows you to create AI
+  agents capable of interacting, coordinating, and executing tasks. Inspired by OpenAI's
+  Swarm framework, SwarmGo focuses on making a
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 365
+agent_fit_score: 3.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/prathyushnallamothu/swarmgo
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.93

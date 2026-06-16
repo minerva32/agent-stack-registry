@@ -1,0 +1,36 @@
+name: cognee
+repo: topoteretes/cognee
+category: tool
+homepage: https://github.com/topoteretes/cognee
+description: Cognee is the open-source AI memory platform for agents. Give your AI
+  agents persistent long-term memory across sessions with a self-hosted knowledge
+  graph engine.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 17852
+agent_fit_score: 5.2
+tags:
+- agent-memory
+- agent-skills
+- ai
+- ai-agents
+- ai-memory
+- cognitive-architecture
+- cognitive-memory
+- context-engineering
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/topoteretes/cognee
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.629999999999999
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.75

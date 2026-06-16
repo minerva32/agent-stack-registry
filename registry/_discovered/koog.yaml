@@ -1,0 +1,36 @@
+name: koog
+repo: JetBrains/koog
+category: tool
+homepage: https://github.com/JetBrains/koog
+description: Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant
+  and enterprise-ready AI agents across all platforms – from backend services to Android
+  and iOS, JVM, and even in-brow
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 4359
+agent_fit_score: 5.5
+tags:
+- agentframework
+- agentic-ai
+- agents
+- ai
+- ai-agents-framework
+- aiagentframework
+- android-ai
+- anthropic
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/JetBrains/koog
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.702

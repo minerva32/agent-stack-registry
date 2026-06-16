@@ -1,0 +1,35 @@
+name: adk-go
+repo: google/adk-go
+category: eval
+homepage: https://github.com/google/adk-go
+description: An open-source, code-first Go toolkit for building, evaluating, and deploying
+  sophisticated AI agents with flexibility and control.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 8170
+agent_fit_score: 5.3
+tags:
+- a2a
+- agents
+- agents-sdk
+- ai
+- aiagentframework
+- gemini
+- genai
+- go
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/google/adk-go
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 6.3100000000000005
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.504

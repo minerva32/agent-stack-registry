@@ -1,0 +1,35 @@
+name: EdgeBox
+repo: BIGPPWONG/EdgeBox
+category: agent
+homepage: https://github.com/BIGPPWONG/EdgeBox
+description: 'A fully-featured, GUI-powered local LLM Agent sandbox with complete
+  MCP protocol support.   Features both CLI and full desktop environment, enabling
+  AI agents to operate browsers, terminal, and other '
+license: GPL-3.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 202
+agent_fit_score: 5.9
+tags:
+- code-interpreter
+- computer-use
+- e2b
+- llm-agent
+- llm-sandbox
+- mcp
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/BIGPPWONG/EdgeBox
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 6.996

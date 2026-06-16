@@ -1,0 +1,26 @@
+name: sandcastle
+repo: mattpocock/sandcastle
+category: tool
+homepage: https://github.com/mattpocock/sandcastle
+description: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6049
+agent_fit_score: 5.2
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mattpocock/sandcastle
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.71
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.862

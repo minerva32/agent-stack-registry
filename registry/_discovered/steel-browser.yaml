@@ -1,0 +1,32 @@
+name: steel-browser
+repo: steel-dev/steel-browser
+category: safety
+homepage: https://github.com/steel-dev/steel-browser
+description: 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included
+  browser sandbox that lets you automate the web without worrying about infrastructure.
+license: Apache-2.0
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 7169
+agent_fit_score: 5.4
+tags:
+- ai
+- ai-agents
+- ai-tools
+- browser-automation
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/steel-dev/steel-browser
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.71
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.912

@@ -1,0 +1,26 @@
+name: openhanako
+repo: liliMozi/openhanako
+category: tool
+homepage: https://github.com/liliMozi/openhanako
+description: A personal AI agent with memory, personality, and autonomy.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4826
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/liliMozi/openhanako
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.59
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.8740000000000006

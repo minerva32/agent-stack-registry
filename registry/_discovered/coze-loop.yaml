@@ -1,0 +1,36 @@
+name: coze-loop
+repo: coze-dev/coze-loop
+category: eval
+homepage: https://github.com/coze-dev/coze-loop
+description: 'Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges
+  in AI agent development by providing full-lifecycle management capabilities from
+  development, debugging, and evaluation to'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5523
+agent_fit_score: 5.1
+tags:
+- agent
+- agent-evaluation
+- agent-observability
+- agentops
+- ai
+- coze
+- eino
+- evaluation
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/coze-dev/coze-loop
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.872

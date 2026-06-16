@@ -1,0 +1,34 @@
+name: tracecat
+repo: TracecatHQ/tracecat
+category: safety
+homepage: https://github.com/TracecatHQ/tracecat
+description: Open-source security automation platform for teams and AI agents
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3678
+agent_fit_score: 4.9
+tags:
+- agents
+- automation
+- event-driven
+- fastapi
+- llm
+- low-code
+- monitoring
+- nextjs
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/TracecatHQ/tracecat
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 8
+  reproducibility: 2
+  maintenance: 8.5

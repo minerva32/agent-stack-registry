@@ -1,0 +1,26 @@
+name: TinyAgent
+repo: SqueezeAILab/TinyAgent
+category: tool
+homepage: https://github.com/SqueezeAILab/TinyAgent
+description: '[EMNLP 2024 Demo] TinyAgent: Function Calling at the Edge!'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 486
+agent_fit_score: 4.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/SqueezeAILab/TinyAgent
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.96

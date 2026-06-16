@@ -1,0 +1,35 @@
+name: superlog
+repo: superloglabs/superlog
+category: tool
+homepage: https://github.com/superloglabs/superlog
+description: Open-source observability tool that uses AI agents to self-heal your
+  software
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 832
+agent_fit_score: 4.5
+tags:
+- ai
+- llm
+- memory
+- observability
+- opentelemetry
+- react
+- self-hosted
+- skills
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/superloglabs/superlog
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.77
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.968

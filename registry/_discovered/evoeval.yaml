@@ -1,0 +1,34 @@
+name: evoeval
+repo: evo-eval/evoeval
+category: eval
+homepage: https://github.com/evo-eval/evoeval
+description: 'EvoEval: Evolving Coding Benchmarks via LLM'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 84
+agent_fit_score: 3.9
+tags:
+- benchmark
+- chatgpt
+- claude-3
+- gemini-pro
+- gpt-4
+- large-language-models
+- llm
+- program-synthesis
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/evo-eval/evoeval
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.43
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 2.998

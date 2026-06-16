@@ -1,0 +1,36 @@
+name: redamon
+repo: samugit83/redamon
+category: safety
+homepage: https://github.com/samugit83/redamon
+description: An AI-powered agentic red team framework that automates offensive security
+  operations, from reconnaissance to exploitation to post-exploitation, with zero
+  human intervention.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1992
+agent_fit_score: 5.1
+tags:
+- agentic-ai
+- ai
+- cybersecurity
+- ethical-hacking
+- ethical-hacking-tools
+- exploitation
+- metasploit
+- osint
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/samugit83/redamon
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.74
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.964

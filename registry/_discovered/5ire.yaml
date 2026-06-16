@@ -1,0 +1,34 @@
+name: 5ire
+repo: nanbingxyz/5ire
+category: mcp-server
+homepage: https://github.com/nanbingxyz/5ire
+description: 5ire is a cross-platform desktop AI assistant, MCP client. It compatible
+  with major service providers,  supports local knowledge base and  tools via model
+  context protocol servers .
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 5246
+agent_fit_score: 4.8
+tags:
+- knowledge-base
+- llms
+- mcp
+- mcp-client
+- model-context-protocol
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/nanbingxyz/5ire
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 5.8100000000000005
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.854

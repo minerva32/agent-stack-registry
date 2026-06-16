@@ -1,0 +1,34 @@
+name: Swarm
+repo: christopherkarani/Swarm
+category: tool
+homepage: https://github.com/christopherkarani/Swarm
+description: 🐦‍🔥  Agent Runtime, MacOS/iOS/Linux Pure Swift 6.3
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 492
+agent_fit_score: 4.4
+tags:
+- agent
+- agentic-ai
+- agentic-systems
+- agents
+- ai
+- ai-agents
+- foundation-models
+- ios
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/christopherkarani/Swarm
+score_breakdown:
+  installability: 3
+  automation_readiness: 3
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.98

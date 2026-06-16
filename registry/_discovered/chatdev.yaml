@@ -1,0 +1,26 @@
+name: ChatDev
+repo: OpenBMB/ChatDev
+category: tool
+homepage: https://github.com/OpenBMB/ChatDev
+description: 'ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 33430
+agent_fit_score: 4.8
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/OpenBMB/ChatDev
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.66
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.868

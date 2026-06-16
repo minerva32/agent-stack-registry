@@ -1,0 +1,28 @@
+name: harness
+repo: xwtro0tk1t-cloud/harness
+category: safety
+homepage: https://github.com/xwtro0tk1t-cloud/harness
+description: 'Harness is an AI Agent development guardrail Meta-Skill that establishes
+  four layers of defense for any project in one command: knowledge management, architecture
+  constraints, feedback loops, and entr'
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 323
+agent_fit_score: 4.1
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/xwtro0tk1t-cloud/harness
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7

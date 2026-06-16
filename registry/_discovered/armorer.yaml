@@ -1,0 +1,35 @@
+name: Armorer
+repo: ArmorerLabs/Armorer
+category: safety
+homepage: https://github.com/ArmorerLabs/Armorer
+description: Local control plane for running AI agents with sandboxes, approvals,
+  guardrails, credentials, and runtime health.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 56
+agent_fit_score: 5.9
+tags:
+- agent-runtime
+- agent-security
+- ai-agents
+- ai-security
+- cybersecurity
+- devtools
+- docker
+- guardrails
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ArmorerLabs/Armorer
+score_breakdown:
+  installability: 8
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.13
+  sandbox_safety: 10
+  reproducibility: 5
+  maintenance: 5.996

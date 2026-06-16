@@ -1,0 +1,27 @@
+name: PaperGuru-Benchmark
+repo: PaperGuru-AI/PaperGuru-Benchmark
+category: eval
+homepage: https://github.com/PaperGuru-AI/PaperGuru-Benchmark
+description: Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench,
+  94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1032
+agent_fit_score: 3.6
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/PaperGuru-AI/PaperGuru-Benchmark
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 3.54
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8

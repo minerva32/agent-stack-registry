@@ -1,0 +1,27 @@
+name: llm-arxiv-daily
+repo: Xuchen-Li/llm-arxiv-daily
+category: tool
+homepage: https://github.com/Xuchen-Li/llm-arxiv-daily
+description: Automatically update arXiv papers about LLM Reasoning, LLM Evaluation,
+  LLM & MLLM and Video Understanding using Github Actions.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 143
+agent_fit_score: 4.2
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Xuchen-Li/llm-arxiv-daily
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.27
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7

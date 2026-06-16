@@ -1,0 +1,24 @@
+# Auto-discovered: sierra-research/tau2-bench
+name: tau2-bench
+repo: sierra-research/tau2-bench
+category: eval
+homepage: https://github.com/sierra-research/tau2-bench
+description: 'τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1361
+agent_fit_score: 5.0
+tags:
+- ai
+- benchmark
+- conversational-agents
+- language-model-agent
+- llm
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/sierra-research/tau2-bench

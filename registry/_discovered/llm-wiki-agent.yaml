@@ -1,0 +1,37 @@
+name: llm-wiki-agent
+repo: SamurAIGPT/llm-wiki-agent
+category: agent
+homepage: https://github.com/SamurAIGPT/llm-wiki-agent
+description: A personal knowledge base that builds and maintains itself. Drop in sources
+  — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent
+  interlinked wiki. Works with Claude Co
+license: MIT
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 2935
+agent_fit_score: 5.1
+tags:
+- claude-code
+- codex
+- gemini
+- knowledge-base
+- knowledge-graph
+- llm
+- markdown
+- obsidian
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/SamurAIGPT/llm-wiki-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.992

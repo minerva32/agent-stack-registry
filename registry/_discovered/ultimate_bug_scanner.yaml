@@ -1,0 +1,35 @@
+name: ultimate_bug_scanner
+repo: Dicklesworthstone/ultimate_bug_scanner
+category: safety
+homepage: https://github.com/Dicklesworthstone/ultimate_bug_scanner
+description: Static analysis tool that catches 1000+ bug patterns across all popular
+  programming languages, with auto-wiring into AI coding agent quality guardrails
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 250
+agent_fit_score: 5.0
+tags:
+- agent-tools
+- ai-agents
+- bash
+- bugs
+- cli
+- code-quality
+- developer-tools
+- linting
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Dicklesworthstone/ultimate_bug_scanner
+score_breakdown:
+  installability: 4
+  automation_readiness: 6
+  extensibility: 6
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.0

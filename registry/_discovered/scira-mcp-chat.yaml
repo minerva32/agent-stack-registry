@@ -1,0 +1,34 @@
+name: scira-mcp-chat
+repo: zaidmukaddam/scira-mcp-chat
+category: mcp-server
+homepage: https://github.com/zaidmukaddam/scira-mcp-chat
+description: A minimalistic MCP client with a good feature set.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 830
+agent_fit_score: 4.9
+tags:
+- anthropic
+- grok3
+- mcp
+- mcp-client
+- model-context-protocol
+- openai
+- xai
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/zaidmukaddam/scira-mcp-chat
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.5
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.982

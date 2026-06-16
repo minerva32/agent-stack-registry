@@ -1,0 +1,35 @@
+name: compose-for-agents
+repo: docker/compose-for-agents
+category: tool
+homepage: https://github.com/docker/compose-for-agents
+description: Build and run AI agents using Docker Compose. A collection of ready-to-use
+  examples for orchestrating open-source LLMs, tools, and agent runtimes.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 981
+agent_fit_score: 5.5
+tags:
+- agentic-workflows
+- ai-agents
+- docker
+- docker-compose
+- examples
+- large-language-models
+- llama-cpp
+- openai-gym
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/docker/compose-for-agents
+score_breakdown:
+  installability: 8
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.46
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 6.952

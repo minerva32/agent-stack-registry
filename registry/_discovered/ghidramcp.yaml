@@ -1,0 +1,26 @@
+name: GhidraMCP
+repo: LaurieWired/GhidraMCP
+category: mcp-server
+homepage: https://github.com/LaurieWired/GhidraMCP
+description: MCP Server for Ghidra
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 9249
+agent_fit_score: 4.7
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/LaurieWired/GhidraMCP
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 7.21
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.838

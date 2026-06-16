@@ -1,0 +1,34 @@
+name: paseo
+repo: getpaseo/paseo
+category: tool
+homepage: https://github.com/getpaseo/paseo
+description: Orchestrate multiple coding agents from desktop and mobile
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 8714
+agent_fit_score: 3.9
+tags:
+- ade
+- agents
+- claude-code
+- codex
+- copilot
+- developer-tools
+- gemini
+- mobile
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/getpaseo/paseo
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.58
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 6.684

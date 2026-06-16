@@ -1,0 +1,35 @@
+name: nanostack
+repo: garagon/nanostack
+category: tool
+homepage: https://github.com/garagon/nanostack
+description: A workflow harness that helps AI coding agents plan, review, test, and
+  ship safer code.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 201
+agent_fit_score: 4.3
+tags:
+- ai-agents
+- ai-coding
+- claude-code
+- code-review
+- codex
+- developer-tools
+- engineering-workflow
+- gstack
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/garagon/nanostack
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.87
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.998

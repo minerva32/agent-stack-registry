@@ -1,0 +1,28 @@
+name: GitNexus
+repo: abhigyanpatwari/GitNexus
+category: agent
+homepage: https://github.com/abhigyanpatwari/GitNexus
+description: 'GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus
+  is a client-side knowledge graph creator that runs entirely in your browser. Drop
+  in a git repository (Github, Gitlab, Azure, Local)'
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 42288
+agent_fit_score: 4.4
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/abhigyanpatwari/GitNexus
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 8.475999999999999

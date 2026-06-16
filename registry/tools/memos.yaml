@@ -1,0 +1,35 @@
+name: MemOS
+repo: MemTensor/MemOS
+category: tool
+homepage: https://github.com/MemTensor/MemOS
+description: 'Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory,
+  hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings'
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 9892
+agent_fit_score: 6.4
+tags:
+- agent
+- agentic-ai
+- ai
+- ai-agents
+- chatgpt
+- claude
+- hermes
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/MemTensor/MemOS
+score_breakdown:
+  installability: 5
+  automation_readiness: 7
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 6
+  reproducibility: 2
+  maintenance: 8

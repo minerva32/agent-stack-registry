@@ -1,0 +1,29 @@
+name: registry
+repo: modelcontextprotocol/registry
+category: mcp-server
+homepage: https://github.com/modelcontextprotocol/registry
+description: A community driven registry service for Model Context Protocol (MCP)
+  servers.
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 6937
+agent_fit_score: 4.4
+tags:
+- mcp
+- mcp-servers
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/modelcontextprotocol/registry
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 2.77
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.736

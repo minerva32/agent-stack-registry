@@ -1,0 +1,36 @@
+name: gh-pr-review
+repo: agynio/gh-pr-review
+category: agent
+homepage: https://github.com/agynio/gh-pr-review
+description: GitHub CLI extension that adds full inline PR review comment support
+  — view, navigate, reply to, and resolve review threads directly from the terminal.
+  LLM-ready and ideal for automated PR review agen
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 159
+agent_fit_score: 5.0
+tags:
+- ai-agents
+- automation
+- code-review
+- command-line
+- developer-tools
+- devops
+- gh-extension
+- github
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/agynio/gh-pr-review
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.976

@@ -1,0 +1,30 @@
+name: expect
+repo: millionco/expect
+category: tool
+homepage: https://github.com/millionco/expect
+description: Expect tests your agent's code in a real browser
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3505
+agent_fit_score: 3.8
+tags:
+- agent
+- browser
+- expect
+- test
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/millionco/expect
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 2.48
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.956

@@ -1,0 +1,26 @@
+name: lemmy
+repo: badlogic/lemmy
+category: tool
+homepage: https://github.com/badlogic/lemmy
+description: Wrapper around tool using LLMs for agentic workflows
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1623
+agent_fit_score: 3.6
+tags: []
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/badlogic/lemmy
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.52
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 4.932

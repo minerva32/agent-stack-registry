@@ -1,0 +1,28 @@
+name: mcp-playwright
+repo: executeautomation/mcp-playwright
+category: mcp-server
+homepage: https://github.com/executeautomation/mcp-playwright
+description: Playwright Model Context Protocol Server - Tool to automate Browsers
+  and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+license: MIT
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 5554
+agent_fit_score: 5.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/executeautomation/mcp-playwright
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 9.25
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.934

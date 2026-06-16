@@ -1,0 +1,35 @@
+name: witsy
+repo: Kochava-Studios/witsy
+category: mcp-server
+homepage: https://github.com/Kochava-Studios/witsy
+description: 'Witsy: desktop AI assistant / universal MCP client'
+license: AGPL-3.0
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1981
+agent_fit_score: 7.0
+tags:
+- anthropic
+- deepseek
+- electron-app
+- electronjs
+- gemini
+- genai
+- googleai
+- groq
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Kochava-Studios/witsy
+score_breakdown:
+  installability: 4
+  automation_readiness: 10
+  extensibility: 10
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 7
+  maintenance: 8.76

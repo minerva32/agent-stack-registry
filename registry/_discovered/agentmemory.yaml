@@ -1,0 +1,34 @@
+name: agentmemory
+repo: rohitg00/agentmemory
+category: tool
+homepage: https://github.com/rohitg00/agentmemory
+description: '#1 Persistent memory for AI coding agents based on real-world benchmarks'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 23095
+agent_fit_score: 5.0
+tags:
+- agentmemory
+- agents
+- ai
+- claude
+- claudecode
+- codex
+- copilot
+- cursor
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/rohitg00/agentmemory
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.72
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.386

@@ -1,0 +1,35 @@
+name: agent-starter-pack
+repo: GoogleCloudPlatform/agent-starter-pack
+category: eval
+homepage: https://github.com/GoogleCloudPlatform/agent-starter-pack
+description: Ship AI Agents to Google Cloud in minutes, not months. Production-ready
+  templates with built-in CI/CD, evaluation, and observability.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 6478
+agent_fit_score: 4.9
+tags:
+- agents
+- gcp
+- gemini
+- genai-agents
+- generative-ai
+- llmops
+- mlops
+- observability
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/GoogleCloudPlatform/agent-starter-pack
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.33
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.928

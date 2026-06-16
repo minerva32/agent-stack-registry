@@ -1,0 +1,28 @@
+name: sift-kg
+repo: juanceresa/sift-kg
+category: agent
+homepage: https://github.com/juanceresa/sift-kg
+description: Turn any collection of documents into a knowledge graph. Extract entities
+  and relationships via LLM, deduplicate with your approval. Map domains, find hidden
+  connections, spot patterns across document
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 499
+agent_fit_score: 5.1
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/juanceresa/sift-kg
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 10
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.994

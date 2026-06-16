@@ -1,0 +1,27 @@
+name: openai-realtime-api-voice-assistant-V2
+repo: Barty-Bart/openai-realtime-api-voice-assistant-V2
+category: tool
+homepage: https://github.com/Barty-Bart/openai-realtime-api-voice-assistant-V2
+description: OpenAI Realtime API Voice Agent with RAG, Function Calling, and Caller
+  History
+license: unknown
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 129
+agent_fit_score: 3.5
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Barty-Bart/openai-realtime-api-voice-assistant-V2
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.78
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.994

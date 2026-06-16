@@ -1,0 +1,27 @@
+name: Mind2Web
+repo: OSU-NLP-Group/Mind2Web
+category: eval
+homepage: https://github.com/OSU-NLP-Group/Mind2Web
+description: '[NeurIPS''23 Spotlight] "Mind2Web: Towards a Generalist Agent for the
+  Web" -- the first LLM-based web agent and benchmark for generalist web agents'
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1002
+agent_fit_score: 4.2
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/OSU-NLP-Group/Mind2Web
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.46
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.976

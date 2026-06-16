@@ -1,0 +1,36 @@
+name: fastapi-langgraph-agent-production-ready-template
+repo: wassim249/fastapi-langgraph-agent-production-ready-template
+category: tool
+homepage: https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
+description: A production-ready FastAPI template for building AI agent applications
+  with LangGraph integration. This template provides a robust foundation for building
+  scalable, secure, and maintainable AI agent s
+license: MIT
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 2411
+agent_fit_score: 6.0
+tags:
+- agent
+- agentic-ai
+- docker
+- fastapi
+- fastapi-template
+- langchain
+- langchain-python
+- langgraph
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
+score_breakdown:
+  installability: 8
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.988

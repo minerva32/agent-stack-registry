@@ -1,0 +1,28 @@
+# Auto-discovered: TencentCloud/TencentDB-Agent-Memory
+name: TencentDB-Agent-Memory
+repo: TencentCloud/TencentDB-Agent-Memory
+category: tool
+homepage: https://github.com/TencentCloud/TencentDB-Agent-Memory
+description: TencentDB Agent Memory delivers fully local long-term memory for AI Agents
+  via a 4-tier progressive pipeline, with zero external API dependencies.
+license: NOASSERTION
+open_source: true
+interface:
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 5832
+agent_fit_score: 5.0
+tags:
+- agent
+- ai-agent
+- embedding
+- llm
+- local-first
+- long-term-memory
+- memory
+- openclaw-plugin
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/TencentCloud/TencentDB-Agent-Memory

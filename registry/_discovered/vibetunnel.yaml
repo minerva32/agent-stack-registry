@@ -1,0 +1,29 @@
+name: vibetunnel
+repo: amantus-ai/vibetunnel
+category: agent
+homepage: https://github.com/amantus-ai/vibetunnel
+description: Turn any browser into your terminal & command your agents on the go.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4547
+agent_fit_score: 5.7
+tags:
+- remote
+- terminal
+- vibecoding
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/amantus-ai/vibetunnel
+score_breakdown:
+  installability: 8
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 8
+  reproducibility: 2
+  maintenance: 8.995

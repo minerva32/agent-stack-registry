@@ -1,0 +1,36 @@
+name: cc-switch
+repo: farion1231/cc-switch
+category: mcp-server
+homepage: https://github.com/farion1231/cc-switch
+description: 'A cross-platform desktop All-in-One assistant for Claude Code, Codex,
+  OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io'
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 102571
+agent_fit_score: 5.5
+tags:
+- ai-tools
+- claude-code
+- codex
+- desktop-app
+- hermes
+- hermes-agent
+- mcp
+- minimax
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/farion1231/cc-switch
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8.51
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.998

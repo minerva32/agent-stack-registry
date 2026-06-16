@@ -1,0 +1,36 @@
+name: liteflow
+repo: dromara/liteflow
+category: tool
+homepage: https://github.com/dromara/liteflow
+description: 'Lightweight, fast, stable, programmable component-based rule engine
+  — where AI Agents orchestrate just like ordinary components. Uniquely designed DSL:
+  component reuse, sync/async & dynamic orchestrat'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3773
+agent_fit_score: 4.8
+tags:
+- ai-agent
+- ai-agents
+- component
+- dsl
+- flow-engine
+- hot-reload
+- java-rule
+- java-rule-engine
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/dromara/liteflow
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.882

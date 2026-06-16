@@ -1,0 +1,26 @@
+# Auto-discovered: AvdLee/Xcode-Build-Optimization-Agent-Skill
+name: Xcode-Build-Optimization-Agent-Skill
+repo: AvdLee/Xcode-Build-Optimization-Agent-Skill
+category: eval
+homepage: https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill
+description: An Agent Skill helping you to optimize Xcode incremental and clean builds
+  by running benchmarks and optimizing build settings.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1131
+agent_fit_score: 5.0
+tags:
+- agent
+- agent-skills
+- ios
+- ios-development
+- skills
+- xcode
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill

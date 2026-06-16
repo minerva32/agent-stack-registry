@@ -1,0 +1,28 @@
+name: notebooklm-mcp-cli
+repo: jacob-bd/notebooklm-mcp-cli
+category: mcp-server
+homepage: https://github.com/jacob-bd/notebooklm-mcp-cli
+description: Programmatic access to Google NotebookLM — via command-line interface
+  (CLI), Model Context Protocol (MCP) server, and AI agent skills.
+license: MIT
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 4912
+agent_fit_score: 5.3
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/jacob-bd/notebooklm-mcp-cli
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 6.34
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8

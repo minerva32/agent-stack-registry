@@ -1,0 +1,29 @@
+name: llm
+repo: graniet/llm
+category: agent
+homepage: https://github.com/graniet/llm
+description: A powerful Rust library and CLI tool to unify and orchestrate multiple
+  LLM, Agent and voice backends (OpenAI, Claude, Gemini, Ollama, ElevenLabs...) with
+  a single, extensible API. Build, chain, evalua
+license: MIT
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 356
+agent_fit_score: 5.0
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/graniet/llm
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.936

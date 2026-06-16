@@ -1,0 +1,36 @@
+name: ring
+repo: LerianStudio/ring
+category: tool
+homepage: https://github.com/LerianStudio/ring
+description: 89 skills and 38 specialized agents that enforce proven engineering practices
+  for AI-assisted development. TDD, systematic debugging, parallel code review, and
+  10-gate development cycles — as a Claude
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 196
+agent_fit_score: 5.0
+tags:
+- ai-agents
+- ai-coding
+- claude-code
+- code-quality
+- code-review
+- developer-tools
+- devops
+- finops
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/LerianStudio/ring
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 7
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.984

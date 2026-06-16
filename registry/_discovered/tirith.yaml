@@ -1,0 +1,29 @@
+# Auto-discovered: sheeki03/tirith
+name: tirith
+repo: sheeki03/tirith
+category: agent
+homepage: https://github.com/sheeki03/tirith
+description: Terminal security for developers and AI agents. Intercepts homograph
+  URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and
+  malicious AI skills/configs before they execute.
+license: AGPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2437
+agent_fit_score: 5.0
+tags:
+- cli
+- devtools
+- homograph-attack
+- rust
+- security
+- shell
+- supply-chain-security
+- terminal
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/sheeki03/tirith

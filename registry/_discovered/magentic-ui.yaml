@@ -1,0 +1,35 @@
+name: magentic-ui
+repo: microsoft/magentic-ui
+category: tool
+homepage: https://github.com/microsoft/magentic-ui
+description: MagenticLite is an experimental agent that works across the browser and
+  local file system
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 9906
+agent_fit_score: 5.1
+tags:
+- agents
+- ai
+- ai-ux
+- autogen
+- browser-use
+- computer-use-agent
+- cua
+- fara
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/microsoft/magentic-ui
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.89
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.934

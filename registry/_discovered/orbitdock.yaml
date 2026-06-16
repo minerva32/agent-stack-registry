@@ -1,0 +1,34 @@
+name: OrbitDock
+repo: Robdel12/OrbitDock
+category: tool
+homepage: https://github.com/Robdel12/OrbitDock
+description: Run, review, and orchestrate AI coding agents from anywhere
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 97
+agent_fit_score: 4.1
+tags:
+- agents
+- ai-agents
+- claude
+- codex
+- developer-tools
+- ios
+- ipad
+- macos
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Robdel12/OrbitDock
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.59
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 5.99

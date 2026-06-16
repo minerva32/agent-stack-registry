@@ -1,0 +1,30 @@
+name: whatsapp-mcp
+repo: lharries/whatsapp-mcp
+category: mcp-server
+homepage: https://github.com/lharries/whatsapp-mcp
+description: WhatsApp MCP server
+license: MIT
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 5796
+agent_fit_score: 4.9
+tags:
+- ai
+- mcp
+- whatsapp
+- whatsapp-api
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/lharries/whatsapp-mcp
+score_breakdown:
+  installability: 4
+  automation_readiness: 7
+  extensibility: 6
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 5.08

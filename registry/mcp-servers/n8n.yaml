@@ -1,0 +1,36 @@
+name: n8n
+repo: n8n-io/n8n
+category: mcp-server
+homepage: https://github.com/n8n-io/n8n
+description: Fair-code workflow automation platform with native AI capabilities. Combine
+  visual building with custom code, self-host or cloud, 400+ integrations.
+license: NOASSERTION
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 192788
+agent_fit_score: 7.1
+tags:
+- ai
+- apis
+- automation
+- cli
+- data-flow
+- development
+- integration-framework
+- integrations
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/n8n-io/n8n
+score_breakdown:
+  installability: 9
+  automation_readiness: 10
+  extensibility: 3
+  repo_clarity: 8
+  sandbox_safety: 8
+  reproducibility: 2
+  maintenance: 10

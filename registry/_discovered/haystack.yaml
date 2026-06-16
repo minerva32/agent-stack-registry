@@ -1,0 +1,36 @@
+name: haystack
+repo: deepset-ai/haystack
+category: tool
+homepage: https://github.com/deepset-ai/haystack
+description: Open-source AI orchestration framework for building context-engineered,
+  production-ready LLM applications. Design modular pipelines and agent workflows
+  with explicit control over retrieval, routing, m
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 25585
+agent_fit_score: 4.7
+tags:
+- agent
+- agents
+- ai
+- gemini
+- generative-ai
+- gpt-4
+- information-retrieval
+- large-language-models
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/deepset-ai/haystack
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.782

@@ -1,0 +1,36 @@
+name: cursor-agent
+repo: civai-technologies/cursor-agent
+category: tool
+homepage: https://github.com/civai-technologies/cursor-agent
+description: 'Cursor Agent Tools - A Python-based AI agent that replicates Cursor''s
+  coding assistant capabilities, enabling function calling, code generation, and intelligent
+  coding assistance with Claude, OpenAI, '
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 125
+agent_fit_score: 4.6
+tags:
+- agent
+- ai
+- civai
+- coding
+- cursor
+- cursor-agent-tools
+- framework
+- python
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/civai-technologies/cursor-agent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 3.996

@@ -1,0 +1,23 @@
+# Auto-discovered: browser-use/web-ui
+name: web-ui
+repo: browser-use/web-ui
+category: tool
+homepage: https://github.com/browser-use/web-ui
+description: 🖥️ Run AI Agent in your browser.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 16097
+agent_fit_score: 5.0
+tags:
+- ai-agent
+- browser-automation
+- browser-use-box
+- cloud-browser
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/browser-use/web-ui

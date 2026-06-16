@@ -1,0 +1,26 @@
+name: statewright
+repo: statewright/statewright
+category: safety
+homepage: https://github.com/statewright/statewright
+description: State machine guardrails for AI agents
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 401
+agent_fit_score: 4.1
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/statewright/statewright
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.38
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7

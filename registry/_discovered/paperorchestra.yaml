@@ -1,0 +1,37 @@
+name: PaperOrchestra
+repo: Ar9av/PaperOrchestra
+category: eval
+homepage: https://github.com/Ar9av/PaperOrchestra
+description: An automated AI research-paper writer based off Google's PaperOrchestra
+  paper's implementation through a skills -  benchmark + autoraters using any coding
+  agent (Claude Code, Cursor, Antigravity, Clin
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+- api
+status: active
+last_verified: '2026-06-16'
+stars: 581
+agent_fit_score: 4.1
+tags:
+- agentic-ai
+- ai-research
+- anthropic
+- antigravity
+- arxiv
+- automated-paper-writing
+- claude-code
+- claude-skills
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/Ar9av/PaperOrchestra
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7

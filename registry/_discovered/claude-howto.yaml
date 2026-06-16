@@ -1,0 +1,30 @@
+name: claude-howto
+repo: luongnv89/claude-howto
+category: agent
+homepage: https://github.com/luongnv89/claude-howto
+description: A visual, example-driven guide to Claude Code — from basic concepts to
+  advanced agents, with copy-paste templates that bring immediate value.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 37339
+agent_fit_score: 5.3
+tags:
+- claude-code
+- guide
+- tutorial
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/luongnv89/claude-howto
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 9.41
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 8.958

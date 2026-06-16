@@ -1,0 +1,27 @@
+# Auto-discovered: zerobootdev/zeroboot
+name: zeroboot
+repo: zerobootdev/zeroboot
+category: safety
+homepage: https://github.com/zerobootdev/zeroboot
+description: Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2369
+agent_fit_score: 5.0
+tags:
+- ai-agents
+- code-execution
+- copy-on-write
+- firecracker
+- kvm
+- rust
+- sandbox
+- virtual-machine
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/zerobootdev/zeroboot

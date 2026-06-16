@@ -1,0 +1,28 @@
+# Auto-discovered: bhvbhushan/vibecop
+name: vibecop
+repo: bhvbhushan/vibecop
+category: tool
+homepage: https://github.com/bhvbhushan/vibecop
+description: AI code quality toolkit — deterministic linter for the AI coding era.
+  22 detectors, GitHub Action PR gate, zero LLM required.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 53
+agent_fit_score: 5.0
+tags:
+- ai
+- ai-code-quality
+- ast
+- ast-grep
+- ci-cd
+- code-quality
+- code-review
+- code-smell
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/bhvbhushan/vibecop

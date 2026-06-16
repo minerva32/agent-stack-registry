@@ -1,0 +1,36 @@
+name: AutoHedge
+repo: The-Swarm-Corporation/AutoHedge
+category: tool
+homepage: https://github.com/The-Swarm-Corporation/AutoHedge
+description: Build your autonomous hedge fund in minutes. AutoHedge harnesses the
+  power of swarm intelligence and AI agents to automate market analysis, risk management,
+  and trade execution.
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3395
+agent_fit_score: 5.1
+tags:
+- ai
+- blackrock
+- finance
+- goldmansachs
+- hedgefund
+- jpmorgan
+- ml
+- quant
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/The-Swarm-Corporation/AutoHedge
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.77
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.978

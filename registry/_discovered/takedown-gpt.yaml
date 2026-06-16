@@ -1,0 +1,28 @@
+name: takedown-gpt
+repo: mrwadams/takedown-gpt
+category: tool
+homepage: https://github.com/mrwadams/takedown-gpt
+description: TakedownGPT combines a LangChain Agent with OpenAI function calling to
+  automate the discovery of domain registrars and drafting of takedown requests for
+  malicious / copyright infringing domains.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 49
+agent_fit_score: 4.1
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/mrwadams/takedown-gpt
+score_breakdown:
+  installability: 7
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.96

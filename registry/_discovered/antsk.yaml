@@ -1,0 +1,33 @@
+name: AntSK
+repo: shuyu-labs/AntSK
+category: tool
+homepage: https://github.com/shuyu-labs/AntSK
+description: An AI knowledge base/agent built with .Net 9, AntBlazor, Semantic Kernel,
+  and Kernel Memory, supporting local offline AI large models. It can run offline
+  without an internet connection. Supports Aspir
+license: NOASSERTION
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1321
+agent_fit_score: 3.6
+tags:
+- agnet
+- ai
+- dotnet
+- rag
+- sk
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/shuyu-labs/AntSK
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 5

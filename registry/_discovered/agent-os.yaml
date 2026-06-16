@@ -1,0 +1,35 @@
+name: agent-os
+repo: rivet-dev/agent-os
+category: safety
+homepage: https://github.com/rivet-dev/agent-os
+description: A portable open-source operating system for agents. ~6 ms coldstarts,
+  32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 3013
+agent_fit_score: 5.3
+tags:
+- agent
+- ai
+- javascript
+- llm
+- sandbox
+- v8
+- wasm
+- webassembly
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/rivet-dev/agent-os
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 6.37
+  sandbox_safety: 6
+  reproducibility: 5
+  maintenance: 7.942

@@ -1,0 +1,35 @@
+name: KnowAgent
+repo: zjunlp/KnowAgent
+category: tool
+homepage: https://github.com/zjunlp/KnowAgent
+description: '[NAACL 2025]  KnowAgent: Knowledge-Augmented Planning for LLM-Based
+  Agents'
+license: Apache-2.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 259
+agent_fit_score: 4.1
+tags:
+- agent
+- agent-learning
+- artificial-intelligence
+- knowagent
+- knowledge-augment
+- knowledge-graph
+- large-language-models
+- llm
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/zjunlp/KnowAgent
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.74
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4

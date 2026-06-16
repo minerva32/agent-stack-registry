@@ -1,0 +1,36 @@
+name: solace-agent-mesh
+repo: SolaceLabs/solace-agent-mesh
+category: tool
+homepage: https://github.com/SolaceLabs/solace-agent-mesh
+description: An event-driven framework designed to build and orchestrate multi-agent
+  AI systems. It enables seamless integration of AI agents with real-world data sources
+  and systems, facilitating complex, multi-s
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 4907
+agent_fit_score: 5.6
+tags:
+- a2a
+- agentframework
+- agentic
+- agentic-ai
+- agentic-framework
+- agentic-workflow
+- agenticai
+- agents
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/SolaceLabs/solace-agent-mesh
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 8
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.864

@@ -1,0 +1,28 @@
+# Auto-discovered: trpc-group/trpc-agent-go
+name: trpc-agent-go
+repo: trpc-group/trpc-agent-go
+category: eval
+homepage: https://github.com/trpc-group/trpc-agent-go
+description: A Go framework for building production agent systems with graph workflows,
+  tools, memory, A2A, AG-UI, MCP, evaluation, and observability.
+license: Apache-2.0
+open_source: true
+interface:
+- mcp
+status: active
+last_verified: '2026-06-16'
+stars: 1362
+agent_fit_score: 5.0
+tags:
+- a2a
+- a2a-protocol
+- ag-ui
+- agent
+- agent-framework
+- ai
+- ai-agents
+- evaluation
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/trpc-group/trpc-agent-go

@@ -1,0 +1,34 @@
+name: AI-Agents-Projects-Tutorials
+repo: MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
+category: tool
+homepage: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
+description: Multi-agent systems, memory, planning, reasoning loops
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2706
+agent_fit_score: 3.8
+tags:
+- agent-skills
+- agentic-ai
+- agentic-ai-development
+- agentic-coding
+- agentic-engineering
+- agentic-framework
+- agentic-rag
+- agentic-workflow
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 4.54
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 7.984

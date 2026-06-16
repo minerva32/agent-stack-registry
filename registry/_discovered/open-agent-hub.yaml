@@ -1,0 +1,35 @@
+name: open-agent-hub
+repo: guanyang/open-agent-hub
+category: agent
+homepage: https://github.com/guanyang/open-agent-hub
+description: A lightweight, zero-dependency CLI tool to manage and activate capabilities
+  for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 907
+agent_fit_score: 4.9
+tags:
+- agents
+- ai-agents
+- ai-skills
+- anthropic-skills
+- claude-code
+- cli-tool
+- context-engineering
+- full-stack
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/guanyang/open-agent-hub
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 8.43
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 6.988

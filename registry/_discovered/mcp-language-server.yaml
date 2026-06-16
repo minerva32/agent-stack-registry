@@ -1,0 +1,33 @@
+name: mcp-language-server
+repo: isaacphi/mcp-language-server
+category: mcp-server
+homepage: https://github.com/isaacphi/mcp-language-server
+description: mcp-language-server gives MCP enabled clients access semantic tools like
+  get definition, references, rename, and diagnostics.
+license: BSD-3-Clause
+open_source: true
+interface:
+- mcp
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 1546
+agent_fit_score: 4.9
+tags:
+- ai
+- language-server-protocol
+- mcp
+- mcp-server
+- model-context-protocol
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/isaacphi/mcp-language-server
+score_breakdown:
+  installability: 6
+  automation_readiness: 7
+  extensibility: 3
+  repo_clarity: 6.25
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.876

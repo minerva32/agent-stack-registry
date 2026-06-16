@@ -1,0 +1,28 @@
+name: Husky-v1
+repo: agent-husky/Husky-v1
+category: tool
+homepage: https://github.com/agent-husky/Husky-v1
+description: Code for Husky, an open-source language agent that solves complex, multi-step
+  reasoning tasks. Husky v1 addresses numerical, tabular and knowledge-based reasoning
+  tasks.
+license: unknown
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 347
+agent_fit_score: 3.7
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/agent-husky/Husky-v1
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 5.6899999999999995
+  sandbox_safety: 2
+  reproducibility: 2
+  maintenance: 3.992

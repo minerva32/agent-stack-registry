@@ -1,0 +1,33 @@
+name: nanoclaw
+repo: nanocoai/nanoclaw
+category: tool
+homepage: https://github.com/nanocoai/nanoclaw
+description: A lightweight alternative to OpenClaw that runs in containers for security.
+  Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,,
+  has memory, scheduled jobs, and runs direct
+license: MIT
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 29886
+agent_fit_score: 4.8
+tags:
+- ai-agents
+- ai-assistant
+- claude-code
+- claude-skills
+- openclaw
+notes:
+- Auto-discovered 2026-06-16
+evidence:
+- https://github.com/nanocoai/nanoclaw
+score_breakdown:
+  installability: 6
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 7.536

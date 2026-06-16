@@ -1,0 +1,26 @@
+name: ego-planner-swarm
+repo: ZJU-FAST-Lab/ego-planner-swarm
+category: tool
+homepage: https://github.com/ZJU-FAST-Lab/ego-planner-swarm
+description: An efficient single/multi-agent trajectory planner for multicopters.
+license: GPL-3.0
+open_source: true
+interface:
+- cli
+status: active
+last_verified: '2026-06-16'
+stars: 2075
+agent_fit_score: 4.2
+tags: []
+notes:
+- Auto-scored 2026-06-16
+evidence:
+- https://github.com/ZJU-FAST-Lab/ego-planner-swarm
+score_breakdown:
+  installability: 4
+  automation_readiness: 3
+  extensibility: 3
+  repo_clarity: 7.68
+  sandbox_safety: 2
+  reproducibility: 5
+  maintenance: 4.934
